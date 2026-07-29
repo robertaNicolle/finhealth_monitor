@@ -1,0 +1,998 @@
+transaction_id,customer_id,transaction_date,transaction_type,amount,transaction_fee,status,merchant_category,device_type,country,is_fraud,anomaly_flag,rule_alert,z_score,zscore_alert,if_prediction,if_alert
+38,3980,2024-08-04 10:21:54.380965,Online Purchase,9126.49,45.63,Completed,Subscriptions,Mobile,Turkmenistan,False,False,False,1.1212335421383532,False,-1,True
+133,1393,2025-10-17 07:18:12.442577,Bank Transfer,9250.0,46.25,Completed,Subscriptions,Desktop,Cocos (Keeling) Islands,False,True,False,1.1379500730279273,False,-1,True
+191,4616,2024-11-27 03:26:07.995888,Online Purchase,169643.25,848.22,Completed,Travel,Mobile,Angola,False,True,True,22.846465319600384,True,-1,True
+374,1463,2025-12-17 08:47:13.303710,Card Payment,67111.8,335.56,Completed,Groceries,Mobile,Syrian Arab Republic,False,True,True,8.969288159226231,True,-1,True
+459,3980,2025-07-12 06:44:31.656113,Online Purchase,9724.42,48.62,Failed,Restaurants,Mobile,Mayotte,False,False,False,1.2021607165760748,False,-1,True
+493,753,2025-04-25 10:28:55.693086,Online Purchase,9174.36,45.87,Completed,Subscriptions,Desktop,United States Minor Outlying Islands,False,False,False,1.1277125343955303,False,-1,True
+812,195,2024-07-25 22:44:29.594526,Bank Transfer,9841.59,49.21,Completed,Entertainment,Desktop,Greenland,False,False,False,1.2180191565755194,False,-1,True
+883,1746,2025-10-28 22:56:45.394221,Direct Debit,9848.65,49.24,Completed,Groceries,Mobile,Belize,False,False,False,1.2189746962733607,False,-1,True
+924,4295,2024-06-23 14:17:35.934474,ATM Withdrawal,9020.87,45.1,Completed,Entertainment,Desktop,Sao Tome and Principe,False,False,False,1.106938343429287,False,-1,True
+1077,4615,2025-11-01 05:03:46.233322,Bank Transfer,10730.24,53.65,Completed,Subscriptions,Mobile,Armenia,False,True,False,1.3382939940382343,False,-1,True
+1201,1717,2025-03-21 19:04:05.998122,Card Payment,9886.44,49.43,Completed,Healthcare,Mobile,Ukraine,False,False,False,1.2240894052225715,False,-1,True
+1335,2104,2025-05-09 18:14:04.528132,ATM Withdrawal,25093.12,125.47,Completed,Entertainment,Mobile,Niue,False,True,True,3.2822461208558567,True,-1,True
+1350,1017,2024-12-03 18:55:37.423815,Card Payment,29353.72,146.77,Completed,Entertainment,Mobile,Malawi,False,True,True,3.8588994404908576,True,-1,True
+1421,888,2024-06-16 15:44:23.676340,Card Payment,9164.72,45.82,Completed,Healthcare,Mobile,Austria,False,False,False,1.126407803136721,False,-1,True
+1739,4436,2024-06-24 17:06:46.685319,Card Payment,9939.36,49.7,Completed,Groceries,Mobile,Jordan,False,False,False,1.231251892589394,False,-1,True
+1906,3939,2025-11-24 20:44:17.685805,Direct Debit,9327.36,46.64,Completed,Utilities,Mobile,Antarctica (the territory South of 60 deg S),False,False,False,1.148420406034303,False,-1,True
+1993,228,2024-09-29 16:44:19.651321,Online Purchase,11135.42,55.68,Failed,Subscriptions,Tablet,South Georgia and the South Sandwich Islands,False,True,False,1.39313331057809,False,-1,True
+2114,3858,2025-10-06 10:11:06.822118,ATM Withdrawal,9739.24,48.7,Completed,Healthcare,Tablet,Vietnam,False,False,False,1.204166537868144,False,-1,True
+2215,3494,2025-02-08 15:17:20.069912,Online Purchase,9029.45,45.15,Completed,Groceries,Mobile,Bermuda,False,False,False,1.1080996083878534,False,-1,True
+2271,2326,2025-12-27 04:16:12.870733,Online Purchase,8912.08,44.56,Completed,Groceries,Mobile,Turkmenistan,True,True,False,1.0922140992751557,False,-1,True
+2293,1767,2026-05-11 00:14:57.931724,Online Purchase,9343.89,46.72,Completed,Restaurants,Mobile,Panama,True,False,False,1.1506576682446878,False,-1,True
+2460,3378,2024-12-08 14:33:20.535708,Card Payment,9790.55,48.95,Completed,Subscriptions,Desktop,Saudi Arabia,False,False,False,1.2111111188732777,False,-1,True
+2483,2548,2025-01-06 06:14:07.832499,Direct Debit,9390.62,46.95,Completed,Shopping,Desktop,Korea,False,False,False,1.156982366556321,False,-1,True
+2615,1489,2024-09-06 10:35:58.830466,Card Payment,9906.71,49.53,Pending,Restaurants,Mobile,Libyan Arab Jamahiriya,False,False,False,1.226832859850793,False,-1,True
+2840,396,2025-09-27 12:36:37.524341,Bank Transfer,9581.46,47.91,Completed,Shopping,Mobile,Tokelau,False,False,False,1.1828117144226176,False,-1,True
+2897,2043,2025-02-18 11:07:05.959144,Bank Transfer,9806.16,49.03,Completed,Utilities,Mobile,Guadeloupe,False,True,False,1.2132238631626977,False,-1,True
+2906,4654,2025-02-17 16:12:26.668517,Card Payment,9505.7,47.53,Completed,Restaurants,Desktop,Bahamas,False,False,False,1.1725579343222685,False,-1,True
+2911,4844,2026-05-07 10:43:15.250622,Online Purchase,17843.72,89.22,Completed,Healthcare,Mobile,Saint Pierre and Miquelon,False,True,False,2.301071972763575,False,-1,True
+3142,4763,2025-09-10 09:32:06.707233,ATM Withdrawal,9024.57,45.12,Completed,Shopping,Desktop,Antarctica (the territory South of 60 deg S),False,False,False,1.1074391220244728,False,-1,True
+3250,1784,2025-03-04 05:48:12.471975,Bank Transfer,512237.37,2561.19,Completed,Shopping,Mobile,Aruba,False,True,True,69.2150604905697,True,-1,True
+3349,1775,2026-01-17 08:45:51.389356,Online Purchase,56127.88,280.64,Completed,Restaurants,Mobile,Algeria,False,True,True,7.482663287000422,True,-1,True
+3460,3219,2025-10-06 04:07:14.071212,Card Payment,9272.29,46.36,Completed,Restaurants,Mobile,Panama,False,False,False,1.1409669257000075,False,-1,True
+3537,626,2025-05-21 00:20:59.786346,Card Payment,9831.95,49.16,Completed,Groceries,Mobile,Barbados,False,False,False,1.2167144253167104,False,-1,True
+3857,4399,2026-04-02 08:41:01.997635,Bank Transfer,9708.68,48.54,Completed,Groceries,Desktop,Hong Kong,False,False,False,1.2000303773630403,False,-1,True
+3918,3187,2025-05-08 11:34:51.272516,Bank Transfer,9424.1,47.12,Completed,Groceries,Tablet,Singapore,False,False,False,1.161513736114923,False,-1,True
+3960,2837,2026-01-31 02:23:17.161220,Card Payment,9912.85,49.56,Completed,Entertainment,Mobile,Hong Kong,False,False,False,1.2276638816276693,False,-1,True
+3984,4685,2025-08-02 20:15:28.385908,Online Purchase,9582.42,47.91,Completed,Subscriptions,Mobile,Anguilla,False,False,False,1.1829416461662334,False,-1,True
+4050,2321,2024-09-22 09:38:11.663303,Bank Transfer,9708.62,48.54,Completed,Healthcare,Mobile,Samoa,False,False,False,1.2000222566290644,False,-1,True
+4076,4968,2025-07-15 17:27:42.386708,ATM Withdrawal,9716.69,48.58,Completed,Subscriptions,Mobile,Rwanda,False,False,False,1.2011144953488349,False,-1,True
+4402,3985,2024-08-03 21:49:10.742937,Bank Transfer,49972.03,249.86,Completed,Groceries,Desktop,Ukraine,False,True,True,6.649496282898859,True,-1,True
+4417,3085,2024-11-21 03:37:25.945146,Card Payment,16410.4,82.05,Completed,Restaurants,Desktop,Ireland,False,True,False,2.1070784657224917,False,-1,True
+4534,4140,2024-12-30 12:11:05.050542,Card Payment,62057.7,310.29,Completed,Restaurants,Mobile,San Marino,True,True,True,8.28523813275877,True,-1,True
+4615,4320,2026-06-01 19:02:40.263531,Card Payment,9752.81,48.76,Completed,Healthcare,Mobile,Antarctica (the territory South of 60 deg S),False,False,False,1.2060031772023805,False,-1,True
+4824,3347,2024-07-16 13:13:48.768565,Online Purchase,39228.8,196.14,Completed,Groceries,Desktop,Bahrain,False,True,True,5.195447735017733,True,-1,True
+4973,3821,2026-02-23 20:42:39.926053,Bank Transfer,63477.32,317.39,Completed,Entertainment,Mobile,Australia,False,True,True,8.477377405542004,True,-1,True
+5113,2713,2026-01-01 14:14:42.321921,Card Payment,9518.74,47.59,Completed,Entertainment,Mobile,Cayman Islands,False,False,False,1.1743228405063835,False,-1,True
+5121,181,2026-03-20 20:20:42.226635,ATM Withdrawal,9043.12,45.22,Completed,Subscriptions,Tablet,Liechtenstein,False,False,False,1.1099497822787163,False,-1,True
+5138,547,2024-11-07 03:23:22.651506,Bank Transfer,14307.8,71.54,Completed,Groceries,Mobile,Peru,False,True,False,1.8225008780905727,False,-1,True
+5157,3015,2026-03-23 03:11:41.466976,Card Payment,18870.12,94.35,Completed,Restaurants,Desktop,Cape Verde,False,True,False,2.4399906619794987,False,-1,True
+5197,4763,2025-10-30 13:24:42.547100,Bank Transfer,9124.31,45.62,Completed,Restaurants,Mobile,El Salvador,False,False,False,1.1209384888038925,False,-1,True
+5348,2486,2024-10-17 21:20:03.073556,Direct Debit,379936.69,1899.68,Completed,Entertainment,Mobile,Andorra,False,True,True,51.30875003852821,True,-1,True
+5537,4752,2025-02-16 23:34:44.116093,Bank Transfer,14168.57,70.84,Completed,Utilities,Mobile,French Guiana,False,True,False,1.8036567148992897,False,-1,True
+5763,641,2025-03-09 16:33:55.345413,Online Purchase,400147.3,2000.74,Completed,Healthcare,Desktop,Faroe Islands,False,True,True,54.044166493569364,True,-1,True
+5876,4496,2026-01-08 22:29:20.595109,Online Purchase,22131.72,110.66,Pending,Restaurants,Mobile,Syrian Arab Republic,False,True,True,2.8814337609142777,False,-1,True
+6014,4253,2025-06-30 18:42:49.199979,Online Purchase,10532.2,52.66,Completed,Subscriptions,Tablet,Heard Island and McDonald Islands,False,True,False,1.311490158094819,False,-1,True
+6143,4856,2024-07-25 17:19:30.156263,Bank Transfer,76525.14,382.63,Failed,Entertainment,Mobile,Saint Vincent and the Grenadines,False,True,True,10.243341991985218,True,-1,True
+6196,1784,2025-12-21 07:24:16.742045,Online Purchase,9955.59,49.78,Completed,Shopping,Desktop,Kyrgyz Republic,False,False,False,1.233448551129899,False,-1,True
+6245,3143,2025-05-16 23:26:47.378638,Bank Transfer,9624.85,48.12,Completed,Utilities,Mobile,Switzerland,False,False,False,1.1886843585429205,False,-1,True
+6273,3654,2025-01-03 04:07:21.178952,Direct Debit,9036.14,45.18,Completed,Groceries,Mobile,Oman,False,False,False,1.109005070226176,False,-1,True
+6376,3149,2025-10-11 10:42:15.657986,Card Payment,9163.3,45.82,Completed,Restaurants,Desktop,Kuwait,False,False,False,1.1262156124326228,False,-1,True
+6435,1049,2025-03-16 19:37:35.091710,Card Payment,9355.43,46.78,Completed,Shopping,Mobile,Zambia,False,False,False,1.1522195560794033,False,-1,True
+6489,2479,2025-05-02 19:51:45.378478,Online Purchase,17234.91,86.17,Completed,Travel,Desktop,North Macedonia,False,True,False,2.218672238564874,False,-1,True
+6573,4013,2025-03-26 07:35:42.236051,Card Payment,13671.98,68.36,Completed,Shopping,Desktop,Antigua and Barbuda,False,True,False,1.736445460147014,False,-1,True
+6755,3838,2026-03-31 00:38:32.507727,Card Payment,34268.42,171.34,Completed,Entertainment,Mobile,Algeria,False,True,True,4.524082295020768,True,-1,True
+6779,4283,2025-11-15 01:26:15.482668,Online Purchase,15296.94,76.48,Completed,Groceries,Desktop,Serbia,False,True,False,1.9563765915074074,False,-1,True
+6876,2542,2026-06-10 08:59:43.261022,Bank Transfer,9792.89,48.96,Completed,Restaurants,Mobile,Peru,False,False,False,1.2114278274983412,False,-1,True
+6984,118,2025-03-23 17:50:42.485434,Bank Transfer,9360.83,46.8,Completed,Entertainment,Mobile,Jersey,False,False,False,1.1529504221372422,False,-1,True
+7093,4206,2024-09-14 22:37:41.108504,Online Purchase,60666.66,303.33,Completed,Utilities,Mobile,Bolivia,False,True,True,8.096967036259436,True,-1,True
+7555,3405,2025-12-29 13:42:21.798112,Card Payment,8921.13,44.61,Completed,Subscriptions,Mobile,Antigua and Barbuda,False,False,False,1.0934389766498671,False,-1,True
+7579,3494,2026-05-12 07:16:13.398319,Online Purchase,9758.32,48.79,Completed,Entertainment,Desktop,Gibraltar,False,False,False,1.2067489312725088,False,-1,True
+7804,2516,2026-06-01 22:35:26.276877,Card Payment,9306.0,46.53,Completed,Healthcare,Mobile,Kenya,False,False,False,1.1455294247388508,False,-1,True
+7836,2672,2026-06-04 06:22:47.692704,Card Payment,12039.05,60.2,Completed,Utilities,Mobile,Japan,False,True,False,1.515435624623477,False,-1,True
+7847,3768,2026-04-27 16:25:52.460098,Online Purchase,9729.42,48.65,Completed,Shopping,Mobile,Cook Islands,False,False,False,1.2028374444074073,False,-1,True
+7914,312,2024-12-03 20:11:39.898422,Online Purchase,32355.54,161.78,Completed,Subscriptions,Mobile,Sweden,False,True,True,4.265182468220928,True,-1,True
+8042,1374,2024-08-29 11:08:26.376189,Online Purchase,9546.62,47.73,Completed,Subscriptions,Mobile,Mauritania,False,False,False,1.1780962748938932,False,-1,True
+8150,3405,2024-10-13 06:46:50.084095,Direct Debit,9312.63,46.56,Completed,Groceries,Mobile,Falkland Islands (Malvinas),False,False,False,1.1464267658431975,False,-1,True
+8166,2001,2025-10-20 03:07:01.687279,Card Payment,22291.68,111.46,Completed,Shopping,Mobile,Uruguay,False,True,True,2.903083637694265,False,-1,True
+8201,2434,2024-12-31 10:20:59.086411,Card Payment,11382.36,56.91,Completed,Utilities,Mobile,Brazil,False,True,False,1.426555544711937,False,-1,True
+8313,448,2025-02-04 16:30:50.684224,Card Payment,22059.76,110.3,Completed,Travel,Mobile,Belize,False,True,True,2.871694293965741,False,-1,True
+8315,2160,2025-08-02 05:17:47.000782,Online Purchase,12050.11,60.25,Completed,Healthcare,Mobile,Tuvalu,False,True,False,1.5169325465863845,False,-1,True
+8337,1970,2026-04-10 19:51:27.129764,Card Payment,9032.69,45.16,Completed,Restaurants,Mobile,Anguilla,False,False,False,1.1085381280225568,False,-1,True
+8637,404,2024-09-16 04:31:25.927106,Online Purchase,9333.34,46.67,Completed,Restaurants,Desktop,Botswana,False,False,False,1.1492297725205765,False,-1,True
+8687,4716,2025-12-03 05:31:11.247171,Direct Debit,104960.98,524.8,Completed,Travel,Mobile,Faroe Islands,False,True,True,14.092006859048482,True,-1,True
+8722,522,2025-11-05 19:00:41.321862,Bank Transfer,16018.2,80.09,Completed,Shopping,Mobile,Sri Lanka,False,True,False,2.0539959346327747,False,-1,True
+8772,3323,2025-08-17 19:44:40.166692,Online Purchase,9294.06,46.47,Completed,Travel,Desktop,Aruba,False,False,False,1.1439133986776289,False,-1,True
+8799,2899,2024-12-11 19:55:14.119835,Card Payment,9611.85,48.06,Completed,Utilities,Mobile,Panama,False,False,False,1.1869248661814562,False,-1,True
+8882,1248,2025-10-11 22:49:23.622757,Bank Transfer,14364.48,71.82,Completed,Healthcare,Mobile,Somalia,False,True,False,1.8301722647865575,False,-1,True
+8908,2989,2026-01-05 05:11:54.578267,Online Purchase,12755.4,63.78,Completed,Healthcare,Tablet,Samoa,False,True,False,1.612390421018476,False,-1,True
+9003,3768,2026-06-06 09:28:17.807325,Card Payment,9042.43,45.21,Completed,Shopping,Mobile,Austria,False,False,False,1.1098563938379924,False,-1,True
+9033,3494,2024-09-08 00:59:43.492933,Bank Transfer,8934.87,44.67,Completed,Entertainment,Mobile,Madagascar,False,False,False,1.0952986247303689,False,-1,True
+9172,545,2025-04-13 14:41:19.365892,Bank Transfer,30513.45,152.57,Completed,Utilities,Mobile,Tuvalu,False,True,True,4.015863754057093,True,-1,True
+9186,3718,2026-03-04 21:16:48.891937,Online Purchase,10534.4,52.67,Completed,Healthcare,Desktop,Saint Vincent and the Grenadines,False,True,False,1.3117879183406052,False,-1,True
+9194,3515,2024-07-07 22:43:27.824193,Card Payment,9594.6,47.97,Completed,Utilities,Mobile,Malaysia,False,False,False,1.1845901551633593,False,-1,True
+9197,1510,2025-01-15 04:34:33.335697,Card Payment,15507.8,77.54,Completed,Restaurants,Tablet,Indonesia,False,True,False,1.984915557610359,False,-1,True
+9269,85,2025-07-03 01:59:37.684666,Card Payment,9255.37,46.28,Completed,Restaurants,Mobile,Poland,False,False,False,1.1386768787187784,False,-1,True
+9394,2992,2025-04-26 03:36:47.023469,Online Purchase,92112.0,460.56,Completed,Travel,Mobile,Romania,False,True,True,12.352954385001697,True,-1,True
+9501,63,2024-10-13 21:25:02.690716,Bank Transfer,74748.96,373.74,Completed,Shopping,Tablet,Luxembourg,False,True,True,10.002943904094007,True,-1,True
+9542,2753,2025-05-29 06:28:30.435831,Card Payment,9944.82,49.72,Completed,Groceries,Desktop,Morocco,False,False,False,1.2319908793812089,False,-1,True
+9695,4059,2024-11-23 01:15:10.587155,Card Payment,9860.16,49.3,Completed,Entertainment,Mobile,El Salvador,False,True,False,1.220532523741088,False,-1,True
+9813,888,2025-09-07 06:20:46.559786,Direct Debit,8952.68,44.76,Completed,Subscriptions,Desktop,Colombia,False,False,False,1.097709129265575,False,-1,True
+10186,2087,2024-07-03 13:06:27.424355,Bank Transfer,10016.71,50.08,Completed,Shopping,Mobile,Spain,False,True,False,1.2417208721401067,False,-1,True
+10650,316,2025-05-11 03:49:19.779079,Online Purchase,9978.15,49.89,Completed,Restaurants,Desktop,Monaco,False,True,False,1.2365019471048708,False,-1,True
+10704,3618,2024-11-24 19:55:45.779711,ATM Withdrawal,34283.04,171.42,Failed,Entertainment,Mobile,Senegal,False,True,True,4.526061047199584,True,-1,True
+10836,1695,2025-10-04 21:39:48.861758,Card Payment,9991.32,49.96,Completed,Restaurants,Mobile,Falkland Islands (Malvinas),False,False,False,1.2382844482126005,False,-1,True
+10851,1653,2026-01-08 22:52:54.673161,Bank Transfer,11869.2,59.35,Completed,Entertainment,Mobile,Georgia,False,True,False,1.492447180193114,False,-1,True
+10877,2057,2026-02-16 03:07:01.652635,Direct Debit,11485.65,57.43,Completed,Subscriptions,Mobile,Montenegro,False,True,False,1.4405353882516023,False,-1,True
+10888,2761,2025-04-19 04:30:32.422716,Online Purchase,20062.48,100.31,Pending,Shopping,Mobile,Serbia,False,True,True,2.6013713013730086,False,-1,True
+10916,2324,2025-05-13 10:24:17.005760,Card Payment,9903.55,49.52,Completed,Shopping,Mobile,Ghana,False,True,False,1.2264051678613908,False,-1,True
+10964,1182,2024-07-27 14:23:51.545247,ATM Withdrawal,9486.46,47.43,Completed,Restaurants,Mobile,Norfolk Island,False,False,False,1.169953885627301,False,-1,True
+11136,4763,2025-12-16 12:33:28.645593,Bank Transfer,9278.72,46.39,Completed,Subscriptions,Desktop,Korea,False,False,False,1.1418371976911008,False,-1,True
+11188,3277,2025-09-09 22:44:46.307931,Card Payment,13963.8,69.82,Completed,Travel,Desktop,Bermuda,False,True,False,1.7759420032949007,False,-1,True
+11409,3198,2026-03-24 16:33:43.191060,Bank Transfer,9650.73,48.25,Completed,Shopping,Desktop,Benin,False,False,False,1.1921871017978973,False,-1,True
+11459,3517,2025-03-03 20:44:25.353364,Online Purchase,9039.23,45.2,Completed,Travel,Mobile,Latvia,False,False,False,1.1094232880259396,False,-1,True
+11507,4713,2025-12-27 13:20:28.839896,Card Payment,38107.08,190.54,Completed,Shopping,Mobile,Ethiopia,False,True,True,5.043627906425287,True,-1,True
+11554,2344,2024-11-02 19:53:59.673527,ATM Withdrawal,12699.0,63.5,Completed,Restaurants,Mobile,Thailand,False,True,False,1.6047569310810461,False,-1,True
+11674,4763,2024-10-07 04:03:38.782017,Card Payment,9779.73,48.9,Completed,Healthcare,Mobile,Sudan,False,False,False,1.2096466798462742,False,-1,True
+11802,3278,2025-07-15 14:48:50.114949,Card Payment,9895.95,49.48,Completed,Shopping,Mobile,Russian Federation,False,False,False,1.2253765415577658,False,-1,True
+11875,4052,2025-12-27 02:28:11.320472,Bank Transfer,9719.86,48.6,Completed,Travel,Mobile,Macao,False,False,False,1.2015435407938997,False,-1,True
+11966,1049,2025-05-21 01:24:07.926555,ATM Withdrawal,9725.57,48.63,Completed,Entertainment,Mobile,Cyprus,False,False,False,1.2023163639772814,False,-1,True
+12038,1703,2025-11-18 17:39:37.065170,Card Payment,9942.85,49.71,Completed,Utilities,Mobile,Bosnia and Herzegovina,False,False,False,1.2317242486156639,False,-1,True
+12310,4532,2025-12-30 00:57:16.590712,Bank Transfer,9444.33,47.22,Completed,Restaurants,Tablet,Togo,False,False,False,1.164251776920494,False,-1,True
+12441,4845,2025-12-09 03:02:55.035730,Bank Transfer,9392.46,46.96,Completed,Subscriptions,Mobile,Belgium,False,False,False,1.1572314023982513,False,-1,True
+12688,3055,2024-06-26 16:59:34.671828,Online Purchase,398914.76,1994.57,Completed,Utilities,Desktop,Gabon,False,True,True,53.877347669323264,True,-1,True
+12909,1606,2026-05-04 22:23:12.326557,Online Purchase,9305.08,46.53,Completed,Groceries,Mobile,Cambodia,False,False,False,1.1454049068178855,False,-1,True
+12930,2360,2024-10-07 03:31:03.804730,Bank Transfer,9172.43,45.86,Completed,Subscriptions,Mobile,Cuba,False,False,False,1.127451317452636,False,-1,True
+12987,3684,2025-12-24 21:06:09.126905,Online Purchase,12955.8,64.78,Completed,Entertainment,Desktop,Saint Kitts and Nevis,False,True,False,1.6395136724982804,False,-1,True
+13029,184,2025-04-13 09:12:03.148039,Online Purchase,10722.05,53.61,Completed,Groceries,Desktop,Nepal,False,True,False,1.3371855138505118,False,-1,True
+13062,1717,2025-02-12 22:36:47.555596,Direct Debit,9312.62,46.56,Completed,Subscriptions,Mobile,Turkmenistan,False,False,False,1.146425412387535,False,-1,True
+13085,4349,2025-07-06 12:50:11.106715,Card Payment,9880.96,49.4,Completed,Subscriptions,Desktop,Georgia,False,True,False,1.223347711519431,False,-1,True
+13172,3010,2025-07-07 04:37:16.936785,ATM Withdrawal,13900.28,69.5,Completed,Restaurants,Mobile,Mexico,False,True,False,1.7673448529256537,False,-1,True
+13629,1984,2025-08-12 11:53:02.302622,Direct Debit,9305.59,46.53,Completed,Utilities,Mobile,Reunion,True,False,False,1.1454739330566814,False,-1,True
+13993,963,2026-05-04 12:58:35.465691,Bank Transfer,29650.66,148.25,Completed,Restaurants,Mobile,Falkland Islands (Malvinas),False,True,True,3.899088952938029,True,-1,True
+14087,433,2025-11-30 18:19:51.171978,Online Purchase,9471.67,47.36,Completed,Utilities,Desktop,Gibraltar,False,False,False,1.16795212470222,False,-1,True
+14156,673,2024-09-16 15:09:03.893847,Card Payment,12062.14,60.31,Completed,Travel,Mobile,Bahamas,False,True,False,1.5185607537485704,False,-1,True
+14324,3014,2024-10-19 07:08:32.629908,Card Payment,9583.41,47.92,Completed,Entertainment,Mobile,Lao People's Democratic Republic,False,False,False,1.1830756382768373,False,-1,True
+14343,1703,2025-04-02 09:20:14.223505,Bank Transfer,15604.26,78.02,Completed,Travel,Mobile,Cameroon,False,True,False,1.9979709909324246,False,-1,True
+14357,4721,2025-01-18 04:11:47.957890,Direct Debit,9448.3,47.24,Completed,Groceries,Mobile,New Caledonia,False,False,False,1.1647890988185718,False,-1,True
+14600,2827,2025-07-29 14:29:16.670554,Card Payment,12660.11,63.3,Completed,Subscriptions,Desktop,Djibouti,False,True,False,1.5994933420089426,False,-1,True
+14785,2996,2025-07-01 13:02:06.799189,Online Purchase,9385.21,46.93,Completed,Shopping,Desktop,Burundi,False,False,False,1.1562501470428193,False,-1,True
+14947,3436,2026-02-03 04:53:11.179686,Direct Debit,9969.5,49.85,Completed,Entertainment,Mobile,United States Minor Outlying Islands,False,False,False,1.2353312079566658,False,-1,True
+15057,903,2025-01-21 20:40:50.935913,ATM Withdrawal,9797.84,48.99,Failed,Groceries,Tablet,Bosnia and Herzegovina,False,False,False,1.2120977880513604,False,-1,True
+15202,1316,2025-09-21 08:50:00.859657,Online Purchase,11016.0,55.08,Completed,Healthcare,Mobile,Mali,False,True,False,1.3769703430545461,False,-1,True
+15262,613,2025-12-05 17:46:31.977317,Direct Debit,67790.72,338.95,Completed,Healthcare,Desktop,Ghana,False,True,True,9.061176971075875,True,-1,True
+15397,1767,2025-12-14 17:03:12.506010,ATM Withdrawal,9422.2,47.11,Completed,Healthcare,Mobile,Anguilla,False,False,False,1.1612565795390168,False,-1,True
+15589,2975,2026-05-11 08:52:32.768781,Card Payment,9568.36,47.84,Completed,Travel,Mobile,Papua New Guinea,False,False,False,1.1810386875045267,False,-1,True
+15689,3726,2026-05-30 19:24:27.913110,Card Payment,74220.52,371.1,Completed,Restaurants,Tablet,Kenya,False,True,True,9.931421893056143,True,-1,True
+15766,314,2025-04-02 00:18:50.228221,Direct Debit,9131.19,45.66,Completed,Utilities,Mobile,United States Minor Outlying Islands,False,False,False,1.121869666299806,False,-1,True
+16020,3598,2024-12-29 09:06:10.067672,Online Purchase,37649.7,188.25,Completed,Subscriptions,Mobile,Svalbard & Jan Mayen Islands,False,True,True,4.98172355132632,True,-1,True
+16068,2837,2026-02-15 02:21:41.537618,Online Purchase,9455.5,47.28,Completed,Restaurants,Desktop,Canada,False,False,False,1.1657635868956908,False,-1,True
+16143,1442,2025-11-19 08:55:25.787165,Bank Transfer,55564.74,277.82,Completed,Healthcare,Desktop,Iran,False,True,True,7.406444784813112,True,-1,True
+16297,3115,2025-08-18 22:23:32.918150,Card Payment,13224.19,66.12,Completed,Subscriptions,Desktop,Kazakhstan,False,True,False,1.6758390690285434,False,-1,True
+16542,4977,2024-08-23 17:59:59.228856,Card Payment,55502.83,277.51,Completed,Shopping,Mobile,Vietnam,False,True,True,7.398065540805554,True,-1,True
+16585,3405,2025-04-18 00:05:19.946287,Online Purchase,9791.45,48.96,Completed,Healthcare,Mobile,Solomon Islands,False,False,False,1.2112329298829176,False,-1,True
+16629,3517,2026-05-27 10:34:48.586113,Card Payment,9702.71,48.51,Completed,Subscriptions,Mobile,Svalbard & Jan Mayen Islands,False,False,False,1.1992223643324293,False,-1,True
+17083,3880,2025-05-18 20:06:48.899956,Card Payment,9505.63,47.53,Completed,Utilities,Desktop,Saint Martin,False,False,False,1.1725484601326297,False,-1,True
+17092,1274,2026-06-07 08:18:37.861941,Card Payment,11828.4,59.14,Completed,Entertainment,Mobile,Fiji,False,True,False,1.4869250810894412,False,-1,True
+17398,3379,2025-01-05 11:27:03.623220,Bank Transfer,9807.43,49.04,Completed,Healthcare,Mobile,Mali,False,False,False,1.2133957520318561,False,-1,True
+17478,3455,2024-07-06 03:37:13.863425,Bank Transfer,21397.74,106.99,Completed,Restaurants,Mobile,Cambodia,False,True,True,2.7820928221860006,False,-1,True
+17484,2919,2026-05-31 02:50:14.570153,Online Purchase,9879.99,49.4,Completed,Restaurants,Mobile,Jamaica,False,False,False,1.2232164263201524,False,-1,True
+17594,2778,2024-10-17 00:21:55.779072,Online Purchase,9881.97,49.41,Completed,Healthcare,Mobile,Equatorial Guinea,False,False,False,1.22348441054136,False,-1,True
+17665,4166,2025-03-13 14:59:29.970984,Online Purchase,9441.06,47.21,Completed,Entertainment,Desktop,Sao Tome and Principe,False,False,False,1.1638091969188027,False,-1,True
+17721,869,2026-01-31 05:17:37.735738,Bank Transfer,8930.86,44.65,Completed,Restaurants,Mobile,Burundi,False,False,False,1.0947558890096403,False,-1,True
+18228,349,2025-03-12 20:09:40.363966,Card Payment,9236.02,46.18,Completed,Restaurants,Mobile,Cambodia,False,False,False,1.136057942011522,False,-1,True
+18308,2753,2025-04-14 09:00:00.830769,Bank Transfer,9823.59,49.12,Completed,Shopping,Mobile,British Virgin Islands,False,False,False,1.2155829363827226,False,-1,True
+18314,1905,2024-09-14 00:32:51.903148,Bank Transfer,9139.31,45.7,Completed,Subscriptions,Mobile,Lao People's Democratic Republic,False,False,False,1.1229686722978898,False,-1,True
+18399,2884,2024-10-10 21:59:06.696980,Bank Transfer,11218.48,56.09,Completed,Utilities,Mobile,Nigeria,False,True,False,1.4043751133121847,False,-1,True
+18429,3724,2024-06-20 10:15:20.822776,Online Purchase,9606.96,48.03,Completed,Travel,Mobile,Hong Kong,False,False,False,1.186263026362413,False,-1,True
+18610,4424,2026-03-22 15:01:25.912624,ATM Withdrawal,22220.64,111.1,Completed,Shopping,Mobile,British Indian Ocean Territory (Chagos Archipelago),False,True,True,2.893468688666694,False,-1,True
+18636,4604,2025-01-28 09:37:52.395641,Card Payment,73040.4,365.2,Completed,Shopping,Mobile,China,False,True,True,9.771697883393735,True,-1,True
+18722,3598,2026-04-20 06:04:22.932431,Bank Transfer,31674.3,158.37,Completed,Utilities,Desktop,Estonia,False,True,True,4.172979654657546,True,-1,True
+18779,2486,2024-11-30 00:14:52.663869,ATM Withdrawal,8953.45,44.77,Completed,Subscriptions,Mobile,Ethiopia,False,False,False,1.0978133453516004,False,-1,True
+18816,3914,2025-12-05 09:30:13.319347,Online Purchase,22073.52,110.37,Completed,Entertainment,Desktop,San Marino,False,True,True,2.873556648957568,False,-1,True
+18942,4628,2025-09-22 13:50:17.950251,Card Payment,9958.06,49.79,Completed,Shopping,Mobile,Antarctica (the territory South of 60 deg S),False,False,False,1.2337828546785772,False,-1,True
+19180,504,2025-08-26 11:25:46.405256,Card Payment,404487.04,2022.44,Completed,Subscriptions,Mobile,Samoa,False,True,True,54.63153106131869,True,-1,True
+19282,35,2025-05-23 13:31:19.796105,Card Payment,10445.25,52.23,Completed,Entertainment,Mobile,Bahamas,False,True,False,1.2997218611079477,False,-1,True
+19297,4834,2025-03-19 14:02:32.609783,Card Payment,9940.78,49.7,Completed,Subscriptions,Mobile,Oman,False,False,False,1.2314440832934923,False,-1,True
+19344,3258,2026-05-03 11:40:56.873891,Card Payment,8954.12,44.77,Completed,Utilities,Mobile,Cocos (Keeling) Islands,False,False,False,1.0979040268809988,False,-1,True
+19359,3539,2024-08-18 13:01:41.816577,Card Payment,16308.24,81.54,Completed,Subscriptions,Mobile,Senegal,False,True,False,2.093251562672707,False,-1,True
+19387,4500,2024-11-17 08:41:04.866305,ATM Withdrawal,9797.16,48.99,Completed,Utilities,Mobile,Croatia,False,False,False,1.212005753066299,False,-1,True
+19474,1690,2025-05-28 17:39:03.651860,Card Payment,38842.7,194.21,Completed,Subscriptions,Mobile,Equatorial Guinea,False,True,True,5.14319081188224,True,-1,True
+19676,913,2025-06-16 14:12:51.511354,ATM Withdrawal,9452.74,47.26,Completed,Utilities,Desktop,Angola,False,False,False,1.1653900331327953,False,-1,True
+19757,1307,2025-04-22 00:30:26.390509,Online Purchase,35926.8,179.63,Completed,Travel,Desktop,Cayman Islands,False,True,True,4.748536675205788,True,-1,True
+19840,76,2025-03-11 22:09:08.506016,Online Purchase,9948.95,49.74,Completed,Groceries,Mobile,Pakistan,False,False,False,1.2325498565698896,False,-1,True
+19969,1722,2026-06-12 05:03:53.906338,Card Payment,12270.96,61.35,Completed,Groceries,Mobile,Guinea,True,True,False,1.5468236148963384,False,-1,True
+20009,3177,2026-04-30 06:21:19.281555,Card Payment,20190.98,100.95,Completed,Subscriptions,Mobile,Ghana,False,True,True,2.6187632066382527,False,-1,True
+20084,1337,2025-11-28 06:56:10.874887,Direct Debit,36357.3,181.79,Completed,Subscriptions,Mobile,Burkina Faso,False,True,True,4.806802941483511,True,-1,True
+20100,2919,2026-01-12 07:35:48.197970,Card Payment,9285.42,46.43,Completed,Travel,Mobile,Sierra Leone,False,False,False,1.1427440129850863,False,-1,True
+20301,4681,2025-01-31 14:53:41.048823,Card Payment,9475.51,47.38,Completed,Restaurants,Mobile,Somalia,False,False,False,1.1684718516766832,False,-1,True
+20443,85,2025-07-09 16:31:27.190959,Online Purchase,9884.92,49.42,Completed,Groceries,Mobile,Cape Verde,False,False,False,1.2238836799618462,False,-1,True
+20508,4811,2026-05-26 12:12:06.112347,Card Payment,20212.86,101.06,Pending,Groceries,Desktop,Pakistan,False,True,True,2.6217245676281635,False,-1,True
+20626,204,2026-05-11 18:29:01.929299,Online Purchase,9127.98,45.64,Completed,Shopping,Mobile,Malawi,False,True,False,1.1214352070320903,False,-1,True
+20707,2564,2025-12-29 01:10:21.963688,Bank Transfer,26970.84,134.85,Completed,Subscriptions,Desktop,Norway,False,True,True,3.5363871975457672,True,-1,True
+20724,4964,2026-03-27 20:00:44.595868,Card Payment,9023.04,45.12,Pending,Groceries,Mobile,Guinea-Bissau,False,True,False,1.1072320433080853,False,-1,True
+20761,2321,2025-05-02 11:45:46.542151,Online Purchase,9469.33,47.35,Completed,Utilities,Mobile,Botswana,False,False,False,1.1676354160771563,False,-1,True
+20793,4863,2024-07-09 04:34:23.789474,Online Purchase,21248.11,106.24,Completed,Subscriptions,Tablet,Trinidad and Tobago,False,True,True,2.761841065105546,False,-1,True
+20923,503,2025-05-14 02:02:55.243850,Card Payment,15122.8,75.61,Completed,Entertainment,Mobile,Puerto Rico,False,True,False,1.932807514597761,False,-1,True
+20973,1057,2025-04-11 08:07:29.116105,Bank Transfer,9353.2,46.77,Completed,Shopping,Mobile,Dominica,False,True,False,1.151917735466629,False,-1,True
+21105,3747,2025-10-22 07:10:04.957031,Card Payment,12372.75,61.86,Completed,Healthcare,Mobile,Greece,False,True,False,1.5606004400866043,False,-1,True
+21229,4762,2026-05-09 00:34:52.785672,Direct Debit,23668.42,118.34,Completed,Shopping,Mobile,Chile,False,True,True,3.08941929259599,True,-1,True
+21272,781,2025-01-22 19:03:23.209677,Card Payment,46571.52,232.86,Completed,Travel,Tablet,Gambia,False,True,True,6.189252331354003,True,-1,True
+21447,4001,2025-09-29 22:15:30.872320,Online Purchase,12481.7,62.41,Completed,Travel,Mobile,Romania,False,True,False,1.5753463395313383,False,-1,True
+21463,3151,2026-01-05 22:49:44.741775,Online Purchase,15556.28,77.78,Completed,Restaurants,Desktop,Peru,False,True,False,1.9914771106629585,False,-1,True
+21483,1374,2025-06-05 08:38:24.781455,Card Payment,9566.86,47.83,Completed,Travel,Mobile,Togo,False,False,False,1.180835669155127,False,-1,True
+21685,1746,2024-08-23 02:04:30.287257,Direct Debit,9948.15,49.74,Completed,Subscriptions,Mobile,Cocos (Keeling) Islands,False,False,False,1.2324415801168762,False,-1,True
+21733,2458,2026-02-11 10:45:50.872859,Direct Debit,22219.8,111.1,Completed,Shopping,Mobile,Denmark,False,True,True,2.89335499839103,False,-1,True
+21778,2919,2024-11-26 20:11:40.199395,Bank Transfer,9814.76,49.07,Completed,Groceries,Mobile,Botswana,False,False,False,1.2143878350325894,False,-1,True
+21859,4763,2024-10-02 02:38:42.344988,Online Purchase,8930.4,44.65,Completed,Subscriptions,Mobile,Nepal,False,False,False,1.0946936300491577,False,-1,True
+21944,2379,2024-08-25 19:12:40.056356,Online Purchase,11900.4,59.5,Completed,Shopping,Desktop,Afghanistan,False,True,False,1.4966699618606285,False,-1,True
+22007,4690,2026-04-12 20:42:50.127563,Online Purchase,16855.5,84.28,Completed,Healthcare,Desktop,Bahamas,False,True,False,2.1673207772677054,False,-1,True
+22056,737,2024-06-13 14:19:11.241138,ATM Withdrawal,16985.84,84.93,Completed,Shopping,Desktop,United States Virgin Islands,False,True,False,2.18496171837488,False,-1,True
+22100,3964,2026-03-30 04:49:40.784689,Bank Transfer,9254.63,46.27,Completed,Shopping,Mobile,Bhutan,False,False,False,1.138576722999741,False,-1,True
+22278,4377,2026-05-06 09:14:15.979309,Bank Transfer,9673.17,48.37,Pending,Travel,Mobile,Iceland,False,False,False,1.1952242563049174,False,-1,True
+22328,4214,2025-06-26 00:09:14.955876,ATM Withdrawal,91063.56,455.32,Completed,Travel,Mobile,French Polynesia,False,True,True,12.21105267950526,True,-1,True
+22436,1756,2026-02-15 09:04:03.679019,Bank Transfer,16603.6,83.02,Completed,Utilities,Mobile,Netherlands,False,True,False,2.133227229125177,False,-1,True
+22548,3347,2025-06-09 14:59:21.434675,Bank Transfer,9146.3,45.73,Completed,Healthcare,Mobile,Marshall Islands,False,False,False,1.1239147378060925,False,-1,True
+22880,4775,2025-11-24 04:59:39.765565,Card Payment,9255.69,46.28,Completed,Restaurants,Mobile,Turkey,False,False,False,1.1387201892999839,False,-1,True
+22938,1606,2026-02-21 07:09:13.049472,Card Payment,9645.96,48.23,Completed,Subscriptions,Mobile,Saint Kitts and Nevis,False,False,False,1.191541503446806,False,-1,True
+22961,4862,2025-09-04 01:50:02.323974,Card Payment,9754.76,48.77,Completed,Subscriptions,Mobile,Israel,False,False,False,1.2062671010566002,False,-1,True
+23045,4472,2024-07-18 04:42:47.967531,ATM Withdrawal,9975.56,49.88,Completed,Restaurants,Mobile,Heard Island and McDonald Islands,False,False,False,1.2361514020882407,False,-1,True
+23048,2313,2026-04-26 04:19:36.506018,ATM Withdrawal,19576.08,97.88,Completed,Shopping,Mobile,Bangladesh,False,True,False,2.5355392179409892,False,-1,True
+23174,4749,2024-11-01 09:12:12.153518,ATM Withdrawal,17046.9,85.23,Completed,Entertainment,Desktop,Turkmenistan,False,True,False,2.1932259186511116,False,-1,True
+23182,3596,2024-12-31 14:31:18.928004,Card Payment,11288.16,56.44,Pending,Healthcare,Mobile,Eritrea,False,True,False,1.4138059923696336,False,-1,True
+23226,1285,2024-07-05 20:55:36.057526,Online Purchase,21015.28,105.08,Completed,Groceries,Desktop,Cyprus,False,True,True,2.730328556911719,False,-1,True
+23268,4458,2025-05-29 21:47:37.860970,Bank Transfer,21622.67,108.11,Completed,Groceries,Mobile,Paraguay,False,True,True,2.812536100406321,False,-1,True
+23346,1877,2025-05-27 07:27:01.715980,Card Payment,9779.25,48.9,Completed,Subscriptions,Mobile,Bouvet Island (Bouvetoya),False,False,False,1.2095817139744665,False,-1,True
+23365,3858,2025-09-04 23:01:15.181998,Online Purchase,9548.64,47.74,Completed,Subscriptions,Mobile,United States of America,False,False,False,1.1783696729377515,False,-1,True
+23378,1873,2026-05-05 08:19:40.993464,Card Payment,9828.24,49.14,Completed,Restaurants,Tablet,Solomon Islands,False,False,False,1.2162122932658617,False,-1,True
+23560,4826,2025-02-24 05:58:51.586044,Bank Transfer,9544.09,47.72,Completed,Entertainment,Desktop,Papua New Guinea,False,False,False,1.177753850611239,False,-1,True
+23714,2374,2026-03-29 02:42:36.350398,Direct Debit,11730.0,58.65,Completed,Subscriptions,Mobile,Afghanistan,False,True,False,1.4736070773688188,False,-1,True
+23745,2376,2025-01-16 10:50:03.899090,Card Payment,14280.24,71.4,Completed,Groceries,Mobile,Pakistan,False,True,False,1.8187707542842684,False,-1,True
+23749,1458,2024-11-20 20:32:29.961596,Bank Transfer,12096.64,60.48,Completed,Groceries,Mobile,Holy See (Vatican City State),False,True,False,1.5232301757847642,False,-1,True
+23758,3387,2025-11-13 01:31:48.373074,Online Purchase,9126.54,45.63,Completed,Entertainment,Desktop,Dominica,False,False,False,1.1212403094166667,False,-1,True
+23773,1331,2025-11-14 13:04:45.532124,Card Payment,12640.18,63.2,Completed,Utilities,Mobile,Saint Helena,False,True,False,1.5967959048732514,False,-1,True
+23851,2843,2025-12-23 02:03:45.245763,Online Purchase,9840.6,49.2,Completed,Shopping,Tablet,Belgium,False,True,False,1.2178851644649156,False,-1,True
+23956,4834,2025-12-18 02:33:54.166453,Direct Debit,9822.51,49.11,Completed,Restaurants,Mobile,Hungary,False,False,False,1.2154367631711547,False,-1,True
+24179,4022,2025-03-06 10:19:20.055287,Card Payment,12091.5,60.46,Completed,Shopping,Mobile,Dominican Republic,False,True,False,1.5225344995741545,False,-1,True
+24186,3449,2025-11-27 08:39:50.079696,Online Purchase,73039.12,365.2,Completed,Entertainment,Desktop,Denmark,True,True,True,9.771524641068913,True,-1,True
+24248,3082,2025-08-01 09:07:19.482709,Card Payment,10395.35,51.98,Completed,Restaurants,Mobile,Afghanistan,False,True,False,1.29296811735125,False,-1,True
+24588,1122,2024-10-13 12:15:36.237429,Online Purchase,9023.37,45.12,Completed,Entertainment,Mobile,Malawi,False,False,False,1.1072767073449532,False,-1,True
+24743,1741,2024-08-11 05:48:32.874253,Online Purchase,9664.92,48.32,Completed,Healthcare,Desktop,Swaziland,False,False,False,1.1941076553832188,False,-1,True
+24948,2342,2025-10-30 05:52:25.832940,Bank Transfer,82034.82,410.17,Completed,Healthcare,Desktop,Micronesia,False,True,True,10.989052751532364,True,-1,True
+25003,4958,2024-11-11 06:48:14.857529,Card Payment,9754.45,48.77,Completed,Subscriptions,Mobile,United States Minor Outlying Islands,False,False,False,1.2062251439310576,False,-1,True
+25068,3858,2026-03-28 10:37:27.853390,ATM Withdrawal,8920.04,44.6,Completed,Shopping,Desktop,Colombia,False,False,False,1.093291449982637,False,-1,True
+25160,2713,2025-12-16 21:46:14.927148,Online Purchase,9537.31,47.69,Completed,Healthcare,Mobile,North Macedonia,False,False,False,1.176836207671952,False,-1,True
+25206,2591,2025-08-02 10:50:54.636189,Online Purchase,13642.68,68.21,Completed,Shopping,Desktop,Rwanda,False,True,False,1.732479835055406,False,-1,True
+25246,692,2025-06-10 23:46:09.241677,Direct Debit,11645.66,58.23,Completed,Healthcare,Desktop,Bhutan,False,True,False,1.4621920323099031,False,-1,True
+25263,1914,2025-10-05 10:56:34.737158,Card Payment,10693.35,53.47,Completed,Healthcare,Mobile,Antarctica (the territory South of 60 deg S),False,True,False,1.3333010960986635,False,-1,True
+25302,1040,2025-09-21 23:37:41.538117,Card Payment,21801.0,109.0,Completed,Groceries,Mobile,Heard Island and McDonald Islands,False,True,True,2.8366722752386244,False,-1,True
+25437,2713,2025-11-07 00:11:50.545408,Card Payment,9670.06,48.35,Completed,Travel,Desktop,Botswana,False,False,False,1.1948033315938285,False,-1,True
+25497,1913,2025-10-02 19:57:24.947710,Online Purchase,8941.34,44.71,Completed,Shopping,Mobile,Palau,False,False,False,1.096174310544113,False,-1,True
+25555,2215,2024-10-30 17:18:47.292780,Online Purchase,11853.6,59.27,Completed,Healthcare,Mobile,French Southern Territories,True,True,False,1.490335789359357,False,-1,True
+25664,4835,2025-01-02 23:06:03.846923,Online Purchase,9445.05,47.23,Completed,Shopping,Mobile,Papua New Guinea,False,False,False,1.1643492257282058,False,-1,True
+25685,3547,2025-10-20 22:10:40.974910,Card Payment,15251.6,76.26,Completed,Restaurants,Mobile,Guatemala,False,True,False,1.9502400235328847,False,-1,True
+25972,1022,2025-08-16 06:40:12.171045,Bank Transfer,79503.48,397.52,Completed,Utilities,Mobile,Greece,False,True,True,10.64644710581935,True,-1,True
+25985,1741,2025-03-05 14:19:58.728239,Online Purchase,9244.57,46.22,Completed,Shopping,Mobile,Tokelau,False,False,False,1.1372151466031002,False,-1,True
+25993,3290,2025-07-01 02:18:21.601349,Card Payment,64946.44,324.73,Completed,Restaurants,Mobile,Ecuador,False,True,True,8.676216283855428,True,-1,True
+26078,4603,2025-03-26 14:04:51.639837,Direct Debit,9858.73,49.29,Completed,Travel,Mobile,Pitcairn Islands,False,False,False,1.2203389795813269,False,-1,True
+26156,3584,2025-01-24 16:56:34.943340,Bank Transfer,15480.66,77.4,Completed,Shopping,Tablet,Niue,False,True,False,1.9812422789418866,False,-1,True
+26589,2207,2026-05-11 09:03:21.984571,Online Purchase,9961.57,49.81,Completed,Utilities,Mobile,Israel,False,False,False,1.2342579176161725,False,-1,True
+26659,3188,2024-11-20 06:04:05.185984,Card Payment,57479.45,287.4,Completed,Shopping,Mobile,Guatemala,False,True,True,7.66559229399922,True,-1,True
+26687,4965,2026-02-03 17:09:36.474711,Card Payment,9943.98,49.72,Completed,Subscriptions,Mobile,Austria,False,True,False,1.231877189105545,False,-1,True
+26747,2282,2024-07-29 03:39:44.283123,Bank Transfer,10775.66,53.88,Completed,Travel,Mobile,Dominica,False,True,False,1.3444413896580583,False,-1,True
+26782,2029,2024-12-22 05:27:16.320130,Online Purchase,9310.55,46.55,Completed,Shopping,Mobile,Sudan,False,False,False,1.1461452470653632,False,-1,True
+26801,962,2024-11-09 01:25:20.259878,Bank Transfer,10636.86,53.18,Completed,Healthcare,Desktop,Palestinian Territory,False,True,False,1.3256554250602697,False,-1,True
+27454,3031,2025-10-12 07:54:58.886553,Direct Debit,43650.6,218.25,Completed,Utilities,Mobile,North Macedonia,False,True,True,5.793918759934891,True,-1,True
+27466,4405,2026-06-11 04:10:06.903893,Bank Transfer,377925.12,1889.63,Completed,Entertainment,Mobile,Suriname,False,True,True,51.03649295779353,True,-1,True
+27484,2930,2025-11-05 12:33:04.937750,Direct Debit,72991.0,364.95,Completed,Groceries,Mobile,Sweden,False,True,True,9.76501181242017,True,-1,True
+27571,1739,2025-03-23 18:48:51.986928,Card Payment,9919.79,49.6,Completed,Utilities,Mobile,Cape Verde,False,False,False,1.2286031798575587,False,-1,True
+27732,3120,2026-04-05 02:34:02.934116,Card Payment,80271.75,401.36,Completed,Entertainment,Mobile,Afghanistan,True,True,True,10.750429044014906,True,-1,True
+27923,1150,2026-02-14 09:29:40.478450,Online Purchase,9746.05,48.73,Completed,Subscriptions,Mobile,Costa Rica,False,False,False,1.2050882411744188,False,-1,True
+28123,788,2025-12-25 00:30:22.507565,Bank Transfer,668682.97,3343.41,Completed,Healthcare,Mobile,Japan,False,True,True,90.38927881247025,True,-1,True
+28190,1419,2024-07-25 08:12:57.167252,Card Payment,9318.23,46.59,Completed,Travel,Mobile,Mauritius,False,False,False,1.14718470101429,False,-1,True
+28460,3587,2025-10-23 11:41:35.904527,Online Purchase,9639.94,48.2,Completed,Groceries,Mobile,Micronesia,False,False,False,1.190726723137882,False,-1,True
+28615,2966,2025-08-13 23:53:27.294245,Card Payment,9976.46,49.88,Completed,Healthcare,Mobile,Korea,False,False,False,1.2362732130978804,False,-1,True
+28816,76,2026-03-27 16:55:43.458084,ATM Withdrawal,9430.96,47.15,Completed,Travel,Mobile,Marshall Islands,False,False,False,1.162442206699511,False,-1,True
+28884,2548,2024-12-21 08:35:30.531585,Direct Debit,9155.25,45.78,Completed,Entertainment,Mobile,Sierra Leone,False,False,False,1.1251260806241776,False,-1,True
+28936,179,2024-11-19 14:23:50.880951,Card Payment,9671.2,48.36,Completed,Travel,Mobile,Antarctica (the territory South of 60 deg S),False,True,False,1.1949576255393723,False,-1,True
+28940,4399,2025-01-21 13:48:22.634761,Online Purchase,9553.18,47.77,Completed,Entertainment,Mobile,Estonia,False,False,False,1.1789841418086013,False,-1,True
+29088,3369,2026-04-21 02:13:45.194548,Online Purchase,9308.42,46.54,Completed,Restaurants,Mobile,Moldova,False,False,False,1.1458569610092157,False,-1,True
+29157,540,2024-08-04 05:51:07.698390,Direct Debit,24090.3,120.45,Completed,Utilities,Mobile,Somalia,True,True,True,3.1465188800924966,True,-1,True
+29465,2457,2025-09-05 04:56:54.186957,ATM Withdrawal,9352.2,46.76,Completed,Groceries,Mobile,Lao People's Democratic Republic,False,True,False,1.1517823899003625,False,-1,True
+29618,1925,2026-05-30 23:36:56.579100,Direct Debit,111449.52,557.25,Completed,Shopping,Mobile,Bangladesh,False,True,True,14.970201979591245,True,-1,True
+29747,3826,2024-11-02 22:14:25.850452,Bank Transfer,9419.83,47.1,Completed,Travel,Desktop,Cote d'Ivoire,False,False,False,1.1609358105469652,False,-1,True
+29849,3007,2025-01-06 13:33:43.115992,Card Payment,21167.26,105.84,Completed,Entertainment,Mobile,Dominican Republic,False,True,True,2.7508983760728998,False,-1,True
+29866,4538,2024-08-30 00:07:20.148836,ATM Withdrawal,9492.5,47.46,Completed,Subscriptions,Mobile,Dominica,False,False,False,1.1707713728475508,False,-1,True
+29969,3964,2025-01-29 17:17:41.712519,Online Purchase,47146.6,235.73,Completed,Restaurants,Mobile,Albania,False,True,True,6.267086859602535,True,-1,True
+30031,2200,2025-08-10 16:11:43.328459,Card Payment,9948.76,49.74,Completed,Healthcare,Mobile,Latvia,False,False,False,1.232524140912299,False,-1,True
+30257,1936,2026-04-15 04:40:17.342884,Online Purchase,22343.5,111.72,Completed,Subscriptions,Desktop,Papua New Guinea,False,True,True,2.9100972449381945,False,-1,True
+30400,248,2025-11-05 14:56:11.404534,Bank Transfer,9237.58,46.19,Completed,Entertainment,Mobile,Azerbaijan,False,False,False,1.1362690810948977,False,-1,True
+30410,1995,2026-04-29 07:30:21.826246,Direct Debit,9428.16,47.14,Completed,Shopping,Tablet,Grenada,False,False,False,1.162063239113965,False,-1,True
+30452,4052,2025-01-10 17:39:49.562835,Bank Transfer,9290.64,46.45,Completed,Subscriptions,Desktop,China,False,False,False,1.1434505168409974,False,-1,True
+30629,1690,2025-03-24 12:37:47.094455,Card Payment,30883.32,154.42,Completed,Healthcare,Desktop,Guinea,False,True,True,4.065924018652078,True,-1,True
+30675,4581,2025-01-21 04:00:16.473821,Bank Transfer,9429.69,47.15,Completed,Healthcare,Mobile,Kyrgyz Republic,False,False,False,1.1622703178303528,False,-1,True
+30716,2975,2025-12-04 06:36:21.448645,Bank Transfer,9278.31,46.39,Completed,Utilities,Desktop,Iceland,False,False,False,1.1417817060089317,False,-1,True
+30834,2256,2026-01-03 00:34:23.703158,Online Purchase,9752.36,48.76,Completed,Travel,Mobile,Cyprus,False,False,False,1.2059422716975605,False,-1,True
+30854,634,2024-09-29 18:52:12.756956,Card Payment,9415.53,47.08,Completed,Restaurants,Desktop,Slovenia,False,False,False,1.1603538246120193,False,-1,True
+30856,451,2025-01-28 15:54:16.446649,Bank Transfer,17761.48,88.81,Completed,Travel,Mobile,Niger,False,True,False,2.2899411533938188,False,-1,True
+30859,517,2026-02-04 23:02:18.006648,Bank Transfer,8918.75,44.59,Completed,Healthcare,Desktop,Tokelau,False,False,False,1.093116854202153,False,-1,True
+30928,4636,2026-01-06 22:57:28.165440,Card Payment,55585.92,277.93,Completed,Travel,Mobile,Hungary,False,True,True,7.409311403906637,True,-1,True
+31104,1541,2026-02-03 12:28:46.923888,Direct Debit,79312.59,396.56,Completed,Groceries,Mobile,India,False,True,True,10.620610990674741,True,-1,True
+31138,2585,2025-12-20 01:57:22.564018,ATM Withdrawal,408819.49,2044.1,Completed,Groceries,Mobile,Azerbaijan,False,True,True,55.21790895988994,True,-1,True
+31190,1227,2024-07-25 02:57:14.717351,Bank Transfer,11407.89,57.04,Completed,Subscriptions,Desktop,Barbados,False,True,False,1.43001091701872,False,-1,True
+31320,3587,2025-02-06 16:34:24.568068,Bank Transfer,9363.91,46.82,Completed,Entertainment,Mobile,Gabon,False,False,False,1.1533672864813431,False,-1,True
+31327,1988,2024-11-29 10:42:11.993757,Card Payment,41003.2,205.02,Completed,Shopping,Mobile,Cambodia,False,True,True,5.435604907800989,True,-1,True
+31585,2045,2025-10-17 20:36:50.836339,Card Payment,49400.49,247.0,Completed,Subscriptions,Mobile,Niger,False,True,True,6.572140877954911,True,-1,True
+31589,2478,2025-03-25 00:23:30.605487,Direct Debit,9433.84,47.17,Completed,Shopping,Mobile,Dominica,False,False,False,1.1628320019303586,False,-1,True
+31671,1905,2025-12-30 22:22:45.404390,Online Purchase,9433.35,47.17,Completed,Healthcare,Desktop,Bermuda,False,False,False,1.162765682602888,False,-1,True
+31708,2022,2025-12-23 22:16:29.086667,Card Payment,13480.83,67.4,Completed,Travel,Desktop,Bahrain,False,True,False,1.710574155155175,False,-1,True
+31742,162,2025-12-01 22:37:21.410592,Card Payment,12140.8,60.7,Completed,Subscriptions,Mobile,Finland,False,True,False,1.5292070359910923,False,-1,True
+31821,4553,2024-09-06 00:23:34.089554,Direct Debit,9853.86,49.27,Completed,Utilities,Mobile,Falkland Islands (Malvinas),False,False,False,1.2196798466736092,False,-1,True
+31858,1292,2024-06-18 08:01:32.838840,Card Payment,11634.51,58.17,Completed,Entertainment,Tablet,Oman,False,True,False,1.460682929246032,False,-1,True
+31944,2585,2025-07-18 22:02:11.651912,Bank Transfer,286028.81,1430.14,Completed,Entertainment,Mobile,Niger,False,True,True,38.598734843042756,True,-1,True
+31989,1502,2025-06-24 14:52:02.645393,Bank Transfer,18941.72,94.71,Completed,Subscriptions,Mobile,Indonesia,False,True,False,2.4496814045241795,False,-1,True
+32084,3081,2026-03-25 17:59:37.715788,Bank Transfer,12257.28,61.29,Completed,Groceries,Mobile,Tuvalu,False,True,False,1.544972087549813,False,-1,True
+32118,3877,2024-11-15 14:40:28.508415,Direct Debit,9145.87,45.73,Completed,Restaurants,Mobile,Suriname,False,True,False,1.123856539212598,False,-1,True
+32158,2542,2024-06-19 02:13:37.933228,Bank Transfer,9972.37,49.86,Completed,Subscriptions,Desktop,Central African Republic,False,False,False,1.2357196497318508,False,-1,True
+32215,3369,2026-05-03 04:41:47.587445,Online Purchase,9415.9,47.08,Completed,Subscriptions,Mobile,Hungary,False,False,False,1.1604039024715378,False,-1,True
+32303,3804,2024-07-15 07:44:35.833939,Card Payment,8936.56,44.68,Completed,Shopping,Mobile,Sri Lanka,False,False,False,1.095527358737359,False,-1,True
+32343,4861,2024-12-27 13:40:32.417071,Bank Transfer,39911.41,199.56,Completed,Entertainment,Desktop,Guadeloupe,False,True,True,5.2878359720069,True,-1,True
+32575,1505,2025-01-22 20:05:42.668128,Online Purchase,8913.48,44.57,Completed,Shopping,Mobile,Estonia,False,False,False,1.0924035830679286,False,-1,True
+32626,4970,2025-09-26 09:32:00.432480,Bank Transfer,14597.28,72.99,Completed,Subscriptions,Mobile,Cocos (Keeling) Islands,False,True,False,1.861680712613396,False,-1,True
+32665,4197,2025-11-12 17:59:48.573277,Card Payment,15423.03,77.12,Completed,Shopping,Mobile,Malta,False,True,False,1.973442313957949,False,-1,True
+32708,2586,2024-08-31 08:05:11.975334,Card Payment,26667.75,133.34,Completed,Subscriptions,Mobile,Reunion,False,True,True,3.4953653098660573,True,-1,True
+32905,352,2024-09-11 19:11:38.586859,Bank Transfer,8931.6,44.66,Completed,Subscriptions,Desktop,Indonesia,False,False,False,1.0948560447286775,False,-1,True
+33072,1877,2024-09-09 23:16:24.500765,ATM Withdrawal,9382.3,46.91,Pending,Healthcare,Mobile,Uruguay,False,False,False,1.1558562914449837,False,-1,True
+33130,2597,2024-07-09 19:11:03.873019,Online Purchase,14439.17,72.2,Completed,Restaurants,Mobile,Burundi,False,True,False,1.8402812251310015,False,-1,True
+33162,641,2025-09-19 12:45:33.931925,Online Purchase,9377.93,46.89,Completed,Utilities,Tablet,Kiribati,False,False,False,1.1552648313203993,False,-1,True
+33246,3265,2025-01-07 23:30:01.359211,Card Payment,50026.15,250.13,Failed,Entertainment,Mobile,Palau,False,True,True,6.656821184945202,True,-1,True
+33272,2996,2026-03-24 13:40:35.685620,Bank Transfer,9355.25,46.78,Completed,Healthcare,Mobile,Albania,False,False,False,1.1521951938774753,False,-1,True
+33639,47,2025-10-14 18:56:01.364471,Card Payment,14127.84,70.64,Completed,Entertainment,Mobile,Djibouti,False,True,False,1.7981440899852557,False,-1,True
+33656,904,2025-06-26 21:21:21.567576,Bank Transfer,394667.16,1973.34,Completed,Healthcare,Mobile,Oman,False,True,True,53.30245384204972,True,-1,True
+33673,1177,2024-06-25 22:47:28.168317,Online Purchase,12821.79,64.11,Completed,Travel,Mobile,Cyprus,False,True,False,1.6213760131629085,False,-1,True
+33785,2591,2024-11-16 08:05:34.914945,Online Purchase,11277.75,56.39,Completed,Utilities,Desktop,Uganda,False,True,False,1.4123970450247993,False,-1,True
+33946,3507,2025-12-01 00:58:00.933274,Card Payment,9435.18,47.18,Completed,Groceries,Mobile,Belize,False,False,False,1.1630133649891556,False,-1,True
+33971,1695,2025-10-26 18:34:16.022394,Online Purchase,193041.9,965.21,Completed,Restaurants,Tablet,Liechtenstein,False,True,True,26.013368853721754,True,-1,True
+33988,4958,2026-01-12 00:26:32.057310,Direct Debit,9885.42,49.43,Completed,Subscriptions,Tablet,United Arab Emirates,False,False,False,1.2239513527449795,False,-1,True
+33989,1995,2024-08-11 19:29:39.095707,Online Purchase,9936.31,49.68,Completed,Travel,Mobile,Qatar,True,False,False,1.230839088612281,False,-1,True
+34163,3454,2026-01-14 04:16:19.722805,Online Purchase,16206.0,81.03,Completed,Utilities,Mobile,Papua New Guinea,False,True,False,2.079413831977621,False,-1,True
+34209,4061,2024-11-15 09:34:28.147443,Online Purchase,10689.84,53.45,Completed,Utilities,Mobile,Burkina Faso,False,True,False,1.3328260331610682,False,-1,True
+34234,2837,2026-03-29 02:52:28.035732,ATM Withdrawal,9853.02,49.27,Pending,Subscriptions,Mobile,Libyan Arab Jamahiriya,False,False,False,1.2195661563979454,False,-1,True
+34291,195,2025-01-23 04:02:29.730113,Card Payment,9800.33,49.0,Completed,Utilities,Mobile,Zimbabwe,False,False,False,1.212434798511364,False,-1,True
+34351,1877,2026-05-25 12:34:01.308630,Online Purchase,9460.55,47.3,Completed,Utilities,Tablet,Falkland Islands (Malvinas),False,False,False,1.1664470820053365,False,-1,True
+34410,3972,2026-03-14 05:10:40.502107,ATM Withdrawal,9696.8,48.48,Completed,Restaurants,Mobile,Kenya,False,False,False,1.1984224720357943,False,-1,True
+34553,2006,2026-02-02 22:40:42.958764,Card Payment,14545.65,72.73,Completed,Entertainment,Mobile,Turkey,False,True,False,1.8546928210270572,False,-1,True
+34600,3960,2025-04-08 06:06:40.939307,Direct Debit,27353.36,136.77,Completed,Entertainment,Mobile,Puerto Rico,False,True,True,3.5881595835540248,True,-1,True
+34643,4577,2025-01-14 18:32:42.775232,Card Payment,10001.22,50.01,Completed,Entertainment,Mobile,Brazil,False,True,False,1.2396243693186388,False,-1,True
+34739,2210,2025-01-11 19:40:01.871802,Card Payment,312193.14,1560.97,Completed,Groceries,Desktop,American Samoa,False,True,True,42.139960902876034,True,-1,True
+34858,1883,2024-12-21 02:53:42.816211,Online Purchase,11161.08,55.81,Completed,Travel,Mobile,Slovakia (Slovak Republic),False,True,False,1.3966062778084882,False,-1,True
+35093,4376,2025-04-21 23:21:27.303753,Online Purchase,9924.28,49.62,Completed,Travel,Mobile,Honduras,False,False,False,1.2292108814500953,False,-1,True
+35194,4776,2025-04-07 17:54:09.061291,Online Purchase,11082.12,55.41,Completed,Shopping,Mobile,Congo,False,True,False,1.3859193918960864,False,-1,True
+35267,3079,2025-01-11 05:44:09.846749,Bank Transfer,37363.6,186.82,Completed,Shopping,Mobile,Vanuatu,False,True,True,4.9430011848174775,True,-1,True
+35289,4824,2026-05-09 04:29:06.332602,Card Payment,21678.8,108.39,Completed,Travel,Mobile,Solomon Islands,False,True,True,2.8201330470408594,False,-1,True
+35331,2826,2025-07-17 12:00:25.179681,Bank Transfer,9435.08,47.18,Completed,Utilities,Mobile,Ghana,False,False,False,1.162999830432529,False,-1,True
+35332,4721,2025-05-21 20:14:21.457157,Card Payment,9401.3,47.01,Completed,Entertainment,Mobile,Syrian Arab Republic,False,False,False,1.158427857204047,False,-1,True
+35346,2263,2026-05-22 08:45:52.433519,Card Payment,18433.07,92.17,Completed,Entertainment,Mobile,United States Minor Outlying Islands,False,True,False,2.38083788224273,False,-1,True
+35472,3880,2026-01-02 19:04:39.729448,Online Purchase,9004.65,45.02,Completed,Travel,Desktop,Poland,False,False,False,1.1047430383444443,False,-1,True
+35526,3466,2025-09-25 19:12:03.328307,Card Payment,16523.62,82.62,Completed,Restaurants,Mobile,Namibia,False,True,False,2.122402290735183,False,-1,True
+35555,751,2024-11-15 19:54:49.350469,Bank Transfer,12053.42,60.27,Completed,Subscriptions,Mobile,Burundi,False,True,False,1.5173805404107266,False,-1,True
+35613,4036,2025-08-03 18:51:32.869214,Card Payment,20883.17,104.42,Completed,Shopping,Mobile,Bahrain,False,True,True,2.712448054152253,False,-1,True
+35996,1741,2025-01-22 23:44:38.544495,Card Payment,9874.42,49.37,Completed,Travel,Mobile,Saint Martin,False,False,False,1.222462551516048,False,-1,True
+36119,2005,2024-12-25 23:01:52.259667,Card Payment,14140.56,70.7,Completed,Subscriptions,Mobile,Latvia,False,True,False,1.7998656855881654,False,-1,True
+36217,1703,2024-11-01 05:43:46.527449,Bank Transfer,324035.25,1620.18,Completed,Healthcare,Mobile,Guyana,False,True,True,43.74273798661608,True,-1,True
+36330,759,2025-06-20 00:52:15.832990,Card Payment,15894.72,79.47,Completed,Shopping,Desktop,Turks and Caicos Islands,False,True,False,2.037283464110189,False,-1,True
+36481,1995,2024-08-01 21:42:51.594672,Online Purchase,9146.63,45.73,Completed,Groceries,Mobile,France,False,False,False,1.1239594018429604,False,-1,True
+36490,433,2026-04-05 11:52:41.670205,ATM Withdrawal,9781.56,48.91,Completed,Entertainment,Mobile,United States of America,False,False,False,1.209894362232542,False,-1,True
+36534,2766,2024-10-14 20:28:06.428520,Online Purchase,10506.68,52.53,Completed,Shopping,Mobile,Honduras,False,True,False,1.308036139243698,False,-1,True
+36751,4373,2025-03-04 08:48:32.961209,Bank Transfer,12088.03,60.44,Completed,Subscriptions,Mobile,Turkmenistan,False,True,False,1.5220648504592098,False,-1,True
+36829,4680,2025-07-24 15:54:20.171864,Bank Transfer,102063.21,510.32,Completed,Restaurants,Mobile,Bahamas,False,True,True,13.69980653748844,True,-1,True
+36870,2506,2025-03-12 00:38:30.850439,Bank Transfer,53355.34,266.78,Completed,Groceries,Mobile,Liechtenstein,False,True,True,7.107412290703932,True,-1,True
+37071,809,2026-05-15 15:30:26.798753,ATM Withdrawal,35511.85,177.56,Completed,Entertainment,Mobile,Guadeloupe,False,True,True,4.692375032483508,True,-1,True
+37122,4107,2025-11-21 15:51:37.498916,Card Payment,8920.38,44.6,Completed,Groceries,Desktop,Bolivia,False,False,False,1.0933374674751672,False,-1,True
+37192,2030,2025-02-24 20:01:23.437298,Online Purchase,13768.5,68.84,Completed,Subscriptions,Desktop,Norfolk Island,False,True,False,1.7495090142030556,False,-1,True
+37287,4031,2024-09-14 02:12:43.253897,Bank Transfer,14800.5,74.0,Completed,Restaurants,Mobile,Nepal,False,True,False,1.8891856385900718,False,-1,True
+37323,3289,2025-12-25 17:33:34.147771,Online Purchase,9234.99,46.17,Completed,Healthcare,Mobile,Germany,False,False,False,1.1359185360782673,False,-1,True
+37499,2200,2025-07-31 07:16:32.836325,Card Payment,9770.79,48.85,Completed,Utilities,Mobile,Gabon,False,False,False,1.208436690483852,False,-1,True
+37506,3582,2025-12-17 05:26:07.946298,Direct Debit,121833.9,609.17,Completed,Subscriptions,Mobile,Puerto Rico,False,True,True,16.37568177101764,True,-1,True
+37529,1877,2025-04-09 15:29:56.545053,Online Purchase,9930.43,49.65,Completed,Subscriptions,Mobile,Singapore,False,False,False,1.2300432566826343,False,-1,True
+37676,4084,2025-05-15 20:51:06.230383,Card Payment,9934.7,49.67,Completed,Subscriptions,Mobile,Nepal,False,False,False,1.2306211822505921,False,-1,True
+37768,4594,2026-04-25 07:52:32.852320,Online Purchase,9735.82,48.68,Pending,Utilities,Desktop,Dominica,False,False,False,1.2037036560315129,False,-1,True
+37824,4765,2026-01-10 15:37:52.398818,Card Payment,9908.23,49.54,Completed,Travel,Mobile,Belgium,False,False,False,1.227038585111518,False,-1,True
+37837,1567,2024-10-10 16:57:58.267251,Card Payment,104766.24,523.83,Completed,Entertainment,Mobile,Netherlands,False,True,True,14.065649663473748,True,-1,True
+37897,3525,2024-08-16 14:08:05.927083,ATM Withdrawal,11840.24,59.2,Completed,Travel,Mobile,Djibouti,False,True,False,1.4885275725940366,False,-1,True
+38228,3146,2024-09-30 23:12:08.112030,Bank Transfer,14700.32,73.5,Completed,Groceries,Mobile,Somalia,False,True,False,1.8756267197614949,False,-1,True
+38413,4652,2025-12-21 23:39:32.184336,Bank Transfer,19462.52,97.31,Completed,Entertainment,Tablet,Yemen,False,True,False,2.5201693754357666,False,-1,True
+38451,1770,2025-12-11 10:21:14.108635,Online Purchase,21389.08,106.95,Completed,Shopping,Mobile,Trinidad and Tobago,False,True,True,2.780920729582133,False,-1,True
+38677,1717,2024-08-17 05:35:42.157722,ATM Withdrawal,9794.54,48.97,Completed,Healthcare,Mobile,Svalbard & Jan Mayen Islands,False,False,False,1.2116511476826812,False,-1,True
+38821,2727,2026-01-16 14:18:25.957446,Bank Transfer,13479.84,67.4,Completed,Entertainment,Mobile,French Guiana,False,True,False,1.7104401630445711,False,-1,True
+38932,1729,2026-03-10 10:58:53.774157,ATM Withdrawal,9777.72,48.89,Completed,Utilities,Desktop,Benin,False,False,False,1.2093746352580785,False,-1,True
+39070,4387,2025-08-27 07:14:13.816232,Bank Transfer,12411.75,62.06,Completed,Healthcare,Mobile,Togo,False,True,False,1.5658789171709975,False,-1,True
+39071,1419,2025-11-09 20:36:22.082489,Online Purchase,9885.0,49.43,Completed,Groceries,Mobile,Argentina,False,False,False,1.2238945076071475,False,-1,True
+39093,938,2025-06-20 15:05:07.083163,Bank Transfer,20197.32,100.99,Completed,Entertainment,Mobile,United Kingdom,False,True,True,2.6196212975283824,False,-1,True
+39097,3866,2024-09-12 02:10:01.230989,ATM Withdrawal,9940.2,49.7,Completed,Entertainment,Tablet,Ireland,False,False,False,1.2313655828650578,False,-1,True
+39119,1703,2025-06-03 09:59:32.220896,Card Payment,9889.22,49.45,Completed,Healthcare,Mobile,Montenegro,False,False,False,1.224465665896792,False,-1,True
+39162,1065,2025-02-21 10:51:31.136503,Online Purchase,63791.98,318.96,Completed,Travel,Mobile,Armenia,False,True,True,8.519965241423417,True,-1,True
+39197,2585,2026-02-12 15:47:35.611147,Card Payment,9976.52,49.88,Completed,Entertainment,Tablet,Cocos (Keeling) Islands,False,False,False,1.2362813338318566,False,-1,True
+39363,1233,2026-04-05 10:14:54.728449,Card Payment,15349.1,76.75,Completed,Groceries,Mobile,Solomon Islands,False,True,False,1.9634362162438674,False,-1,True
+39513,4721,2025-04-09 21:41:57.645177,Card Payment,9986.59,49.93,Completed,Healthcare,Desktop,Tanzania,False,False,False,1.2376442636841603,False,-1,True
+39528,3194,2026-05-27 09:36:25.332211,Online Purchase,10666.94,53.33,Completed,Groceries,Desktop,Georgia,False,True,False,1.3297266196935658,False,-1,True
+39609,2478,2026-04-17 12:32:31.069076,Online Purchase,9867.28,49.34,Completed,Groceries,Mobile,Mayotte,False,False,False,1.2214961841729055,False,-1,True
+39744,3369,2025-07-09 14:42:16.059446,Card Payment,9965.25,49.83,Completed,Travel,Mobile,Serbia,False,False,False,1.2347559893000333,False,-1,True
+39746,4521,2025-01-15 08:04:01.674003,Direct Debit,9864.76,49.32,Completed,Subscriptions,Mobile,Finland,False,False,False,1.221155113345914,False,-1,True
+39760,2609,2025-02-23 03:01:52.684347,Online Purchase,9591.38,47.96,Completed,Utilities,Mobile,Cyprus,False,False,False,1.1841543424399812,False,-1,True
+39787,1148,2026-01-22 15:36:40.796985,Direct Debit,8925.0,44.62,Completed,Subscriptions,Mobile,Tajikistan,False,False,False,1.0939627639913185,False,-1,True
+39829,2899,2026-03-29 13:47:37.169523,Bank Transfer,9402.04,47.01,Completed,Groceries,Desktop,Cote d'Ivoire,False,False,False,1.1585280129230844,False,-1,True
+40111,4453,2026-05-17 23:14:26.195651,Card Payment,9367.0,46.84,Completed,Shopping,Mobile,Oman,False,True,False,1.1537855042811065,False,-1,True
+40132,4654,2024-07-07 20:32:14.108361,Bank Transfer,9402.56,47.01,Completed,Entertainment,Mobile,Iraq,False,False,False,1.1585983926175427,False,-1,True
+40163,4288,2026-01-09 11:26:11.038495,Bank Transfer,62865.43,314.33,Completed,Travel,Mobile,Cameroon,False,True,True,8.394560806999202,True,-1,True
+40256,965,2026-01-06 10:05:38.092876,Direct Debit,19464.21,97.32,Completed,Utilities,Mobile,China,False,True,False,2.5203981094427568,False,-1,True
+40518,1877,2026-01-11 23:23:35.809647,Card Payment,9640.1,48.2,Completed,Shopping,Mobile,Afghanistan,False,False,False,1.1907483784284847,False,-1,True
+40646,3260,2024-09-12 05:00:52.997290,Card Payment,11577.72,57.89,Failed,Utilities,Mobile,Svalbard & Jan Mayen Islands,False,True,False,1.452996654537758,False,-1,True
+40733,4325,2026-03-13 15:04:23.606761,Card Payment,10093.78,50.47,Pending,Utilities,Mobile,Iraq,False,True,False,1.252151954932265,False,-1,True
+40870,1526,2025-12-09 18:41:27.077780,Card Payment,14057.25,70.29,Completed,Subscriptions,Mobile,Libyan Arab Jamahiriya,False,True,False,1.7885900464625042,False,-1,True
+41066,936,2026-03-05 07:51:37.396124,Bank Transfer,9362.6,46.81,Completed,Entertainment,Mobile,Falkland Islands (Malvinas),False,False,False,1.153189983789534,False,-1,True
+41145,1505,2024-12-23 04:53:49.535258,Bank Transfer,9979.94,49.9,Completed,Subscriptions,Mobile,Papua New Guinea,False,False,False,1.236744215668488,False,-1,True
+41182,3405,2026-03-18 17:49:12.074138,Online Purchase,9535.42,47.68,Completed,Healthcare,Mobile,Latvia,False,False,False,1.1765804045517085,False,-1,True
+41203,2908,2025-09-16 15:49:04.470784,Card Payment,19186.56,95.93,Completed,Restaurants,Mobile,Yemen,False,True,False,2.4828194129688663,False,-1,True
+41305,803,2024-07-28 06:55:08.768650,Card Payment,13475.07,67.38,Pending,Restaurants,Mobile,Yemen,False,True,False,1.7097945646934798,False,-1,True
+41361,2786,2025-12-15 20:27:00.715723,Direct Debit,9520.06,47.6,Completed,Entertainment,Desktop,Denmark,False,False,False,1.1745014966538552,False,-1,True
+41451,4488,2025-12-30 08:54:57.399506,Card Payment,9625.6,48.13,Completed,Travel,Desktop,Estonia,False,True,False,1.1887858677176204,False,-1,True
+41559,2062,2025-04-02 10:36:21.853398,Card Payment,108031.24,540.16,Completed,Restaurants,Tablet,Slovenia,False,True,True,14.507552937333832,True,-1,True
+41566,764,2025-02-14 21:54:19.784763,Online Purchase,100135.62,500.68,Completed,Restaurants,Desktop,Anguilla,False,True,True,13.438915777408818,True,-1,True
+41580,4107,2024-09-22 20:30:11.136125,Bank Transfer,9411.27,47.06,Completed,Subscriptions,Mobile,Honduras,False,False,False,1.159777252499724,False,-1,True
+41630,4429,2026-02-09 08:53:10.955754,Bank Transfer,9996.62,49.98,Completed,Restaurants,Mobile,Ghana,False,False,False,1.239001779713813,False,-1,True
+41684,613,2026-03-17 15:47:57.362072,Card Payment,9562.59,47.81,Completed,Shopping,Mobile,Lesotho,False,False,False,1.180257743587169,False,-1,True
+41695,2066,2025-04-02 16:58:35.382638,Card Payment,28046.88,140.23,Completed,Entertainment,Mobile,Montserrat,False,True,True,3.6820244406711597,True,-1,True
+41726,3149,2024-07-27 15:37:37.077030,Card Payment,9808.11,49.04,Completed,Healthcare,Mobile,Philippines,False,False,False,1.2134877870169174,False,-1,True
+41868,4624,2026-03-19 12:08:06.940108,Online Purchase,72580.9,362.9,Completed,Entertainment,Mobile,Kazakhstan,False,True,True,9.709506595694283,True,-1,True
+41872,903,2025-02-03 05:57:21.506051,Card Payment,9139.71,45.7,Completed,Utilities,Mobile,Chad,False,False,False,1.1230228105243962,False,-1,True
+41918,686,2025-05-26 09:01:06.935253,Bank Transfer,49021.02,245.11,Completed,Subscriptions,Mobile,Egypt,False,True,True,6.520781295923766,True,-1,True
+41982,2220,2024-12-31 18:22:30.749162,Online Purchase,13450.84,67.25,Completed,Subscriptions,Mobile,Barbados,False,True,False,1.706515141622843,False,-1,True
+41994,1703,2024-12-28 16:23:20.062362,Direct Debit,9491.68,47.46,Completed,Healthcare,Desktop,Burkina Faso,False,False,False,1.1706603894832124,False,-1,True
+42092,2639,2025-08-18 01:11:59.135249,Online Purchase,16051.4,80.26,Completed,Utilities,Mobile,Christmas Island,False,True,False,2.0584894074328224,False,-1,True
+42213,4862,2026-02-18 01:39:00.766144,Card Payment,358519.81,1792.6,Completed,Travel,Desktop,Saint Kitts and Nevis,False,True,True,48.41007028726678,True,-1,True
+42331,344,2025-02-14 11:34:42.119787,Card Payment,60501.98,302.51,Completed,Healthcare,Desktop,Mali,False,True,True,8.074678328406671,True,-1,True
+42417,809,2024-07-18 06:42:54.971013,Card Payment,9362.46,46.81,Completed,Subscriptions,Mobile,French Southern Territories,False,False,False,1.1531710354102565,False,-1,True
+42576,2451,2025-05-09 10:01:03.573462,Card Payment,9811.11,49.06,Completed,Groceries,Mobile,Panama,False,False,False,1.2138938237157169,False,-1,True
+42785,2728,2026-05-24 08:55:29.654903,Bank Transfer,9249.5,46.25,Completed,Utilities,Mobile,Syrian Arab Republic,False,False,False,1.137882400244794,False,-1,True
+42824,97,2026-01-13 07:58:13.212555,Direct Debit,9574.73,47.87,Completed,Entertainment,Mobile,Rwanda,False,False,False,1.181900838761644,False,-1,True
+42889,4078,2025-11-11 21:07:33.770734,ATM Withdrawal,9585.12,47.93,Completed,Groceries,Mobile,Christmas Island,False,True,False,1.1833070791951532,False,-1,True
+42897,4758,2025-07-26 02:52:13.115885,Card Payment,21738.43,108.69,Completed,Travel,Mobile,Mali,False,True,True,2.8282037031573304,False,-1,True
+42906,2778,2026-01-28 12:47:34.943017,Bank Transfer,9041.09,45.21,Completed,Restaurants,Mobile,Comoros,False,False,False,1.1096750307791954,False,-1,True
+43083,164,2026-02-27 01:50:34.238234,Online Purchase,9817.98,49.09,Completed,Entertainment,Mobile,Cambodia,False,False,False,1.2148236477559675,False,-1,True
+43470,3918,2024-12-13 19:09:02.611583,Bank Transfer,172576.8,862.88,Completed,Utilities,Mobile,Burkina Faso,False,True,True,23.24350830552144,True,-1,True
+43561,2104,2024-06-15 23:24:42.963651,Direct Debit,22347.9,111.74,Completed,Groceries,Mobile,Korea,False,True,True,2.910692765429767,False,-1,True
+43640,4041,2024-10-15 00:33:59.561559,Online Purchase,9514.14,47.57,Completed,Healthcare,Mobile,Kenya,False,False,False,1.1737002509015575,False,-1,True
+44022,847,2025-10-05 21:55:54.880131,Direct Debit,15908.7,79.54,Completed,Shopping,Tablet,Turkey,False,True,False,2.0391755951265944,False,-1,True
+44069,3724,2025-11-18 15:05:01.281199,Online Purchase,9743.25,48.72,Completed,Healthcare,Mobile,China,False,False,False,1.204709273588873,False,-1,True
+44085,2325,2025-06-12 08:40:15.806001,Card Payment,9660.89,48.3,Completed,Utilities,Tablet,New Caledonia,False,False,False,1.1935622127511647,False,-1,True
+44097,1677,2024-08-02 07:59:20.601560,Card Payment,16173.3,80.87,Completed,Entertainment,Mobile,Romania,False,True,False,2.0749880319607072,False,-1,True
+44181,4564,2026-04-01 15:03:02.023549,Card Payment,48267.31,241.34,Completed,Utilities,Mobile,Russian Federation,False,True,True,6.418769989173051,True,-1,True
+44212,725,2024-08-08 03:20:38.055323,Online Purchase,18711.77,93.56,Completed,Healthcare,Mobile,Northern Mariana Islands,False,True,False,2.4185586915612003,False,-1,True
+44217,2334,2024-11-18 01:06:29.132296,Card Payment,173421.3,867.11,Completed,Restaurants,Mobile,Senegal,False,True,True,23.357807636233492,True,-1,True
+44331,4297,2024-11-13 21:57:14.215518,Online Purchase,18709.9,93.55,Completed,Subscriptions,Mobile,Russian Federation,False,True,False,2.4183055953522823,False,-1,True
+44603,1394,2026-03-11 20:59:51.859051,Direct Debit,11692.59,58.46,Pending,Healthcare,Mobile,Gibraltar,False,True,False,1.4685437997347894,False,-1,True
+44695,67,2026-01-25 14:08:34.435390,Bank Transfer,12078.99,60.39,Completed,Utilities,Mobile,Lithuania,False,True,False,1.5208413265401606,False,-1,True
+44726,2478,2024-06-15 20:10:11.420841,Bank Transfer,9937.82,49.69,Completed,Subscriptions,Mobile,Bahrain,False,False,False,1.2310434604173435,False,-1,True
+44804,4485,2026-03-11 11:38:43.090685,Card Payment,17269.48,86.35,Completed,Groceries,Tablet,Ukraine,False,True,False,2.2233511347907067,False,-1,True
+44998,2417,2025-12-27 23:44:54.025745,Online Purchase,16500.09,82.5,Completed,Groceries,Mobile,Bahrain,False,True,False,2.119217609560933,False,-1,True
+45161,4910,2026-04-18 18:51:44.350065,Direct Debit,11894.04,59.47,Completed,Restaurants,Tablet,Lao People's Democratic Republic,False,True,False,1.4958091640591737,False,-1,True
+45352,1468,2025-01-06 11:39:37.969948,Bank Transfer,9476.94,47.38,Completed,Healthcare,Mobile,Sri Lanka,False,True,False,1.1686653958364444,False,-1,True
+45578,2549,2025-08-07 02:04:48.448267,Online Purchase,15760.2,78.8,Pending,Restaurants,Mobile,Vietnam,False,True,False,2.019076778536021,False,-1,True
+45613,903,2025-10-31 04:37:52.621986,Card Payment,112763.71,563.82,Completed,Healthcare,Desktop,Gibraltar,False,True,True,15.148071769323002,True,-1,True
+45630,1148,2024-08-18 16:41:38.812678,Online Purchase,324576.18,1622.88,Completed,Entertainment,Desktop,Estonia,False,True,True,43.81595046377661,True,-1,True
+45641,4432,2026-01-17 17:22:18.700446,Card Payment,12872.96,64.36,Completed,Entertainment,Desktop,Marshall Islands,False,True,False,1.6283016457887645,False,-1,True
+45918,3055,2025-07-17 10:07:08.196189,Online Purchase,9281.93,46.41,Completed,Shopping,Desktop,Ireland,False,False,False,1.1422716569588165,False,-1,True
+45942,714,2024-07-03 10:49:04.900456,Bank Transfer,20334.56,101.67,Completed,Healthcare,Mobile,Netherlands Antilles,False,True,True,2.6381961230427953,False,-1,True
+46006,1875,2025-08-28 11:23:58.110322,Bank Transfer,12266.98,61.33,Completed,Restaurants,Mobile,Latvia,False,True,False,1.5462849395425977,False,-1,True
+46035,458,2025-01-22 14:44:52.009627,Card Payment,55921.8,279.61,Completed,Subscriptions,Mobile,Ethiopia,False,True,True,7.4547712727042255,True,-1,True
+46133,2747,2026-01-03 00:24:28.260951,Direct Debit,15326.71,76.63,Completed,Restaurants,Mobile,Suriname,False,True,False,1.9604058290151605,False,-1,True
+46337,811,2025-02-22 02:05:49.223544,Card Payment,41622.66,208.11,Completed,Shopping,Desktop,Qatar,False,True,True,5.519446072280429,True,-1,True
+46378,4244,2025-02-08 13:35:43.673178,Direct Debit,12316.86,61.58,Completed,Shopping,Mobile,Pitcairn Islands,False,True,False,1.5530359763879704,False,-1,True
+46393,4195,2025-09-08 04:47:12.519642,Online Purchase,42545.86,212.73,Completed,Healthcare,Desktop,Samoa,False,True,True,5.644397099057651,True,-1,True
+46561,3179,2026-05-04 12:01:25.561713,Online Purchase,37117.08,185.59,Completed,Groceries,Mobile,Antigua and Barbuda,False,True,True,4.909635795821464,True,-1,True
+46697,4830,2024-10-31 17:49:27.481866,Card Payment,32026.89,160.13,Completed,Groceries,Desktop,Mauritius,False,True,True,4.220701147867446,True,-1,True
+46729,4494,2024-09-13 17:09:29.061131,Card Payment,76566.96,382.83,Completed,Travel,Mobile,Chad,False,True,True,10.249002143566484,True,-1,True
+46748,2899,2026-02-02 22:29:09.269953,Bank Transfer,9140.87,45.7,Completed,Subscriptions,Mobile,Christmas Island,False,False,False,1.1231798113812657,False,-1,True
+46760,2643,2026-05-22 22:30:25.504729,Card Payment,9764.99,48.82,Completed,Entertainment,Mobile,Slovakia (Slovak Republic),False,False,False,1.2076516861995064,False,-1,True
+46862,4052,2025-02-06 01:19:48.677958,ATM Withdrawal,9441.64,47.21,Completed,Restaurants,Mobile,Yemen,False,False,False,1.1638876973472372,False,-1,True
+46873,1383,2026-04-25 20:01:53.856166,Online Purchase,9610.11,48.05,Completed,Travel,Desktop,Comoros,False,False,False,1.1866893648961527,False,-1,True
+47038,1049,2025-06-24 10:16:09.689338,Online Purchase,9234.16,46.17,Completed,Travel,Mobile,Hungary,False,False,False,1.1358061992582662,False,-1,True
+47196,4224,2024-07-01 19:18:56.878424,Online Purchase,10532.16,52.66,Completed,Healthcare,Mobile,Marshall Islands,False,True,False,1.3114847442721682,False,-1,True
+47222,2548,2025-09-19 01:46:42.077864,Online Purchase,9544.72,47.72,Completed,Healthcare,Mobile,Gambia,False,False,False,1.1778391183179868,False,-1,True
+47264,3152,2025-07-08 17:25:33.343550,Online Purchase,15133.4,75.67,Completed,Travel,Mobile,Chad,False,True,False,1.9342421776001857,False,-1,True
+47423,4775,2025-07-20 04:19:19.655195,Online Purchase,9669.5,48.35,Completed,Entertainment,Mobile,Niue,False,False,False,1.1947275380767193,False,-1,True
+47442,4868,2024-09-27 14:43:22.488705,Card Payment,25837.62,129.19,Completed,Utilities,Mobile,Mali,False,True,True,3.383010894941257,True,-1,True
+47446,2325,2025-10-25 22:11:16.077057,Online Purchase,9309.9,46.55,Completed,Restaurants,Mobile,Maldives,False,False,False,1.14605727244729,False,-1,True
+47538,3347,2026-05-22 06:00:12.153826,Bank Transfer,9936.25,49.68,Completed,Subscriptions,Mobile,Cameroon,False,False,False,1.2308309678783051,False,-1,True
+47547,2978,2024-12-21 10:38:23.336482,Card Payment,9534.56,47.67,Completed,Travel,Mobile,Netherlands,False,False,False,1.1764640073647192,False,-1,True
+47653,1383,2025-05-17 22:34:07.151814,Bank Transfer,9455.51,47.28,Completed,Healthcare,Mobile,Argentina,False,False,False,1.1657649403513535,False,-1,True
+47780,3654,2025-09-15 21:27:01.913455,Direct Debit,9264.63,46.32,Completed,Travel,Mobile,Cocos (Keeling) Islands,False,False,False,1.139930178662406,False,-1,True
+47857,3972,2025-07-05 06:19:03.260363,Online Purchase,57067.26,285.34,Completed,Restaurants,Mobile,Mongolia,False,True,True,7.609804205039837,True,-1,True
+47993,634,2025-06-21 22:18:43.936542,Online Purchase,8911.34,44.56,Completed,Healthcare,Mobile,Mexico,False,False,False,1.0921139435561185,False,-1,True
+48007,649,2024-07-08 20:13:29.944216,Bank Transfer,13507.84,67.54,Completed,Groceries,Mobile,Bermuda,False,True,False,1.7142298389000328,False,-1,True
+48315,4111,2024-09-11 13:47:15.175101,Card Payment,47053.2,235.27,Completed,Healthcare,Mobile,Albania,False,True,True,6.254445583713244,True,-1,True
+48584,1774,2024-07-16 13:58:29.720584,Card Payment,20144.55,100.72,Completed,Shopping,Mobile,Reunion,False,True,True,2.6124791119964996,False,-1,True
+48591,1789,2025-05-19 17:56:12.605537,Direct Debit,15140.4,75.7,Completed,Healthcare,Mobile,Croatia,False,True,False,1.935189596564051,False,-1,True
+48676,4859,2026-06-02 14:17:03.318067,Card Payment,9744.91,48.72,Completed,Shopping,Mobile,Norfolk Island,False,False,False,1.2049339472288751,False,-1,True
+48750,3859,2026-05-12 04:41:58.471800,Card Payment,29147.44,145.74,Completed,Entertainment,Mobile,Gabon,False,True,True,3.830980357081406,True,-1,True
+48865,1381,2026-03-23 03:54:22.774132,ATM Withdrawal,13631.82,68.16,Completed,Shopping,Desktop,Turkmenistan,False,True,False,1.7310099822057519,False,-1,True
+48941,1717,2025-08-30 04:24:52.309945,ATM Withdrawal,9846.36,49.23,Completed,Groceries,Mobile,Saint Martin,False,False,False,1.2186647549266105,False,-1,True
+48949,3523,2025-06-07 21:49:07.262655,ATM Withdrawal,28151.55,140.76,Completed,Entertainment,Mobile,Benin,False,True,True,3.696191061092273,True,-1,True
+49094,1087,2025-06-19 06:32:51.403098,Card Payment,9243.21,46.22,Completed,Groceries,Mobile,Micronesia,False,False,False,1.1370310766329779,False,-1,True
+49110,423,2026-04-18 08:47:40.834320,Card Payment,9791.94,48.96,Completed,Entertainment,Mobile,Serbia,False,False,False,1.2112992492103882,False,-1,True
+49485,2454,2025-05-01 04:34:24.706615,Online Purchase,15529.08,77.65,Completed,Travel,Desktop,Sweden,False,True,False,1.98779571126051,False,-1,True
+49542,4564,2024-07-06 23:46:19.784737,Card Payment,9649.18,48.25,Completed,Groceries,Mobile,Guinea,False,False,False,1.1919773161701843,False,-1,True
+49563,2474,2026-03-28 14:23:15.662791,Card Payment,21411.69,107.06,Completed,Subscriptions,Mobile,Guam,False,True,True,2.7839808928354177,False,-1,True
+49750,3731,2025-11-29 05:24:00.581840,Online Purchase,13502.16,67.51,Completed,Travel,Mobile,Montenegro,False,True,False,1.713461076083639,False,-1,True
+49777,3347,2025-05-30 08:42:19.830003,Online Purchase,8921.12,44.61,Completed,Subscriptions,Mobile,Malawi,False,False,False,1.0934376231942047,False,-1,True
+49908,4500,2025-10-25 12:17:57.254767,Card Payment,9013.22,45.07,Completed,Shopping,Mobile,Guatemala,False,False,False,1.105902949847348,False,-1,True
+49945,3014,2025-04-02 05:24:35.771415,Online Purchase,109567.6,547.84,Completed,Travel,Mobile,Brunei Darussalam,False,True,True,14.715492451523014,True,-1,True
+50024,1049,2025-08-12 22:58:54.244791,Bank Transfer,9835.66,49.18,Completed,Healthcare,Desktop,Morocco,False,False,False,1.217216557367559,False,-1,True
+50341,1047,2026-05-27 12:18:00.962399,Card Payment,52997.4,264.99,Pending,Subscriptions,Mobile,Croatia,False,True,True,7.058966698714506,True,-1,True
+50961,3149,2024-06-19 00:35:51.452610,Direct Debit,9727.57,48.64,Completed,Utilities,Mobile,Zimbabwe,False,False,False,1.2025870551098143,False,-1,True
+50994,4503,2024-06-21 14:28:32.583381,Online Purchase,19117.18,95.59,Completed,Travel,Mobile,Ethiopia,False,True,False,2.4734291375812973,False,-1,True
+51014,1922,2025-07-23 15:22:55.964753,Card Payment,10911.25,54.56,Completed,Groceries,Desktop,Thailand,False,True,False,1.3627928949881314,False,-1,True
+51266,599,2024-09-24 20:30:26.527768,Online Purchase,11117.48,55.59,Completed,Subscriptions,Mobile,Cyprus,False,True,False,1.3907052111192693,False,-1,True
+51286,1266,2025-06-23 09:45:34.472064,Bank Transfer,13634.85,68.17,Completed,Groceries,Mobile,Bouvet Island (Bouvetoya),False,True,False,1.7314200792715395,False,-1,True
+51330,2051,2026-06-05 19:41:48.201549,ATM Withdrawal,10264.56,51.32,Completed,Utilities,Mobile,Guinea-Bissau,False,True,False,1.275266270739256,False,-1,True
+51607,4749,2024-06-28 08:50:05.384051,Online Purchase,12083.72,60.42,Completed,Subscriptions,Mobile,Norfolk Island,False,True,False,1.521481511068601,False,-1,True
+51680,3650,2024-07-03 19:21:46.988625,Card Payment,9871.92,49.36,Completed,Entertainment,Desktop,Qatar,False,True,False,1.2221241876003819,False,-1,True
+51828,4903,2026-02-15 02:51:16.212590,Online Purchase,15351.44,76.76,Completed,Restaurants,Mobile,Belarus,False,True,False,1.963752924868931,False,-1,True
+52070,2899,2025-01-01 20:11:06.138336,Direct Debit,9134.94,45.67,Completed,Healthcare,Mobile,Macao,False,False,False,1.1223772121733053,False,-1,True
+52186,4901,2025-04-17 06:06:07.971734,Card Payment,9781.76,48.91,Completed,Entertainment,Mobile,Belize,False,False,False,1.2099214313457953,False,-1,True
+52194,3980,2025-05-03 09:20:22.912734,Card Payment,248874.5,1244.37,Completed,Entertainment,Mobile,Haiti,False,True,True,33.570063716852104,True,-1,True
+52522,3507,2025-03-11 14:50:04.558759,Bank Transfer,9625.31,48.13,Completed,Healthcare,Mobile,Thailand,False,False,False,1.1887466175034032,False,-1,True
+52563,4680,2024-12-20 10:38:46.600061,Online Purchase,17674.4,88.37,Completed,Utilities,Mobile,Guatemala,False,True,False,2.278155261483333,False,-1,True
+52588,485,2025-12-12 11:49:56.872840,Card Payment,13860.0,69.3,Completed,Healthcare,Mobile,Ethiopia,False,True,False,1.7618931335164394,False,-1,True
+52625,2121,2025-04-28 00:45:25.052566,Card Payment,9404.01,47.02,Pending,Travel,Mobile,Cape Verde,False,False,False,1.1587946436886294,False,-1,True
+52796,3509,2026-03-24 22:06:04.967644,Direct Debit,12043.5,60.22,Completed,Restaurants,Mobile,Guernsey,False,True,False,1.516037912393363,False,-1,True
+52814,1999,2026-05-30 04:12:39.517601,ATM Withdrawal,16992.36,84.96,Failed,Restaurants,Mobile,Rwanda,False,True,False,2.1858441714669374,False,-1,True
+52860,4179,2026-01-06 02:14:01.289509,Direct Debit,29923.7,149.62,Completed,Groceries,Mobile,Equatorial Guinea,False,True,True,3.936043706351431,True,-1,True
+52900,3230,2024-10-08 00:35:38.623449,Card Payment,18066.72,90.33,Completed,Healthcare,Mobile,Morocco,False,True,False,2.331254034041002,False,-1,True
+52956,1614,2026-03-07 00:31:29.467117,Card Payment,9255.23,46.28,Completed,Groceries,Mobile,Jordan,False,False,False,1.138657930339501,False,-1,True
+53217,1784,2025-01-15 07:39:21.817592,Direct Debit,9937.66,49.69,Completed,Travel,Mobile,Kazakhstan,False,False,False,1.2310218051267408,False,-1,True
+53307,3866,2026-02-22 20:16:17.381083,Card Payment,8932.3,44.66,Completed,Restaurants,Mobile,United Kingdom,False,False,False,1.0949507866250638,False,-1,True
+53314,2358,2025-05-24 11:06:40.622537,ATM Withdrawal,9366.3,46.83,Completed,Travel,Tablet,Somalia,True,True,False,1.15369076238472,False,-1,True
+53519,1083,2025-03-14 15:07:38.707935,Card Payment,11056.24,55.28,Completed,Shopping,Mobile,Norway,False,True,False,1.3824166486411096,False,-1,True
+53590,1288,2025-01-15 00:32:25.196100,Online Purchase,9657.12,48.29,Completed,Subscriptions,Tablet,Austria,False,True,False,1.1930519599663403,False,-1,True
+53711,2215,2024-07-18 17:37:40.084330,ATM Withdrawal,45822.81,229.11,Completed,Groceries,Mobile,Namibia,False,True,True,6.0879177524346195,True,-1,True
+53760,4859,2025-07-25 02:36:41.508739,Online Purchase,9658.27,48.29,Completed,Entertainment,Mobile,Comoros,False,False,False,1.1932076073675466,False,-1,True
+53798,1756,2024-09-05 22:42:15.981323,Bank Transfer,12556.53,62.78,Completed,Restaurants,Tablet,Latvia,False,True,False,1.5854742482550597,False,-1,True
+53842,3966,2025-03-23 12:25:13.182724,ATM Withdrawal,16308.24,81.54,Completed,Restaurants,Tablet,Sri Lanka,False,True,False,2.093251562672707,False,-1,True
+53877,888,2025-09-05 07:14:59.195505,Card Payment,9381.61,46.91,Completed,Utilities,Mobile,Central African Republic,False,False,False,1.15576290300426,False,-1,True
+54081,3377,2024-06-28 18:09:53.316316,Direct Debit,17729.25,88.65,Completed,Restaurants,Tablet,Ghana,False,True,False,2.28557896579305,False,-1,True
+54396,1995,2025-02-03 14:46:03.136968,Bank Transfer,197667.45,988.34,Completed,Restaurants,Desktop,Djibouti,False,True,True,26.639416537765715,True,-1,True
+54424,904,2024-07-09 08:22:50.910873,ATM Withdrawal,9464.88,47.32,Completed,Healthcare,Desktop,Guernsey,False,False,False,1.1670331283072704,False,-1,True
+54425,3282,2025-09-20 05:38:44.656732,Bank Transfer,74109.42,370.55,Completed,Healthcare,Mobile,Botswana,False,True,True,9.916385000643936,True,-1,True
+54428,1614,2025-08-23 07:41:07.418581,Online Purchase,9372.22,46.86,Completed,Healthcare,Mobile,Togo,False,False,False,1.1544920081370176,False,-1,True
+54579,4604,2025-12-16 17:30:48.838399,Bank Transfer,106070.94,530.35,Completed,Shopping,Desktop,Bulgaria,False,True,True,14.242235023781634,True,-1,True
+54592,2940,2026-01-31 20:53:05.705932,Card Payment,9181.3,45.91,Completed,Restaurants,Mobile,Bolivia,False,False,False,1.1286518326254196,False,-1,True
+54650,3948,2026-04-28 16:52:03.537044,Card Payment,46301.5,231.51,Completed,Healthcare,Mobile,Korea,False,True,True,6.152706321550726,True,-1,True
+54666,1712,2025-10-26 08:40:04.622562,Bank Transfer,9614.07,48.07,Completed,Healthcare,Desktop,Monaco,False,False,False,1.1872253333385678,False,-1,True
+54914,489,2024-12-29 01:20:35.787256,Online Purchase,21061.26,105.31,Completed,Restaurants,Mobile,Cote d'Ivoire,False,True,True,2.736551746048652,False,-1,True
+55021,1257,2024-07-30 10:51:46.193211,Bank Transfer,19712.74,98.56,Completed,Shopping,Mobile,Guam,False,True,False,2.5540355430269677,False,-1,True
+55089,1148,2025-03-08 12:06:50.436445,Direct Debit,9430.74,47.15,Completed,Utilities,Mobile,Guatemala,False,False,False,1.1624124306749324,False,-1,True
+55117,3628,2024-10-04 10:12:26.166618,Bank Transfer,155016.0,775.08,Completed,Healthcare,Mobile,Bhutan,False,True,True,20.86673188542889,True,-1,True
+55242,2975,2024-09-16 03:20:27.877923,Online Purchase,9885.97,49.43,Completed,Subscriptions,Mobile,France,False,False,False,1.224025792806426,False,-1,True
+55866,3972,2025-07-24 01:39:29.993479,Card Payment,9811.73,49.06,Completed,Entertainment,Mobile,Israel,False,False,False,1.213977737966802,False,-1,True
+55939,2266,2025-07-08 12:15:11.130338,Card Payment,8937.1,44.69,Pending,Restaurants,Mobile,Andorra,False,False,False,1.0956004453431432,False,-1,True
+56285,708,2026-04-10 17:25:27.524407,Bank Transfer,22107.36,110.54,Completed,Restaurants,Mobile,Malta,True,True,True,2.878136742920026,False,-1,True
+56531,4553,2024-07-16 21:59:08.946975,Direct Debit,9132.77,45.66,Completed,Groceries,Mobile,Serbia,False,False,False,1.122083512294507,False,-1,True
+56571,2558,2026-06-01 23:53:19.805795,Direct Debit,9896.56,49.48,Completed,Shopping,Mobile,Iceland,False,False,False,1.225459102353188,False,-1,True
+56608,1970,2026-05-21 04:59:55.334802,Card Payment,9863.92,49.32,Completed,Travel,Mobile,Kiribati,False,False,False,1.22104142307025,False,-1,True
+56825,3898,2025-12-14 04:24:39.625433,Card Payment,14750.0,73.75,Completed,Subscriptions,Mobile,Cape Verde,False,True,False,1.882350687493614,False,-1,True
+56868,1541,2026-02-20 05:59:52.723034,Online Purchase,17971.98,89.86,Completed,Restaurants,Mobile,Fiji,False,True,False,2.3184313950929147,False,-1,True
+56997,1616,2024-06-29 16:11:30.638186,Bank Transfer,20399.58,102.0,Completed,Travel,Mobile,Palau,False,True,True,2.6469962917614422,False,-1,True
+57164,3181,2025-08-14 00:11:41.975830,Card Payment,16149.0,80.74,Completed,Restaurants,Mobile,Sri Lanka,False,True,False,2.0716991347004314,False,-1,True
+57207,591,2025-06-29 00:14:14.891380,ATM Withdrawal,9548.8,47.74,Completed,Healthcare,Desktop,Cook Islands,False,True,False,1.178391328228354,False,-1,True
+57380,3193,2026-05-01 05:08:31.527342,Bank Transfer,18555.84,92.78,Completed,Restaurants,Mobile,Korea,False,True,False,2.397454257413267,False,-1,True
+57478,281,2025-01-05 16:29:09.351826,Card Payment,13798.4,68.99,Completed,Entertainment,Mobile,Hungary,False,True,False,1.7535558466344237,False,-1,True
+57651,1296,2025-05-02 02:09:24.683436,ATM Withdrawal,28083.55,140.42,Completed,Entertainment,Mobile,United States Minor Outlying Islands,False,True,True,3.6869875625861517,True,-1,True
+57857,931,2024-09-19 23:14:14.634610,Bank Transfer,21104.16,105.52,Completed,Subscriptions,Desktop,Korea,False,True,True,2.7423580708414845,False,-1,True
+57873,1383,2025-06-01 04:57:33.840751,Online Purchase,9355.26,46.78,Completed,Healthcare,Mobile,Falkland Islands (Malvinas),False,False,False,1.152196547333138,False,-1,True
+57891,909,2024-07-10 03:33:42.906764,Bank Transfer,9728.55,48.64,Completed,Shopping,Desktop,Tonga,False,False,False,1.2027196937647553,False,-1,True
+58030,2778,2025-02-16 12:11:09.521764,Direct Debit,417446.27,2087.23,Completed,Shopping,Mobile,Egypt,False,True,True,56.38550538404636,True,-1,True
+58057,4587,2026-06-03 21:55:25.226208,Card Payment,21375.97,106.88,Completed,Travel,Mobile,Liberia,False,True,True,2.779146349208379,False,-1,True
+58099,1739,2025-10-08 01:57:52.265399,Card Payment,9924.87,49.62,Completed,Travel,Mobile,Ghana,False,False,False,1.2292907353341926,False,-1,True
+58137,875,2026-01-30 12:50:26.213592,Card Payment,95244.2,476.22,Completed,Utilities,Tablet,Saint Helena,False,True,True,12.776883767661591,True,-1,True
+58322,1124,2025-07-04 23:23:05.748399,Online Purchase,38307.84,191.54,Completed,Restaurants,Mobile,Samoa,False,True,True,5.070799882308947,True,-1,True
+58590,1302,2024-08-12 09:29:56.722221,Online Purchase,12874.32,64.37,Completed,Utilities,Mobile,United Arab Emirates,False,True,False,1.628485715758887,False,-1,True
+58623,3145,2024-10-10 00:28:41.648358,Bank Transfer,9910.45,49.55,Completed,Subscriptions,Mobile,Papua New Guinea,False,True,False,1.2273390522686298,False,-1,True
+58637,3219,2026-05-21 11:11:25.436616,Bank Transfer,9015.9,45.08,Completed,Entertainment,Mobile,Cook Islands,False,False,False,1.1062656759649423,False,-1,True
+58641,91,2024-11-22 14:29:47.527292,Direct Debit,15814.28,79.07,Completed,Healthcare,Mobile,Barbados,False,True,False,2.0263962667597126,False,-1,True
+58909,3856,2025-03-16 05:04:40.680592,Bank Transfer,10169.4,50.85,Completed,Groceries,Mobile,Lithuania,False,True,False,1.262386786653337,False,-1,True
+59090,608,2024-07-26 11:16:59.225568,ATM Withdrawal,16343.82,81.72,Completed,Utilities,Desktop,San Marino,False,True,False,2.0980671579204686,False,-1,True
+59202,1626,2025-10-04 11:02:11.847019,Online Purchase,28464.57,142.32,Completed,Entertainment,Mobile,Sierra Leone,False,True,True,3.7385569302450095,True,-1,True
+59290,3467,2025-12-18 13:26:38.726414,ATM Withdrawal,9585.53,47.93,Completed,Subscriptions,Mobile,French Guiana,False,False,False,1.1833625708773223,False,-1,True
+59342,874,2025-04-16 02:40:10.343518,Online Purchase,13329.36,66.65,Completed,Subscriptions,Mobile,Libyan Arab Jamahiriya,False,True,False,1.69007336223279,False,-1,True
+59379,2975,2025-09-21 18:00:44.079199,Card Payment,485556.95,2427.78,Failed,Utilities,Mobile,Malaysia,False,True,True,65.60398393744195,True,-1,True
+59550,1498,2025-06-09 14:28:35.059128,Online Purchase,9862.36,49.31,Completed,Groceries,Mobile,Malta,False,False,False,1.2208302839868743,False,-1,True
+59677,2437,2025-11-14 01:42:02.742665,Online Purchase,9429.62,47.15,Completed,Healthcare,Mobile,Monaco,False,False,False,1.1622608436407142,False,-1,True
+59805,3494,2026-02-24 14:24:14.149558,Bank Transfer,193930.72,969.65,Completed,Subscriptions,Tablet,Turkey,False,True,True,26.133666699930735,True,-1,True
+59971,2485,2025-10-24 03:26:09.165936,Card Payment,10403.2,52.02,Completed,Groceries,Mobile,Palestinian Territory,False,True,False,1.294030580046442,False,-1,True
+60069,3467,2026-04-13 00:40:57.903286,Direct Debit,9533.99,47.67,Completed,Subscriptions,Mobile,Switzerland,False,False,False,1.1763868603919474,False,-1,True
+60173,1419,2026-04-21 09:20:20.745557,Card Payment,8953.73,44.77,Completed,Entertainment,Mobile,Falkland Islands (Malvinas),False,False,False,1.0978512421101547,False,-1,True
+60310,1944,2024-07-29 10:05:09.617328,ATM Withdrawal,11604.64,58.02,Completed,Subscriptions,Mobile,Lithuania,False,True,False,1.4566401571816519,False,-1,True
+60354,581,2026-04-07 07:30:39.460101,Direct Debit,16023.99,80.12,Completed,Subscriptions,Mobile,Trinidad and Tobago,False,True,False,2.054779585461458,False,-1,True
+60367,241,2025-03-12 01:51:31.346243,Bank Transfer,9247.44,46.24,Completed,Groceries,Mobile,Tokelau,False,False,False,1.1376035883782851,False,-1,True
+60415,3654,2026-04-25 12:40:04.205696,ATM Withdrawal,8921.48,44.61,Completed,Travel,Mobile,Trinidad and Tobago,False,False,False,1.0934863475980605,False,-1,True
+60456,3323,2025-01-22 10:12:33.318362,ATM Withdrawal,9035.05,45.18,Completed,Healthcare,Mobile,Tanzania,False,False,False,1.1088575435589456,False,-1,True
+60548,4538,2024-11-17 18:34:43.707717,Online Purchase,9781.54,48.91,Completed,Travel,Mobile,Liberia,False,False,False,1.2098916553212167,False,-1,True
+60549,873,2024-08-26 14:13:02.429180,Online Purchase,12254.0,61.27,Completed,Entertainment,Mobile,Tokelau,False,True,False,1.544528154092459,False,-1,True
+60553,2440,2026-04-30 16:11:46.190254,Card Payment,9682.75,48.41,Completed,Travel,Mobile,Saint Pierre and Miquelon,False,True,False,1.1965208668297502,False,-1,True
+60650,895,2025-03-27 11:55:57.453014,Card Payment,10158.84,50.79,Completed,Restaurants,Tablet,Marshall Islands,False,True,False,1.2609575374735629,False,-1,True
+60919,2978,2025-02-25 12:17:45.291252,Bank Transfer,8932.86,44.66,Completed,Healthcare,Mobile,Mexico,False,False,False,1.0950265801421732,False,-1,True
+60959,2485,2026-05-24 06:43:01.529812,Bank Transfer,11193.84,55.97,Pending,Healthcare,Mobile,Korea,False,True,False,1.4010401985593783,False,-1,True
+60969,796,2025-07-05 14:10:24.701957,Online Purchase,53920.58,269.6,Completed,Shopping,Mobile,Heard Island and McDonald Islands,False,True,True,7.183915018580403,True,-1,True
+60989,2824,2024-07-17 08:51:27.487813,Online Purchase,10898.5,54.49,Completed,Utilities,Mobile,Faroe Islands,False,True,False,1.3610672390182337,False,-1,True
+61040,4192,2025-11-05 14:54:43.745990,ATM Withdrawal,53005.3,265.03,Completed,Healthcare,Mobile,Portugal,False,True,True,7.060035928688012,True,-1,True
+61052,4194,2025-06-08 00:48:11.684975,Bank Transfer,316302.54,1581.51,Completed,Healthcare,Mobile,Slovenia,False,True,True,42.69614997289153,True,-1,True
+61073,2091,2026-06-04 09:28:11.497786,Direct Debit,9604.0,48.02,Completed,Utilities,Mobile,Finland,False,True,False,1.1858624034862644,False,-1,True
+61138,1049,2026-05-04 16:51:55.120649,ATM Withdrawal,9701.92,48.51,Completed,Shopping,Mobile,Grenada,False,False,False,1.1991154413350789,False,-1,True
+61204,1148,2026-01-02 19:34:36.709769,Direct Debit,9467.02,47.34,Completed,Utilities,Mobile,Saint Helena,False,False,False,1.1673227678190807,False,-1,True
+61414,76,2024-09-27 08:17:48.034710,Card Payment,8931.94,44.66,Completed,Shopping,Mobile,Malta,False,False,False,1.094902062221208,False,-1,True
+61577,4703,2025-09-07 18:03:46.892173,Online Purchase,17426.64,87.13,Completed,Travel,Mobile,Comoros,False,True,False,2.2446220439851476,False,-1,True
+61614,3652,2025-07-13 18:20:23.573767,Card Payment,15878.7,79.39,Completed,Subscriptions,Mobile,Samoa,False,True,False,2.0351152281386,False,-1,True
+61621,2231,2026-02-24 16:46:03.999565,Bank Transfer,47073.62,235.37,Pending,Restaurants,Mobile,Brunei Darussalam,False,True,True,6.257209340176407,True,-1,True
+61817,1492,2024-08-21 20:04:15.963586,Card Payment,33117.0,165.59,Completed,Entertainment,Mobile,Tunisia,False,True,True,4.368242703110209,True,-1,True
+61904,2184,2026-06-01 10:46:47.716842,ATM Withdrawal,14420.38,72.1,Completed,Utilities,Tablet,British Indian Ocean Territory (Chagos Archipelago),False,True,False,1.837738081940854,False,-1,True
+61926,4677,2025-11-06 05:44:32.708042,Bank Transfer,11099.8,55.5,Completed,Healthcare,Mobile,Comoros,False,True,False,1.3883123015076777,False,-1,True
+61939,2461,2025-06-01 12:31:01.187405,ATM Withdrawal,56983.96,284.92,Completed,Healthcare,Mobile,Rwanda,False,True,True,7.598529919369838,True,-1,True
+62009,1411,2025-05-29 18:11:48.795118,Card Payment,35169.12,175.85,Completed,Groceries,Mobile,Benin,False,True,True,4.645988046556995,True,-1,True
+62129,1024,2025-05-22 14:03:52.809969,ATM Withdrawal,14633.0,73.17,Completed,Subscriptions,Mobile,Guadeloupe,False,True,False,1.866515256240435,False,-1,True
+62357,2073,2025-11-07 17:48:47.513201,Bank Transfer,39876.3,199.38,Completed,Restaurants,Mobile,Portugal,False,True,True,5.283083989175284,True,-1,True
+62468,2954,2025-12-26 20:36:15.313714,Card Payment,30327.57,151.64,Pending,Travel,Mobile,Japan,False,True,True,3.990705720199477,True,-1,True
+62495,3405,2025-03-27 10:27:28.069758,Card Payment,9175.6,45.88,Completed,Travel,Mobile,Pakistan,False,False,False,1.1278803628977008,False,-1,True
+62574,936,2025-12-26 21:40:11.062927,Online Purchase,9144.1,45.72,Completed,Shopping,Mobile,Mauritania,False,False,False,1.1236169775603062,False,-1,True
+62846,314,2025-02-07 08:26:21.787631,Card Payment,9670.95,48.35,Completed,Utilities,Desktop,Dominican Republic,False,False,False,1.1949237891478057,False,-1,True
+63032,3424,2025-02-09 06:16:24.318910,Bank Transfer,10267.6,51.34,Completed,Restaurants,Mobile,Angola,False,True,False,1.2756777212607062,False,-1,True
+63118,4765,2025-06-06 23:24:59.964102,Card Payment,9832.94,49.16,Completed,Travel,Mobile,Guadeloupe,False,False,False,1.2168484174273142,False,-1,True
+63175,2207,2025-01-08 03:50:16.184340,ATM Withdrawal,9997.85,49.99,Completed,Utilities,Mobile,Korea,False,False,False,1.2391682547603209,False,-1,True
+63199,1624,2025-10-11 23:52:53.839891,Bank Transfer,23909.0,119.55,Completed,Entertainment,Desktop,Czech Republic,False,True,True,3.1219807289283823,True,-1,True
+63282,248,2025-06-16 02:31:28.822402,ATM Withdrawal,9711.3,48.56,Completed,Subscriptions,Mobile,Oman,False,False,False,1.2003849827466584,False,-1,True
+63306,3423,2025-06-26 14:03:49.558586,Online Purchase,9524.25,47.62,Completed,Travel,Mobile,Maldives,False,False,False,1.1750685945765118,False,-1,True
+63369,4320,2025-12-28 02:50:57.526470,Bank Transfer,9317.9,46.59,Completed,Healthcare,Mobile,Turkmenistan,False,False,False,1.1471400369774218,False,-1,True
+63375,988,2026-01-16 17:15:22.741067,ATM Withdrawal,43268.4,216.34,Completed,Shopping,Desktop,Pitcairn Islands,False,True,True,5.7421896845078395,True,-1,True
+63520,809,2026-04-02 20:17:17.139483,Card Payment,9452.86,47.26,Completed,Shopping,Mobile,Suriname,False,False,False,1.1654062746007474,False,-1,True
+63724,3946,2024-07-16 08:22:16.380319,Bank Transfer,70100.1,350.5,Completed,Healthcare,Desktop,United Kingdom,False,True,True,9.37374131490038,True,-1,True
+63769,4338,2025-02-19 21:26:21.634255,Card Payment,12271.07,61.36,Completed,Shopping,Mobile,Guam,False,True,False,1.5468385029086278,False,-1,True
+63788,1504,2025-09-24 04:45:40.046449,Direct Debit,62472.75,312.36,Completed,Travel,Mobile,Djibouti,False,True,True,8.341413310037678,True,-1,True
+64136,2097,2025-10-25 05:14:22.078084,Online Purchase,14103.1,70.52,Completed,Entertainment,Mobile,Algeria,False,True,False,1.7947956406758228,False,-1,True
+64138,3109,2025-03-16 13:12:12.442456,Online Purchase,22023.0,110.12,Completed,Groceries,Desktop,Seychelles,False,True,True,2.866718990949785,False,-1,True
+64147,2811,2024-12-27 13:07:14.150301,Bank Transfer,28940.8,144.7,Completed,Travel,Tablet,Hungary,False,True,True,3.803012549268099,True,-1,True
+64174,4834,2026-03-04 15:30:58.795386,Online Purchase,9721.42,48.61,Completed,Travel,Desktop,Liechtenstein,False,False,False,1.2017546798772754,False,-1,True
+64224,2115,2025-03-02 04:49:58.147805,Online Purchase,12809.1,64.05,Completed,Restaurants,Mobile,French Guiana,False,True,False,1.6196584779269867,False,-1,True
+64274,1505,2025-09-16 21:51:20.104113,Card Payment,9665.6,48.33,Completed,Subscriptions,Mobile,Liberia,False,False,False,1.19419969036828,False,-1,True
+64379,4405,2025-12-24 18:57:28.498728,Card Payment,9497.15,47.49,Completed,Entertainment,Mobile,Timor-Leste,False,False,False,1.1714007297306899,False,-1,True
+64700,3880,2025-03-11 05:01:19.017677,Bank Transfer,9298.81,46.49,Completed,Healthcare,Mobile,Swaziland,False,False,False,1.1445562901173947,False,-1,True
+64740,552,2025-02-09 09:56:54.183274,Bank Transfer,9366.95,46.83,Completed,Healthcare,Mobile,Uganda,False,False,False,1.1537787370027932,False,-1,True
+64839,913,2025-09-05 09:07:43.254839,Card Payment,9564.85,47.82,Completed,Healthcare,Desktop,Israel,False,False,False,1.1805636245669313,False,-1,True
+64843,2975,2024-07-02 04:19:56.134634,Card Payment,9804.98,49.02,Completed,Healthcare,Mobile,British Virgin Islands,False,False,False,1.2130641553945032,False,-1,True
+64853,3972,2026-04-10 10:57:35.524580,Direct Debit,9832.41,49.16,Completed,Subscriptions,Mobile,Peru,False,False,False,1.216776684277193,False,-1,True
+64860,3500,2026-05-02 09:03:21.654996,ATM Withdrawal,9647.78,48.24,Completed,Healthcare,Desktop,Albania,False,False,False,1.1917878323774111,False,-1,True
+65106,2881,2026-01-09 10:39:39.913783,Direct Debit,52456.23,262.28,Completed,Travel,Mobile,Wallis and Futuna,False,True,True,6.9857217386180706,True,-1,True
+65149,1784,2025-10-13 10:34:25.045567,Bank Transfer,9782.18,48.91,Completed,Healthcare,Mobile,Colombia,False,False,False,1.2099782764836273,False,-1,True
+65178,4405,2026-02-01 09:02:47.550673,Online Purchase,9637.15,48.19,Completed,Entertainment,Mobile,Samoa,False,False,False,1.1903491090079983,False,-1,True
+65230,4439,2024-10-14 14:03:26.481297,Online Purchase,9565.41,47.83,Completed,Groceries,Mobile,Tanzania,False,False,False,1.1806394180840405,False,-1,True
+65505,1291,2026-01-13 16:29:01.646538,Bank Transfer,114553.16,572.77,Completed,Shopping,Desktop,Trinidad and Tobago,False,True,True,15.390265892878569,True,-1,True
+65842,4390,2025-11-05 23:39:16.058895,Card Payment,17283.75,86.42,Completed,Utilities,Mobile,Gibraltar,False,True,False,2.225282516021329,False,-1,True
+66362,3964,2024-10-01 17:11:17.996309,Direct Debit,9133.58,45.67,Completed,Groceries,Mobile,Malta,False,False,False,1.1221931422031828,False,-1,True
+66424,2402,2024-06-14 20:13:10.936691,Card Payment,14249.6,71.25,Completed,Shopping,Mobile,Lao People's Democratic Republic,False,True,False,1.8146237661338633,False,-1,True
+66500,4803,2026-06-10 19:09:06.669427,Bank Transfer,9537.63,47.69,Completed,Healthcare,Tablet,Malaysia,False,False,False,1.1768795182531573,False,-1,True
+66509,3587,2026-04-20 06:34:10.724201,Card Payment,9844.97,49.22,Completed,Shopping,Mobile,Poland,False,False,False,1.2184766245895,False,-1,True
+66573,1699,2025-02-01 10:18:03.444036,Online Purchase,230863.36,1154.32,Completed,Healthcare,Mobile,Montserrat,False,True,True,31.1323357744471,True,-1,True
+66902,1739,2024-11-12 22:45:34.132058,Bank Transfer,9174.52,45.87,Pending,Restaurants,Tablet,Philippines,False,False,False,1.1277341896861328,False,-1,True
+66947,7,2024-06-14 11:05:42.542939,Online Purchase,73318.08,366.59,Completed,Entertainment,Mobile,Cameroon,False,True,True,9.809280640234613,True,-1,True
+66989,4405,2026-04-17 09:45:22.695184,Card Payment,9947.03,49.74,Completed,Healthcare,Mobile,Philippines,False,False,False,1.2322899930826579,False,-1,True
+67072,423,2025-07-26 04:49:56.018248,ATM Withdrawal,9342.91,46.71,Completed,Subscriptions,Mobile,Haiti,False,False,False,1.150525029589747,False,-1,True
+67113,1052,2024-09-22 07:44:52.444691,Card Payment,11488.5,57.44,Completed,Utilities,Mobile,Uruguay,False,True,False,1.440921123115462,False,-1,True
+67206,1837,2025-02-06 19:30:04.016881,Bank Transfer,15892.98,79.46,Completed,Utilities,Tablet,India,False,True,False,2.037047962824885,False,-1,True
+67225,3198,2024-09-18 05:12:42.384905,Card Payment,129132.36,645.66,Completed,Groceries,Mobile,Cook Islands,False,True,True,17.363495972590957,True,-1,True
+67407,1482,2025-08-30 12:14:24.077041,Online Purchase,9022.87,45.11,Completed,Healthcare,Mobile,Korea,False,True,False,1.10720903456182,False,-1,True
+67494,2321,2026-01-11 15:37:54.202659,Card Payment,9262.48,46.31,Completed,Groceries,Mobile,Italy,False,False,False,1.139639185694933,False,-1,True
+67507,4916,2025-12-10 06:01:41.424995,Bank Transfer,64153.44,320.77,Completed,Healthcare,Mobile,Kiribati,False,True,True,8.568887249806103,True,-1,True
+67757,2643,2024-09-28 23:12:04.111626,Online Purchase,9168.55,45.84,Completed,Shopping,Mobile,Sweden,False,False,False,1.1269261766555219,False,-1,True
+67794,285,2025-07-27 13:18:34.747079,Direct Debit,9388.81,46.94,Completed,Travel,Mobile,Pakistan,False,False,False,1.1567373910813785,False,-1,True
+67843,587,2024-12-03 14:21:57.914867,Online Purchase,41944.0,209.72,Completed,Healthcare,Desktop,Belarus,False,True,True,5.562938016544502,True,-1,True
+67863,2542,2025-08-16 04:16:50.385468,Card Payment,9533.3,47.67,Completed,Entertainment,Desktop,Venezuela,False,False,False,1.1762934719512235,False,-1,True
+67901,3494,2025-03-30 21:02:31.024423,Card Payment,9676.55,48.38,Completed,Utilities,Mobile,Tuvalu,False,False,False,1.195681724318898,False,-1,True
+67957,4958,2026-04-20 01:40:14.640908,Online Purchase,9544.2,47.72,Completed,Restaurants,Mobile,Afghanistan,False,False,False,1.1777687386235285,False,-1,True
+68105,2476,2024-12-25 23:17:31.951057,Card Payment,9182.6,45.91,Completed,Shopping,Mobile,Guam,False,True,False,1.1288277818615662,False,-1,True
+68134,2804,2024-09-08 05:01:41.716193,Card Payment,74101.95,370.51,Completed,Groceries,Mobile,Senegal,False,True,True,9.915373969263925,True,-1,True
+68180,4405,2025-07-13 05:11:45.174178,Card Payment,9432.75,47.16,Completed,Shopping,Mobile,Brunei Darussalam,False,False,False,1.1626844752631282,False,-1,True
+68246,3407,2025-01-06 00:39:31.182373,Bank Transfer,20862.82,104.31,Completed,Groceries,Mobile,Luxembourg,False,True,True,2.7096937718787304,False,-1,True
+68253,1452,2025-08-21 04:48:18.292165,Bank Transfer,9714.92,48.57,Completed,Groceries,Mobile,Comoros,False,False,False,1.2008749336965432,False,-1,True
+68386,3944,2024-06-18 10:18:08.020278,Card Payment,39770.13,198.85,Failed,Restaurants,Mobile,Bouvet Island (Bouvetoya),False,True,True,5.26871435040477,True,-1,True
+68581,3053,2025-03-16 10:05:39.399971,Card Payment,14236.74,71.18,Failed,Travel,Mobile,Kyrgyz Republic,False,True,False,1.8128832221516762,False,-1,True
+68604,3024,2025-03-12 08:36:45.325765,Direct Debit,24301.76,121.51,Completed,Shopping,Mobile,Comoros,False,True,True,3.175139053535208,True,-1,True
+68793,2643,2025-01-17 05:03:01.803863,Bank Transfer,9979.92,49.9,Completed,Utilities,Desktop,Colombia,False,False,False,1.2367415087571627,False,-1,True
+68860,3515,2025-10-03 16:44:04.231408,ATM Withdrawal,9899.51,49.5,Completed,Travel,Mobile,North Macedonia,False,False,False,1.2258583717736744,False,-1,True
+69285,848,2025-03-12 12:18:16.650421,Online Purchase,10234.86,51.17,Pending,Utilities,Mobile,Estonia,False,True,False,1.2712465074211412,False,-1,True
+69315,1049,2025-06-19 07:21:30.374439,Card Payment,9039.25,45.2,Completed,Subscriptions,Mobile,El Salvador,False,False,False,1.109425994937265,False,-1,True
+69363,4760,2025-11-18 18:38:49.251354,ATM Withdrawal,9279.46,46.4,Completed,Healthcare,Mobile,Lao People's Democratic Republic,False,False,False,1.141937353410138,False,-1,True
+69618,3761,2026-03-12 00:35:24.346330,Bank Transfer,10635.93,53.18,Completed,Subscriptions,Desktop,Antigua and Barbuda,False,True,False,1.3255295536836418,False,-1,True
+69743,3910,2025-07-12 21:37:55.722459,Online Purchase,21098.5,105.49,Completed,Subscriptions,Desktop,Saint Pierre and Miquelon,False,True,True,2.7415920149364164,False,-1,True
+69809,2975,2026-03-22 09:46:53.986332,Bank Transfer,9365.84,46.83,Completed,Shopping,Mobile,Madagascar,False,False,False,1.1536285034242375,False,-1,True
+69954,93,2025-10-20 19:51:19.233351,ATM Withdrawal,9621.53,48.11,Completed,Restaurants,Mobile,Tunisia,False,True,False,1.1882350112629159,False,-1,True
+70231,699,2025-07-06 13:53:56.725890,Bank Transfer,46529.53,232.65,Completed,Shopping,Mobile,Belize,False,True,True,6.183569171026472,True,-1,True
+70276,1087,2025-10-25 14:47:26.601526,Bank Transfer,9388.12,46.94,Completed,Subscriptions,Mobile,Zambia,False,False,False,1.1566440026406548,False,-1,True
+70364,2778,2025-01-11 23:24:32.826194,Card Payment,9279.67,46.4,Completed,Groceries,Mobile,Mauritius,False,False,False,1.141965775979054,False,-1,True
+70541,2225,2025-08-14 03:07:46.730135,Bank Transfer,31847.06,159.24,Completed,Travel,Desktop,Wallis and Futuna,False,True,True,4.196361954685744,True,-1,True
+70863,1241,2025-12-17 13:52:11.853873,Online Purchase,17071.5,85.36,Completed,Entertainment,Mobile,Oman,False,True,False,2.196555419581267,False,-1,True
+70920,2930,2026-01-26 10:34:03.802891,Card Payment,9179.78,45.9,Completed,Subscriptions,Mobile,Djibouti,False,False,False,1.1284461073646945,False,-1,True
+70943,1970,2026-03-06 18:30:16.197230,Bank Transfer,9282.15,46.41,Completed,Entertainment,Mobile,Cook Islands,False,False,False,1.142301432983395,False,-1,True
+71024,824,2025-11-15 14:19:50.006753,Online Purchase,10323.84,51.62,Completed,Travel,Mobile,Dominican Republic,False,True,False,1.2832895559075335,False,-1,True
+71152,385,2024-08-17 05:51:22.812345,Bank Transfer,20679.12,103.4,Completed,Travel,Mobile,Finland,False,True,True,2.6848307913555765,False,-1,True
+71284,3578,2024-12-12 12:27:03.428971,Bank Transfer,9234.72,46.17,Completed,Travel,Mobile,Venezuela,False,True,False,1.1358819927753754,False,-1,True
+71304,3507,2026-01-24 20:05:02.308641,Bank Transfer,9409.05,47.05,Completed,Shopping,Mobile,Afghanistan,False,False,False,1.1594767853426122,False,-1,True
+71358,2286,2026-04-22 01:39:11.552436,Online Purchase,87863.3,439.32,Completed,Healthcare,Mobile,Turkey,False,True,True,11.777911677605267,True,-1,True
+71360,1284,2024-10-23 06:49:05.257156,Bank Transfer,12417.0,62.09,Completed,Entertainment,Mobile,Sweden,False,True,False,1.5665894813938965,False,-1,True
+71408,3323,2026-02-01 15:06:25.842002,Direct Debit,9605.97,48.03,Completed,Restaurants,Mobile,Christmas Island,False,False,False,1.1861290342518092,False,-1,True
+71721,835,2025-11-10 10:12:18.374054,Bank Transfer,9120.44,45.6,Completed,Subscriptions,Mobile,Belize,False,False,False,1.1204147014624413,False,-1,True
+71958,3258,2026-01-21 18:12:56.581014,Direct Debit,9513.17,47.57,Completed,Utilities,Mobile,British Indian Ocean Territory (Chagos Archipelago),False,False,False,1.1735689657022792,False,-1,True
+71965,2687,2025-04-22 05:13:23.627107,Bank Transfer,9635.66,48.18,Completed,Utilities,Tablet,Ukraine,False,False,False,1.1901474441142612,False,-1,True
+72267,1554,2025-09-01 16:06:54.002927,Bank Transfer,9596.1,47.98,Completed,Restaurants,Mobile,Ghana,False,False,False,1.184793173512759,False,-1,True
+72299,4151,2025-02-03 08:01:49.985265,Bank Transfer,64738.89,323.69,Completed,Travel,Mobile,Jersey,False,True,True,8.648125311576818,True,-1,True
+72498,4604,2025-09-03 13:20:25.915229,Card Payment,9587.42,47.94,Completed,Shopping,Mobile,Malta,False,False,False,1.1836183739975659,False,-1,True
+72554,2478,2025-03-14 01:38:50.065838,Online Purchase,9858.39,49.29,Completed,Travel,Desktop,New Zealand,False,False,False,1.2202929620887961,False,-1,True
+72726,1150,2025-11-27 16:32:20.070503,Direct Debit,9524.25,47.62,Completed,Groceries,Mobile,Palau,False,False,False,1.1750685945765118,False,-1,True
+72817,4311,2026-02-10 21:29:41.875771,Online Purchase,9048.85,45.24,Completed,Groceries,Mobile,Dominica,False,False,False,1.1107253123734233,False,-1,True
+73236,346,2024-06-21 05:05:15.183481,ATM Withdrawal,24430.91,122.15,Completed,Healthcare,Mobile,Nauru,False,True,True,3.192618933418525,True,-1,True
+73463,4405,2024-08-30 14:19:18.202216,Card Payment,8938.37,44.69,Completed,Groceries,Mobile,Lao People's Democratic Republic,False,False,False,1.0957723342123016,False,-1,True
+73512,1554,2026-04-23 02:12:54.104001,Bank Transfer,9891.2,49.46,Completed,Entertainment,Mobile,Bosnia and Herzegovina,False,False,False,1.224733650118,False,-1,True
+73848,85,2026-05-07 20:17:22.531450,Card Payment,61546.33,307.73,Completed,Groceries,Mobile,Russian Federation,False,True,True,8.216026470537077,True,-1,True
+73894,3347,2024-12-12 09:52:27.464398,Card Payment,9156.54,45.78,Completed,Travel,Mobile,Bosnia and Herzegovina,False,False,False,1.1253006764046616,False,-1,True
+74014,2919,2024-09-18 11:31:11.527814,Online Purchase,9825.94,49.13,Completed,Subscriptions,Mobile,United States of America,False,False,False,1.2159009984634488,False,-1,True
+74159,4564,2024-08-18 08:40:54.607385,Online Purchase,9012.86,45.06,Completed,Entertainment,Mobile,Hungary,False,False,False,1.1058542254434924,False,-1,True
+74182,2121,2024-10-21 16:58:33.269044,Direct Debit,9808.9,49.04,Completed,Groceries,Mobile,Turkmenistan,False,False,False,1.2135947100142677,False,-1,True
+74237,3014,2025-02-18 12:59:15.540582,Direct Debit,9161.06,45.81,Completed,Entertainment,Mobile,Turkey,False,False,False,1.1259124383641859,False,-1,True
+74349,536,2026-04-01 16:57:41.383406,Card Payment,9152.52,45.76,Completed,Groceries,Mobile,French Southern Territories,False,False,False,1.12475658722827,False,-1,True
+74394,4887,2024-09-26 17:56:15.870088,Online Purchase,23763.36,118.82,Completed,Groceries,Mobile,Saint Vincent and the Grenadines,False,True,True,3.102269000657331,True,-1,True
+74453,3515,2024-12-16 09:36:29.231880,Bank Transfer,9334.24,46.67,Completed,Healthcare,Mobile,British Indian Ocean Territory (Chagos Archipelago),False,False,False,1.1493515835302164,False,-1,True
+74620,4547,2026-03-15 07:06:36.442307,Bank Transfer,18579.3,92.9,Completed,Utilities,Mobile,Malta,False,True,False,2.4006294643978783,False,-1,True
+74623,3425,2025-09-26 02:53:14.121523,Online Purchase,13031.72,65.16,Completed,Utilities,Mobile,Taiwan,False,True,False,1.6497891078892322,False,-1,True
+74687,2194,2026-01-19 11:44:46.526836,Online Purchase,12103.98,60.52,Completed,Subscriptions,Desktop,Nigeria,False,True,False,1.52422361224116,False,-1,True
+74783,4919,2025-12-24 22:27:35.491877,Card Payment,36462.6,182.31,Completed,Entertainment,Mobile,Niger,False,True,True,4.821054829611372,True,-1,True
+74840,2451,2026-05-29 11:50:54.134298,Bank Transfer,9581.92,47.91,Completed,Entertainment,Mobile,Taiwan,False,False,False,1.1828739733831002,False,-1,True
+74965,785,2025-12-29 10:08:28.006403,Online Purchase,43494.21,217.47,Completed,Travel,Mobile,United Arab Emirates,False,True,True,5.772752066826475,True,-1,True
+75023,3408,2024-06-20 12:18:05.166035,Online Purchase,9486.35,47.43,Completed,Entertainment,Mobile,Pitcairn Islands,False,False,False,1.169938997615012,False,-1,True
+75139,285,2025-05-27 12:11:12.138150,Card Payment,112866.6,564.33,Completed,Entertainment,Mobile,Aruba,False,True,True,15.16199747463616,True,-1,True
+75202,1557,2026-05-24 22:27:08.797575,Bank Transfer,13822.48,69.11,Completed,Entertainment,Desktop,Portugal,False,True,False,1.7568149678701206,False,-1,True
+75545,3628,2024-08-19 08:05:00.254164,Online Purchase,9609.58,48.05,Completed,Utilities,Mobile,France,False,False,False,1.1866176317460313,False,-1,True
+75608,3519,2024-07-14 19:15:11.582555,Online Purchase,10379.42,51.9,Failed,Travel,Desktop,Micronesia,False,True,False,1.2908120624806247,False,-1,True
+75648,4604,2025-08-25 15:26:27.989559,Direct Debit,9870.74,49.35,Completed,Travel,Mobile,Sweden,False,False,False,1.2219644798321874,False,-1,True
+75683,552,2024-08-15 22:50:21.373178,Card Payment,563093.31,2815.47,Completed,Subscriptions,Mobile,French Polynesia,False,True,True,76.09818648788426,True,-1,True
+75763,4803,2026-02-03 17:35:38.526571,Card Payment,9700.32,48.5,Completed,Healthcare,Mobile,Ukraine,False,False,False,1.1988988884290523,False,-1,True
+75786,835,2024-09-27 05:08:41.321514,Card Payment,9353.71,46.77,Completed,Entertainment,Desktop,Egypt,False,False,False,1.1519867617054247,False,-1,True
+75808,1730,2025-02-28 03:52:33.273056,Online Purchase,9560.54,47.8,Completed,Utilities,Mobile,New Caledonia,False,False,False,1.1799802851763228,False,-1,True
+76032,2613,2025-08-01 06:29:28.467803,Card Payment,59837.96,299.19,Failed,Groceries,Mobile,Heard Island and McDonald Islands,False,True,True,7.984806165494396,True,-1,True
+76046,3702,2026-04-13 02:48:11.394918,Online Purchase,10287.2,51.44,Completed,Subscriptions,Mobile,Tuvalu,False,True,False,1.2783304943595293,False,-1,True
+76184,4052,2025-06-06 15:54:28.520744,Bank Transfer,9469.75,47.35,Completed,Restaurants,Mobile,Central African Republic,False,False,False,1.1676922612149883,False,-1,True
+76197,2029,2026-01-27 16:07:37.372988,Card Payment,9363.9,46.82,Completed,Travel,Mobile,Holy See (Vatican City State),False,False,False,1.1533659330256805,False,-1,True
+76214,2293,2026-02-26 04:27:37.372796,Bank Transfer,23899.05,119.5,Completed,Restaurants,Desktop,Bermuda,False,True,True,3.1206340405440307,True,-1,True
+76255,665,2025-02-08 19:10:43.163475,Bank Transfer,46559.5,232.8,Completed,Subscriptions,Tablet,Lithuania,False,True,True,6.1876254776474795,True,-1,True
+76270,703,2024-09-22 00:36:29.257284,Direct Debit,89460.42,447.3,Completed,Travel,Mobile,Afghanistan,False,True,True,11.994074788400802,True,-1,True
+76315,1599,2024-11-10 18:30:11.430084,Online Purchase,159617.64,798.09,Completed,Travel,Mobile,Austria,False,True,True,21.489543456983416,True,-1,True
+76342,1554,2025-05-18 10:46:39.662339,Direct Debit,9939.68,49.7,Completed,Healthcare,Mobile,Afghanistan,False,False,False,1.2312952031705993,False,-1,True
+76376,1425,2024-07-25 14:16:00.130868,Card Payment,9481.98,47.41,Completed,Shopping,Mobile,Zambia,False,False,False,1.1693475374904274,False,-1,True
+76406,2505,2026-01-06 16:23:19.092556,Card Payment,12509.28,62.55,Pending,Subscriptions,Mobile,Mongolia,False,True,False,1.5790791702489682,False,-1,True
+76460,3654,2025-10-12 12:29:04.608120,Card Payment,9490.39,47.45,Completed,Travel,Mobile,India,False,False,False,1.1704857937027284,False,-1,True
+76481,3553,2025-10-03 11:21:46.569132,Direct Debit,27255.42,136.28,Completed,Utilities,Mobile,Palestinian Territory,False,True,True,3.5749038387938845,True,-1,True
+76484,3803,2025-08-17 01:11:13.492410,ATM Withdrawal,46695.0,233.47,Completed,Entertainment,Mobile,Mexico,False,True,True,6.205964801876589,True,-1,True
+76567,2325,2024-07-08 13:22:18.204014,Card Payment,9871.17,49.36,Completed,Restaurants,Mobile,Guatemala,False,False,False,1.222022678425682,False,-1,True
+76590,806,2025-06-26 17:04:59.068259,Card Payment,11537.4,57.69,Completed,Shopping,Mobile,Morocco,False,True,False,1.447539521305893,False,-1,True
+76705,1827,2025-05-13 13:02:54.273716,Online Purchase,12664.04,63.32,Completed,Travel,Mobile,Ireland,False,True,False,1.60002525008437,False,-1,True
+76801,1354,2024-10-16 21:32:41.003971,Card Payment,14897.84,74.49,Completed,Travel,Mobile,American Samoa,False,True,False,1.9023601760104518,False,-1,True
+76868,3055,2026-03-15 19:23:43.805061,Online Purchase,440355.76,2201.78,Completed,Subscriptions,Mobile,Cocos (Keeling) Islands,False,True,True,59.486203280972816,True,-1,True
+77064,213,2025-10-02 16:06:02.253977,Online Purchase,9733.75,48.67,Completed,Groceries,Mobile,Sierra Leone,False,False,False,1.203423490709341,False,-1,True
+77140,2687,2026-03-24 18:48:26.947009,Bank Transfer,8925.5,44.63,Completed,Restaurants,Desktop,Congo,False,False,False,1.0940304367744518,False,-1,True
+77224,3514,2026-05-15 17:16:35.878040,Card Payment,26390.64,131.95,Completed,Travel,Mobile,Kazakhstan,False,True,True,3.4578596999979507,True,-1,True
+77254,4288,2026-03-31 17:32:48.792075,Card Payment,33688.2,168.44,Completed,Healthcare,Mobile,Martinique,False,True,True,4.445552090561626,True,-1,True
+77262,2804,2024-08-26 01:48:15.207953,Card Payment,71315.86,356.58,Completed,Restaurants,Mobile,Togo,False,True,True,9.538289040544525,True,-1,True
+77311,3423,2024-10-12 23:51:58.743586,Bank Transfer,9756.33,48.78,Completed,Healthcare,Tablet,Germany,False,False,False,1.2064795935956385,False,-1,True
+77336,4195,2025-02-05 15:07:59.428711,ATM Withdrawal,9672.31,48.36,Completed,Entertainment,Mobile,Ethiopia,False,False,False,1.195107859117928,False,-1,True
+77372,4763,2025-10-09 19:37:05.972681,ATM Withdrawal,9501.47,47.51,Completed,Travel,Mobile,Oman,False,False,False,1.171985422576961,False,-1,True
+77475,3352,2025-11-14 02:04:06.620519,Bank Transfer,9854.92,49.27,Completed,Subscriptions,Mobile,Svalbard & Jan Mayen Islands,False,False,False,1.2198233129738516,False,-1,True
+77569,2992,2024-08-24 00:10:13.758562,Card Payment,31856.88,159.28,Completed,Groceries,Mobile,Papua New Guinea,False,True,True,4.197691048146481,True,-1,True
+77593,3628,2024-06-23 14:43:57.348949,Card Payment,9598.72,47.99,Completed,Subscriptions,Mobile,United Arab Emirates,False,False,False,1.1851477788963771,False,-1,True
+77636,3939,2026-01-24 01:34:34.526799,Card Payment,9970.01,49.85,Completed,Restaurants,Mobile,Slovakia (Slovak Republic),False,False,False,1.2354002341954617,False,-1,True
+77675,76,2024-07-15 08:55:02.572755,Card Payment,38562.94,192.81,Completed,Healthcare,Desktop,Monaco,False,True,True,5.1053265362635285,True,-1,True
+77836,4052,2024-09-14 15:57:13.864317,Card Payment,468297.92,2341.49,Completed,Shopping,Desktop,Rwanda,False,True,True,63.268050748881635,True,-1,True
+78100,3785,2024-07-20 15:16:50.834152,Online Purchase,37573.86,187.87,Completed,Healthcare,Mobile,New Zealand,False,True,True,4.97145894358067,True,-1,True
+78474,552,2025-11-11 14:18:49.866483,Direct Debit,8934.08,44.67,Completed,Restaurants,Mobile,Swaziland,False,False,False,1.0951917017330184,False,-1,True
+78547,1452,2025-05-16 06:57:59.222571,Online Purchase,9559.87,47.8,Completed,Subscriptions,Mobile,Peru,False,False,False,1.1798896036469242,False,-1,True
+78594,1293,2026-06-10 15:14:45.705562,Online Purchase,12330.76,61.65,Completed,Shopping,Mobile,Turkmenistan,False,True,False,1.5549172797590745,False,-1,True
+78719,1729,2024-10-12 14:09:54.982568,Card Payment,9451.67,47.26,Completed,Shopping,Mobile,Cocos (Keeling) Islands,False,False,False,1.16524521337689,False,-1,True
+78828,164,2025-06-05 03:55:53.088804,Online Purchase,161114.9,805.57,Completed,Entertainment,Mobile,Madagascar,False,True,True,21.692190959531576,True,-1,True
+78886,2478,2025-04-05 11:48:44.943947,Bank Transfer,133189.55,665.95,Completed,Entertainment,Mobile,Bangladesh,False,True,True,17.912618650591693,True,-1,True
+79006,3804,2025-07-09 19:56:37.423987,Online Purchase,9443.86,47.22,Completed,Shopping,Mobile,Netherlands Antilles,False,False,False,1.1641881645043488,False,-1,True
+79119,4276,2026-04-22 04:08:09.765661,Card Payment,16525.8,82.63,Completed,Healthcare,Desktop,Mauritania,False,True,False,2.1226973440696444,False,-1,True
+79149,2728,2025-08-02 23:37:21.463072,Card Payment,9884.09,49.42,Completed,Groceries,Mobile,Azerbaijan,False,False,False,1.223771343141845,False,-1,True
+79424,4399,2026-02-02 11:26:52.240462,Bank Transfer,9608.12,48.04,Completed,Groceries,Mobile,Argentina,False,False,False,1.1864200272192824,False,-1,True
+79471,1315,2026-05-05 22:56:19.203070,ATM Withdrawal,9601.02,48.01,Completed,Utilities,Tablet,Mongolia,False,True,False,1.1854590736987902,False,-1,True
+79487,2975,2025-10-10 09:08:21.255719,Direct Debit,9274.77,46.37,Completed,Groceries,Mobile,Belarus,False,False,False,1.1413025827043484,False,-1,True
+79685,2537,2026-03-31 20:06:41.527769,Online Purchase,93843.2,469.22,Completed,Groceries,Mobile,Barbados,False,True,True,12.587264629322242,True,-1,True
+79945,905,2025-08-17 05:30:14.239274,Card Payment,28818.56,144.09,Completed,Entertainment,Mobile,Turks and Caicos Islands,False,True,True,3.7864679072476837,True,-1,True
+80091,3980,2024-08-01 23:08:03.888777,Direct Debit,9877.11,49.39,Completed,Subscriptions,Desktop,Seychelles,False,False,False,1.222826631089305,False,-1,True
+80230,2231,2026-01-06 06:40:53.458333,Online Purchase,30481.44,152.41,Completed,Groceries,Mobile,Malawi,False,True,True,4.011531342480902,True,-1,True
+80350,2288,2024-10-28 10:47:20.393949,Online Purchase,42537.78,212.69,Completed,Subscriptions,Mobile,South Georgia and the South Sandwich Islands,False,True,True,5.6433035068822175,True,-1,True
+80382,2541,2026-03-14 08:39:10.767433,Card Payment,52293.61,261.47,Completed,Travel,Mobile,Western Sahara,False,True,True,6.963711842631814,True,-1,True
+80407,675,2024-11-04 02:40:02.169449,Direct Debit,9806.12,49.03,Completed,Travel,Mobile,Gibraltar,False,False,False,1.213218449340047,False,-1,True
+80409,4538,2026-04-10 00:09:14.014651,ATM Withdrawal,9757.01,48.79,Completed,Shopping,Mobile,Anguilla,False,False,False,1.2065716285806998,False,-1,True
+80510,3187,2026-02-04 10:28:05.961314,Card Payment,9818.44,49.09,Completed,Subscriptions,Mobile,Zambia,False,False,False,1.2148859067164501,False,-1,True
+80591,3591,2025-09-11 22:12:51.645300,Online Purchase,9182.72,45.91,Completed,Groceries,Mobile,Honduras,False,True,False,1.1288440233295178,False,-1,True
+80631,66,2024-08-13 07:15:43.566393,Card Payment,13031.34,65.16,Failed,Entertainment,Mobile,Dominican Republic,False,True,False,1.649737676574051,False,-1,True
+80878,241,2025-03-10 22:56:41.854709,Card Payment,9563.21,47.82,Completed,Healthcare,Mobile,Cook Islands,True,False,False,1.1803416578382542,False,-1,True
+81246,4084,2025-01-31 06:02:53.515129,Online Purchase,184322.88,921.61,Completed,Subscriptions,Mobile,Yemen,False,True,True,24.83328815453292,True,-1,True
+81326,2088,2025-06-23 23:47:42.191123,Bank Transfer,13649.27,68.25,Completed,Utilities,Mobile,Brazil,False,True,False,1.7333717623371023,False,-1,True
+81560,2121,2025-09-13 13:57:35.488492,Online Purchase,9573.41,47.87,Completed,Utilities,Desktop,Myanmar,False,False,False,1.1817221826141724,False,-1,True
+81563,25,2025-10-03 08:43:14.806612,Online Purchase,12333.09,61.67,Completed,Entertainment,Mobile,Yemen,False,True,False,1.5552326349284755,False,-1,True
+81754,2791,2025-04-25 12:21:48.433963,Direct Debit,9780.75,48.9,Completed,Utilities,Mobile,Poland,False,True,False,1.2097847323238662,False,-1,True
+81781,4530,2026-05-20 12:37:49.420236,Online Purchase,18099.39,90.5,Completed,Groceries,Desktop,Liberia,False,True,False,2.335675773690928,False,-1,True
+82328,3928,2025-02-04 00:23:59.617816,Card Payment,91594.8,457.97,Completed,Groceries,Desktop,Maldives,False,True,True,12.282953658128669,True,-1,True
+82370,2702,2026-02-21 06:09:58.126317,Online Purchase,10458.8,52.29,Completed,Subscriptions,Mobile,Congo,False,True,False,1.3015557935308586,False,-1,True
+82398,3980,2025-08-23 11:23:34.671251,Bank Transfer,9538.22,47.69,Completed,Groceries,Mobile,Dominican Republic,False,False,False,1.1769593721372547,False,-1,True
+82458,3278,2024-12-14 06:27:29.522799,ATM Withdrawal,9870.16,49.35,Completed,Restaurants,Desktop,Ghana,False,False,False,1.2218859794037529,False,-1,True
+82586,3552,2025-01-23 20:55:32.060133,Bank Transfer,12018.78,60.09,Completed,Healthcare,Tablet,Bosnia and Herzegovina,False,True,False,1.5126921699952556,False,-1,True
+82732,2542,2024-10-05 10:49:15.755625,Card Payment,9906.41,49.53,Completed,Subscriptions,Mobile,Germany,False,False,False,1.226792256180913,False,-1,True
+82972,4320,2025-02-05 23:53:14.727844,Online Purchase,9701.13,48.51,Completed,Shopping,Desktop,Jersey,False,False,False,1.1990085183377281,False,-1,True
+83009,4760,2026-03-08 01:09:51.014565,Bank Transfer,9913.44,49.57,Completed,Healthcare,Desktop,Papua New Guinea,False,False,False,1.2277437355117666,False,-1,True
+83058,4295,2024-11-06 04:08:01.388747,Card Payment,120022.96,600.11,Completed,Shopping,Desktop,Nicaragua,False,True,True,16.13057907124301,True,-1,True
+83182,2818,2026-03-08 09:55:44.590272,Direct Debit,51591.84,257.96,Completed,Healthcare,Desktop,Cook Islands,False,True,True,6.86873038459298,True,-1,True
+83237,2517,2025-09-07 15:42:08.713090,Card Payment,12361.72,61.81,Completed,Restaurants,Mobile,Russian Federation,False,True,False,1.559107578490685,False,-1,True
+83334,723,2025-06-21 00:26:36.152334,Bank Transfer,19663.39,98.32,Completed,Travel,Mobile,Czech Republic,False,True,False,2.547356239331716,False,-1,True
+83447,2356,2025-11-21 04:05:36.039179,Bank Transfer,20177.85,100.89,Completed,Subscriptions,Desktop,Haiti,False,True,True,2.6169861193531734,False,-1,True
+83499,3352,2026-04-15 17:53:37.939771,Online Purchase,9401.18,47.01,Completed,Restaurants,Mobile,Tokelau,False,False,False,1.158411615736095,False,-1,True
+83547,3361,2026-02-09 01:23:12.062597,Online Purchase,12323.21,61.62,Completed,Healthcare,Mobile,Nauru,False,True,False,1.5538954207337623,False,-1,True
+83626,349,2025-10-20 02:53:57.616563,Card Payment,9166.3,45.83,Completed,Shopping,Desktop,Colombia,False,False,False,1.1266216491314223,False,-1,True
+83694,3292,2024-11-29 06:17:57.664587,Online Purchase,21947.38,109.74,Completed,Groceries,Mobile,Gibraltar,False,True,True,2.8564841592287133,False,-1,True
+83958,4947,2025-03-12 02:20:09.796827,Online Purchase,13543.45,67.72,Completed,Travel,Tablet,New Caledonia,False,True,False,1.7190494945147825,False,-1,True
+84004,2200,2026-02-13 14:56:09.478421,Card Payment,9278.93,46.39,Completed,Travel,Mobile,Faroe Islands,True,False,False,1.1418656202600168,False,-1,True
+84060,1873,2024-10-31 11:05:47.864297,Bank Transfer,9913.22,49.57,Completed,Travel,Mobile,Lesotho,False,False,False,1.2277139594871878,False,-1,True
+84063,2753,2026-05-29 16:19:58.866134,Card Payment,9475.12,47.38,Completed,Entertainment,Desktop,Congo,False,False,False,1.1684190669058394,False,-1,True
+84140,4700,2025-02-23 13:17:44.258977,Bank Transfer,21903.42,109.52,Completed,Restaurants,Mobile,Botswana,False,True,True,2.850534368135638,False,-1,True
+84170,1483,2025-11-09 02:50:52.409888,Online Purchase,9233.87,46.17,Completed,Groceries,Mobile,Seychelles,False,False,False,1.135766949044049,False,-1,True
+84324,4308,2024-10-28 05:26:31.853201,Bank Transfer,30661.62,153.31,Completed,Shopping,Mobile,Latvia,False,True,True,4.0359179066107975,True,-1,True
+84325,3217,2024-09-18 10:05:21.032177,ATM Withdrawal,17010.81,85.05,Completed,Shopping,Mobile,Suriname,False,True,False,2.188341297164554,False,-1,True
+84525,2531,2025-01-02 00:24:40.601417,Card Payment,38031.4,190.16,Completed,Travel,Desktop,Macao,False,True,True,5.0333849539702396,True,-1,True
+84541,2924,2025-04-17 17:32:12.341722,Online Purchase,41963.04,209.82,Completed,Subscriptions,Mobile,Gabon,False,True,True,5.565514996126216,True,-1,True
+84567,1099,2025-05-26 16:04:12.583351,Card Payment,60710.34,303.55,Completed,Travel,Mobile,Somalia,False,True,True,8.102878930593954,True,-1,True
+84589,2794,2024-12-01 22:29:38.694748,Online Purchase,12709.48,63.55,Completed,Restaurants,Mobile,Dominica,True,True,False,1.606175352615519,False,-1,True
+84621,1746,2025-03-11 17:20:18.702075,Online Purchase,9784.73,48.92,Completed,Entertainment,Mobile,Mauritania,False,False,False,1.2103234076776066,False,-1,True
+84671,1197,2024-11-17 11:56:09.689619,ATM Withdrawal,10830.4,54.15,Completed,Subscriptions,Mobile,Timor-Leste,False,True,False,1.3518502059554858,False,-1,True
+84678,906,2025-05-20 18:55:08.207392,Card Payment,12141.71,60.71,Completed,Travel,Desktop,Hong Kong,False,True,False,1.5293302004563947,False,-1,True
+84853,3972,2026-04-05 20:47:18.331698,Online Purchase,9398.73,46.99,Completed,Groceries,Mobile,South Georgia and the South Sandwich Islands,False,False,False,1.1580800190987421,False,-1,True
+84904,452,2025-03-28 15:17:10.850523,Card Payment,25133.22,125.67,Completed,Groceries,Mobile,French Southern Territories,False,True,True,3.287673478063143,True,-1,True
+84958,1419,2025-01-31 08:12:50.453938,Direct Debit,9329.02,46.65,Completed,Restaurants,Mobile,British Indian Ocean Territory (Chagos Archipelago),False,False,False,1.1486450796743053,False,-1,True
+85075,1150,2026-06-01 10:59:04.481431,Online Purchase,9718.64,48.59,Completed,Shopping,Tablet,Isle of Man,False,False,False,1.2013784192030545,False,-1,True
+85575,1591,2026-01-25 12:27:57.446697,Card Payment,62168.6,310.84,Completed,Travel,Mobile,Georgia,False,True,True,8.300247956057724,True,-1,True
+85692,1665,2024-10-13 17:24:45.753736,Card Payment,32702.34,163.51,Completed,Utilities,Mobile,Angola,False,True,True,4.312120310602146,True,-1,True
+85748,213,2025-04-18 09:26:39.017191,Card Payment,9914.64,49.57,Completed,Entertainment,Desktop,Saint Kitts and Nevis,False,False,False,1.2279061501912862,False,-1,True
+85864,2715,2025-11-04 23:16:31.026885,Online Purchase,18970.24,94.85,Completed,Travel,Mobile,Portugal,False,True,False,2.4535414600740997,False,-1,True
+85920,4798,2026-02-07 09:31:40.876853,Bank Transfer,16576.0,82.88,Completed,Utilities,Mobile,French Guiana,False,True,False,2.1294916914962223,False,-1,True
+85973,2899,2026-02-25 21:50:53.392033,Direct Debit,9502.02,47.51,Completed,Shopping,Mobile,Sao Tome and Principe,False,False,False,1.1720598626384078,False,-1,True
+85981,2490,2026-01-11 21:32:08.255410,Card Payment,15085.2,75.43,Completed,Entertainment,Tablet,Macao,False,True,False,1.9277185213061412,False,-1,True
+86142,1370,2026-03-10 15:26:58.263827,Direct Debit,15848.85,79.24,Completed,Entertainment,Mobile,Gambia,False,True,False,2.031075162985545,False,-1,True
+86323,1072,2024-12-11 17:59:09.393781,ATM Withdrawal,9680.88,48.4,Completed,Travel,Mobile,Norway,False,False,False,1.1962677706208318,False,-1,True
+86486,4581,2025-03-07 06:49:59.915642,Direct Debit,9329.08,46.65,Completed,Subscriptions,Mobile,Peru,False,False,False,1.1486532004082812,False,-1,True
+86503,869,2026-05-15 12:06:18.389212,Card Payment,9530.37,47.65,Completed,Groceries,Desktop,Djibouti,False,False,False,1.1758969094420628,False,-1,True
+86554,1487,2025-07-30 19:53:22.706184,Card Payment,14665.53,73.33,Completed,Travel,Mobile,Greenland,False,True,False,1.8709180475110838,False,-1,True
+86702,3779,2025-12-25 11:15:15.661780,Bank Transfer,29237.88,146.19,Completed,Shopping,Desktop,Monaco,False,True,True,3.8432210100945476,True,-1,True
+86750,4968,2025-03-27 02:37:42.684846,Card Payment,9274.6,46.37,Completed,Shopping,Mobile,Germany,False,False,False,1.141279573958083,False,-1,True
+86783,1695,2026-05-27 09:52:14.644207,Online Purchase,9037.36,45.19,Completed,Travel,Mobile,Swaziland,False,False,False,1.1091701918170214,False,-1,True
+87051,4135,2026-01-18 17:48:13.468624,Online Purchase,13683.15,68.42,Completed,Healthcare,Mobile,Latvia,False,True,False,1.7379572701222108,False,-1,True
+87061,3051,2026-03-22 23:53:26.879755,Card Payment,9881.33,49.41,Completed,Restaurants,Desktop,United States of America,False,False,False,1.2233977893789496,False,-1,True
+87314,1437,2024-09-11 11:38:08.240376,ATM Withdrawal,13111.71,65.56,Failed,Healthcare,Desktop,Mexico,False,True,False,1.6606153997348885,False,-1,True
+87327,1341,2024-12-18 20:13:20.179948,Online Purchase,9772.44,48.86,Completed,Restaurants,Mobile,Pitcairn Islands,False,True,False,1.2086600106681917,False,-1,True
+87331,2826,2025-05-16 04:24:58.419419,Direct Debit,9370.51,46.85,Completed,Subscriptions,Mobile,Peru,False,False,False,1.1542605672187018,False,-1,True
+87379,2358,2025-07-17 01:40:55.639410,ATM Withdrawal,52561.8,262.81,Completed,Entertainment,Mobile,Lebanon,False,True,True,7.0000101700488235,True,-1,True
+87401,4958,2024-11-07 01:39:30.350547,Online Purchase,9135.84,45.68,Completed,Healthcare,Desktop,Congo,False,False,False,1.122499023182945,False,-1,True
+87441,1650,2025-05-21 13:36:45.486341,Online Purchase,65502.0,327.51,Completed,Utilities,Desktop,Macao,False,True,True,8.751408866650438,True,-1,True
+87612,4726,2026-01-24 05:52:25.048365,ATM Withdrawal,18663.06,93.32,Completed,Shopping,Desktop,Congo,False,True,False,2.41196600902836,False,-1,True
+87760,2584,2024-06-23 08:44:23.190870,Direct Debit,40645.69,203.23,Completed,Groceries,Mobile,France,False,True,True,5.387217514405058,True,-1,True
+87823,1634,2025-09-29 15:12:13.369747,ATM Withdrawal,11604.81,58.02,Completed,Entertainment,Mobile,Guyana,False,True,False,1.456663165927917,False,-1,True
+88036,862,2026-05-24 08:51:23.675580,Direct Debit,12183.57,60.92,Completed,Subscriptions,Tablet,Bosnia and Herzegovina,False,True,False,1.53499576586031,False,-1,True
+88150,1399,2024-08-21 11:33:22.915694,Bank Transfer,9589.39,47.95,Completed,Healthcare,Mobile,Mauritius,False,False,False,1.1838850047631109,False,-1,True
+88187,517,2025-12-16 00:35:06.466924,ATM Withdrawal,9779.42,48.9,Completed,Groceries,Desktop,Jersey,False,False,False,1.2096047227207318,False,-1,True
+88434,164,2026-02-03 18:33:57.316740,Bank Transfer,9642.58,48.21,Completed,Shopping,Mobile,Bouvet Island (Bouvetoya),False,False,False,1.1910840354328254,False,-1,True
+88487,118,2025-01-22 03:32:19.523327,Bank Transfer,9126.98,45.63,Completed,Subscriptions,Mobile,Uruguay,False,False,False,1.1212998614658238,False,-1,True
+88558,3661,2025-11-08 15:54:36.334196,Card Payment,16728.68,83.64,Completed,Restaurants,Mobile,Papua New Guinea,False,True,False,2.1501562525537894,False,-1,True
+88706,1970,2024-11-08 10:09:15.376570,Bank Transfer,9279.04,46.4,Completed,Restaurants,Mobile,Slovakia (Slovak Republic),False,False,False,1.1418805082723062,False,-1,True
+88796,2609,2025-09-22 03:34:04.820338,Card Payment,9337.35,46.69,Completed,Utilities,Mobile,Malta,False,False,False,1.1497725082413053,False,-1,True
+88993,241,2025-06-18 02:49:52.388305,Bank Transfer,9037.52,45.19,Completed,Groceries,Mobile,Samoa,False,False,False,1.1091918471076239,False,-1,True
+89379,786,2025-09-24 10:50:38.615617,Online Purchase,12190.2,60.95,Completed,Travel,Mobile,Ukraine,False,True,False,1.5358931069646569,False,-1,True
+89405,3436,2024-10-22 10:17:58.752603,Card Payment,9846.65,49.23,Completed,Groceries,Mobile,Christmas Island,False,False,False,1.2187040051408278,False,-1,True
+89433,2713,2024-10-16 04:50:11.416081,Online Purchase,9720.65,48.6,Completed,Travel,Desktop,China,False,False,False,1.2016504637912502,False,-1,True
+89462,4826,2025-05-10 20:44:41.731405,Card Payment,9752.71,48.76,Completed,Healthcare,Mobile,Central African Republic,False,False,False,1.2059896426457537,False,-1,True
+89466,3587,2025-09-03 06:12:56.107687,Card Payment,8922.34,44.61,Completed,Shopping,Mobile,New Zealand,False,False,False,1.0936027447850498,False,-1,True
+89507,675,2026-02-06 13:43:13.976256,ATM Withdrawal,9282.57,46.41,Completed,Groceries,Mobile,Liberia,False,False,False,1.142358278121227,False,-1,True
+89558,3352,2026-04-23 18:54:31.778982,Card Payment,9756.88,48.78,Completed,Travel,Mobile,Syrian Arab Republic,False,False,False,1.206554033657085,False,-1,True
+89860,1951,2025-09-11 10:03:28.794207,Online Purchase,9516.86,47.58,Completed,Travel,Mobile,Saint Pierre and Miquelon,False,False,False,1.1740683908418026,False,-1,True
+89927,711,2024-06-20 06:09:39.638302,Online Purchase,15589.44,77.95,Completed,Entertainment,Mobile,Malaysia,False,True,False,1.9959651696403553,False,-1,True
+90197,4734,2024-09-09 14:30:32.743020,Card Payment,9019.25,45.1,Completed,Healthcare,Mobile,Uzbekistan,False,False,False,1.1067190836119352,False,-1,True
+90235,4927,2026-01-13 18:54:50.876343,Online Purchase,9405.84,47.03,Completed,Shopping,Mobile,Bahrain,False,False,False,1.159042326074897,False,-1,True
+90258,248,2026-04-14 07:33:17.578289,ATM Withdrawal,9042.99,45.21,Completed,Utilities,Mobile,Timor-Leste,False,False,False,1.1099321873551016,False,-1,True
+90313,1873,2025-08-21 23:31:06.799991,Card Payment,9703.76,48.52,Pending,Groceries,Desktop,Vietnam,False,False,False,1.1993644771770091,False,-1,True
+90399,495,2024-11-07 11:46:11.692688,Card Payment,12586.44,62.93,Completed,Subscriptions,Mobile,Singapore,False,True,False,1.5895224341420904,False,-1,True
+90405,1419,2025-06-10 11:14:05.683702,Direct Debit,9274.76,46.37,Completed,Groceries,Mobile,Kazakhstan,False,False,False,1.1413012292486857,False,-1,True
+90437,2801,2025-01-21 18:43:56.076156,Bank Transfer,98442.63,492.21,Completed,Travel,Mobile,Congo,False,True,True,13.209777087175318,True,-1,True
+90528,3242,2024-11-02 17:12:00.725300,Card Payment,10129.28,50.65,Completed,Travel,Tablet,Tokelau,False,True,False,1.2569567225347256,False,-1,True
+90533,1743,2025-10-31 10:36:37.444590,ATM Withdrawal,9011.02,45.06,Completed,Shopping,Desktop,Sierra Leone,False,True,False,1.105605189601562,False,-1,True
+90628,4010,2025-11-29 11:39:52.083918,ATM Withdrawal,21418.56,107.09,Completed,Restaurants,Mobile,Kyrgyz Republic,False,True,True,2.784910716875669,False,-1,True
+90708,1750,2025-05-12 08:50:43.144128,Card Payment,12581.66,62.91,Completed,Shopping,Mobile,Cocos (Keeling) Islands,False,True,False,1.5888754823353364,False,-1,True
+90765,3603,2026-03-16 07:07:06.104359,ATM Withdrawal,23751.84,118.76,Completed,Shopping,Mobile,Tanzania,False,True,True,3.100709819733941,True,-1,True
+90849,1767,2024-07-26 08:29:28.638879,Card Payment,9041.46,45.21,Completed,Restaurants,Mobile,Kazakhstan,False,False,False,1.1097251086387137,False,-1,True
+90925,2516,2026-02-02 11:50:32.213313,Online Purchase,8911.13,44.56,Completed,Travel,Desktop,Paraguay,False,False,False,1.0920855209872022,False,-1,True
+90991,2804,2025-05-15 20:59:06.609656,Card Payment,70736.87,353.68,Completed,Shopping,Mobile,Faroe Islands,False,True,True,9.45992531113189,True,-1,True
+91054,4859,2025-06-19 05:10:09.259591,Card Payment,9951.66,49.76,Completed,Entertainment,Mobile,Ghana,False,False,False,1.2329166430544716,False,-1,True
+91114,1819,2025-02-25 18:10:01.894956,ATM Withdrawal,19269.68,96.35,Completed,Healthcare,Mobile,Tonga,False,True,False,2.494069336436937,False,-1,True
+91117,3863,2026-06-01 21:29:01.189691,ATM Withdrawal,47243.82,236.22,Completed,Entertainment,Mobile,Romania,False,True,True,6.2802451555549625,True,-1,True
+91526,3494,2024-06-15 13:27:37.846873,Card Payment,9725.71,48.63,Completed,Subscriptions,Mobile,Guinea-Bissau,True,False,False,1.2023353123565585,False,-1,True
+91698,2478,2026-01-12 10:02:06.610921,Card Payment,9739.01,48.7,Completed,Utilities,Mobile,Cayman Islands,False,False,False,1.204135408387903,False,-1,True
+91943,4862,2024-06-13 18:36:24.321912,Card Payment,9308.59,46.54,Completed,Groceries,Desktop,Thailand,False,False,False,1.145879969755481,False,-1,True
+92004,788,2024-07-12 12:07:08.901655,Direct Debit,9179.52,45.9,Completed,Utilities,Desktop,Cape Verde,False,False,False,1.1284109175174653,False,-1,True
+92098,3607,2025-07-15 14:17:06.436176,ATM Withdrawal,9863.07,49.32,Completed,Utilities,Desktop,Georgia,False,False,False,1.2209263793389233,False,-1,True
+92184,4862,2025-10-27 21:30:20.702725,Card Payment,83245.5,416.23,Completed,Shopping,Mobile,Yemen,False,True,True,11.152912921699876,True,-1,True
+92346,4609,2025-08-27 07:39:48.947246,Online Purchase,14803.04,74.02,Completed,Healthcare,Desktop,Georgia,False,True,False,1.8895294163283889,False,-1,True
+92495,4311,2024-12-05 22:46:04.804654,Card Payment,9400.64,47.0,Completed,Utilities,Desktop,Cuba,False,False,False,1.1583385291303112,False,-1,True
+92502,1058,2026-05-02 02:47:51.833687,Card Payment,31758.25,158.79,Completed,Subscriptions,Mobile,Senegal,False,True,True,4.184341914945617,True,-1,True
+92687,2437,2025-07-01 04:27:00.463269,Card Payment,9820.24,49.1,Completed,Shopping,Mobile,Jamaica,False,False,False,1.2151295287357298,False,-1,True
+92751,2728,2025-11-17 07:36:55.322783,Bank Transfer,9127.53,45.64,Completed,Shopping,Tablet,Rwanda,False,False,False,1.1213743015272706,False,-1,True
+92820,4940,2025-07-02 18:09:55.439236,Card Payment,53998.1,269.99,Completed,Healthcare,Mobile,Faroe Islands,False,True,True,7.19440700687738,True,-1,True
+92827,3980,2024-12-11 14:18:14.386454,Bank Transfer,9115.76,45.58,Completed,Subscriptions,Tablet,Cameroon,False,False,False,1.119781284212314,False,-1,True
+92845,1807,2025-11-29 17:20:51.875728,Online Purchase,9576.51,47.88,Completed,Shopping,Mobile,Israel,False,False,False,1.1821417538695986,False,-1,True
+92855,4243,2025-05-24 05:28:08.533638,Bank Transfer,9457.49,47.29,Completed,Restaurants,Mobile,Slovakia (Slovak Republic),False,False,False,1.1660329245725611,False,-1,True
+93010,1013,2025-01-29 05:27:16.793130,Card Payment,13923.75,69.62,Completed,Utilities,Tablet,Antigua and Barbuda,False,True,False,1.770521413365928,False,-1,True
+93023,167,2025-06-14 10:26:26.426514,Online Purchase,18182.64,90.91,Completed,Restaurants,Tablet,Saint Helena,False,True,False,2.346943292082613,False,-1,True
+93085,3633,2025-06-02 13:10:11.624314,Online Purchase,27367.74,136.84,Completed,Utilities,Mobile,Bouvet Island (Bouvetoya),False,True,True,3.590105852796937,True,-1,True
+93154,4538,2025-11-21 03:46:29.317568,Card Payment,9362.72,46.81,Completed,Entertainment,Mobile,Bhutan,False,False,False,1.153206225257486,False,-1,True
+93236,2451,2025-05-08 03:36:40.324938,Online Purchase,149335.38,746.68,Completed,Restaurants,Mobile,Mozambique,False,True,True,20.09788515478415,True,-1,True
+93463,3201,2025-07-06 09:50:54.657329,Card Payment,23301.5,116.51,Completed,Travel,Mobile,Armenia,True,True,True,3.0397582974214905,True,-1,True
+93506,4258,2026-02-11 09:19:35.730782,Online Purchase,94587.24,472.94,Completed,Entertainment,Mobile,Congo,False,True,True,12.68796714444716,True,-1,True
+93533,1425,2025-03-20 07:26:28.296439,Online Purchase,68810.7,344.05,Completed,Entertainment,Desktop,Congo,False,True,True,9.199226741756368,True,-1,True
+93650,2205,2026-05-21 10:31:14.777451,Card Payment,14026.45,70.13,Completed,Healthcare,Mobile,United States Minor Outlying Islands,False,True,False,1.7844214030214964,False,-1,True
+93741,1070,2025-08-09 03:34:42.494616,Card Payment,13442.8,67.21,Pending,Entertainment,Mobile,Nauru,False,True,False,1.7054269632700603,False,-1,True
+93796,3014,2024-09-22 11:57:36.605592,Online Purchase,9325.38,46.63,Completed,Restaurants,Desktop,Lao People's Democratic Republic,False,False,False,1.1481524218130952,False,-1,True
+93820,4158,2026-05-23 03:09:42.282805,Card Payment,11943.45,59.72,Completed,Travel,Tablet,Timor-Leste,False,True,False,1.502496588488401,False,-1,True
+93822,3405,2025-05-22 09:40:07.127946,Card Payment,9164.18,45.82,Completed,Subscriptions,Mobile,Libyan Arab Jamahiriya,False,False,False,1.1263347165309374,False,-1,True
+93878,4289,2025-10-07 07:23:53.573620,Online Purchase,11185.72,55.93,Completed,Subscriptions,Mobile,Benin,False,True,False,1.3999411925612943,False,-1,True
+94062,2585,2026-05-05 17:35:02.927277,Bank Transfer,9049.83,45.25,Pending,Utilities,Mobile,Iraq,False,False,False,1.1108579510283643,False,-1,True
+94180,4016,2025-03-01 14:44:36.025993,ATM Withdrawal,101685.48,508.43,Completed,Groceries,Mobile,Saudi Arabia,False,True,True,13.648682456742598,True,-1,True
+94687,3545,2024-07-01 12:17:45.828172,Card Payment,9681.68,48.41,Completed,Utilities,Mobile,Zimbabwe,False,False,False,1.1963760470738452,False,-1,True
+94734,3515,2025-02-09 23:02:11.477268,Card Payment,9251.82,46.26,Completed,Entertainment,Desktop,Angola,False,False,False,1.1381964019585324,False,-1,True
+94736,4295,2024-08-16 03:36:56.286286,Online Purchase,346790.66,1733.95,Completed,Shopping,Mobile,Barbados,False,True,True,46.82258183869219,True,-1,True
+94763,4685,2024-09-16 16:33:54.803685,Bank Transfer,9318.02,46.59,Completed,Subscriptions,Mobile,Norfolk Island,False,False,False,1.147156278445374,False,-1,True
+94789,144,2025-02-27 07:13:33.609079,Bank Transfer,10954.12,54.77,Completed,Groceries,Desktop,Slovenia,False,True,False,1.3685951594139758,False,-1,True
+95096,3960,2025-07-29 07:24:28.293900,Card Payment,18063.52,90.32,Completed,Shopping,Mobile,Bahrain,False,True,False,2.330820928228949,False,-1,True
+95111,1441,2025-09-17 21:20:05.335691,Online Purchase,14643.12,73.22,Completed,Groceries,Mobile,Palestinian Territory,False,True,False,1.867884953371052,False,-1,True
+95446,3408,2026-04-22 03:01:08.453228,Online Purchase,9816.2,49.08,Completed,Subscriptions,Mobile,Chad,False,False,False,1.2145827326480132,False,-1,True
+95460,531,2026-04-07 11:39:10.649449,ATM Withdrawal,19214.26,96.07,Completed,Healthcare,Mobile,Brazil,False,True,False,2.486568485154448,False,-1,True
+95626,4888,2025-08-27 21:55:52.929193,Online Purchase,42483.84,212.42,Completed,Travel,Mobile,Tajikistan,False,True,True,5.636002967037802,True,-1,True
+95660,3253,2026-02-05 05:09:50.942847,Online Purchase,14313.0,71.56,Completed,Subscriptions,Desktop,Saint Helena,False,True,False,1.8232046750351587,False,-1,True
+95700,4295,2024-11-28 17:28:17.761029,Online Purchase,656322.32,3281.61,Completed,Groceries,Mobile,Mexico,True,True,True,88.71631963879837,True,-1,True
+95897,1784,2025-04-07 23:11:24.519970,Card Payment,9238.77,46.19,Completed,Groceries,Desktop,Oman,False,False,False,1.1364301423187548,False,-1,True
+95921,4576,2025-11-14 10:06:48.997339,Bank Transfer,28477.79,142.39,Completed,Subscriptions,Mobile,Holy See (Vatican City State),False,True,True,3.740346198631052,True,-1,True
+95971,675,2026-05-01 17:44:00.029784,Direct Debit,9788.34,48.94,Completed,Entertainment,Desktop,Indonesia,False,False,False,1.2108120051718287,False,-1,True
+95975,4845,2024-09-07 23:17:34.653846,Card Payment,9736.26,48.68,Completed,Groceries,Mobile,Ecuador,False,False,False,1.2037632080806702,False,-1,True
+96062,3305,2025-09-27 02:22:26.580205,Card Payment,20841.34,104.21,Failed,Entertainment,Mobile,Barbados,False,True,True,2.7067865491153262,False,-1,True
+96099,4133,2026-05-15 13:15:47.355015,Online Purchase,13110.24,65.55,Completed,Restaurants,Desktop,United Arab Emirates,False,True,False,1.660416441752477,False,-1,True
+96345,3149,2024-08-02 15:23:43.704738,Bank Transfer,9904.16,49.52,Completed,Healthcare,Mobile,Sri Lanka,False,False,False,1.2264877286568134,False,-1,True
+96368,1802,2024-10-13 14:18:34.029406,Online Purchase,8935.91,44.68,Completed,Restaurants,Tablet,French Guiana,False,False,False,1.095439384119286,False,-1,True
+96571,1374,2025-04-12 15:40:53.739636,Card Payment,98521.46,492.61,Completed,Shopping,Mobile,Finland,False,True,True,13.220446378164105,True,-1,True
+96794,1614,2026-05-26 20:37:19.027772,Card Payment,9487.07,47.44,Completed,Restaurants,Desktop,Swaziland,False,False,False,1.1700364464227238,False,-1,True
+97049,778,2025-09-24 06:15:59.257079,Card Payment,22016.28,110.08,Completed,Subscriptions,Mobile,Kiribati,False,True,True,2.865809468744474,False,-1,True
+97443,222,2024-10-06 08:35:10.731487,Bank Transfer,15565.2,77.83,Completed,Groceries,Mobile,Nepal,False,True,False,1.9926843931140557,False,-1,True
+97488,504,2026-02-22 12:48:40.389691,ATM Withdrawal,9282.4,46.41,Completed,Restaurants,Desktop,Albania,False,False,False,1.1423352693749615,False,-1,True
+97496,3352,2026-01-19 22:14:40.068594,Online Purchase,9677.95,48.39,Completed,Restaurants,Mobile,Fiji,False,False,False,1.1958712081116711,False,-1,True
+97675,4603,2025-09-25 17:11:17.370056,Online Purchase,101215.8,506.08,Completed,Subscriptions,Desktop,Kyrgyz Republic,False,True,True,13.585113351178554,True,-1,True
+97748,2770,2026-01-04 23:12:23.978150,Bank Transfer,25068.12,125.34,Completed,Groceries,Mobile,Israel,False,True,True,3.2788624816991945,True,-1,True
+97901,4354,2025-01-03 01:00:22.697671,Bank Transfer,91582.4,457.91,Completed,Utilities,Mobile,Burkina Faso,False,True,True,12.281275373106963,True,-1,True
+97908,2966,2024-07-20 12:21:28.779834,Bank Transfer,9391.61,46.96,Completed,Entertainment,Desktop,Tonga,False,False,False,1.1571163586669249,False,-1,True
+97956,483,2025-01-08 09:10:56.991528,Bank Transfer,41490.72,207.45,Completed,Shopping,Mobile,Slovenia,False,True,True,5.501588578267228,True,-1,True
+98057,3583,2025-07-15 12:43:20.648342,Online Purchase,14828.08,74.14,Pending,Travel,Mobile,Guatemala,False,True,False,1.8929184693077015,False,-1,True
+98069,1000,2026-04-12 12:53:51.249063,Bank Transfer,73913.04,369.57,Completed,Entertainment,Mobile,Algeria,False,True,True,9.889805838340523,True,-1,True
+98385,3143,2025-09-09 20:37:33.373215,Card Payment,9138.8,45.69,Completed,Utilities,Tablet,Vietnam,False,False,False,1.1228996460590936,False,-1,True
+98408,2558,2024-07-26 17:55:30.887741,Online Purchase,9431.26,47.16,Completed,Shopping,Desktop,Jamaica,False,False,False,1.1624828103693912,False,-1,True
+98431,3143,2025-10-28 07:59:56.158568,Direct Debit,9328.88,46.64,Completed,Groceries,Mobile,Mozambique,False,False,False,1.1486261312950279,False,-1,True
+98532,4492,2026-03-05 07:11:09.140041,Card Payment,15587.94,77.94,Completed,Shopping,Mobile,Congo,False,True,False,1.9957621512909556,False,-1,True
+98650,4937,2025-10-20 14:00:41.769060,Online Purchase,60742.22,303.71,Completed,Groceries,Mobile,Western Sahara,False,True,True,8.107193747246532,True,-1,True
+98723,1524,2025-01-07 15:32:01.293337,ATM Withdrawal,9635.04,48.18,Completed,Subscriptions,Mobile,Jordan,False,False,False,1.1900635298631763,False,-1,True
+98755,1729,2026-04-23 17:30:29.321849,Online Purchase,8941.14,44.71,Completed,Subscriptions,Mobile,Kuwait,False,False,False,1.0961472414308597,False,-1,True
+98843,4638,2025-04-07 10:48:59.634804,Card Payment,59055.5,295.28,Completed,Shopping,Mobile,Guyana,False,True,True,7.87890367371352,True,-1,True
+98904,3598,2025-12-31 23:55:18.471094,Online Purchase,94869.99,474.35,Completed,Restaurants,Mobile,Malaysia,False,True,True,12.72623610330901,True,-1,True
+98906,1049,2024-08-27 03:41:46.988659,Card Payment,8914.01,44.57,Completed,Entertainment,Tablet,Afghanistan,False,False,False,1.0924753162180498,False,-1,True
+99002,2325,2025-05-03 23:21:18.284588,Bank Transfer,8915.47,44.58,Completed,Groceries,Mobile,Peru,False,False,False,1.092672920744799,False,-1,True
+99054,517,2025-10-24 23:38:05.812529,Bank Transfer,9297.27,46.49,Completed,Groceries,Mobile,Belgium,False,False,False,1.1443478579453443,False,-1,True
+99142,4498,2026-02-11 13:38:30.034445,Card Payment,9164.22,45.82,Completed,Subscriptions,Mobile,Saint Vincent and the Grenadines,False,False,False,1.1263401303535878,False,-1,True
+99266,4706,2025-12-09 23:09:52.785366,Card Payment,17301.98,86.51,Completed,Entertainment,Mobile,Costa Rica,False,True,False,2.2277498656943675,False,-1,True
+99386,2609,2025-12-20 04:42:51.650146,Card Payment,9356.47,46.78,Pending,Travel,Mobile,Tonga,False,False,False,1.1523603154683204,False,-1,True
+99398,2851,2026-03-10 19:26:11.710116,Online Purchase,54387.18,271.94,Completed,Shopping,Desktop,India,False,True,True,7.247067259800346,True,-1,True
+99454,341,2026-05-13 01:59:25.560472,Card Payment,48112.64,240.56,Completed,Shopping,Mobile,Cambodia,False,True,True,6.397836090438614,True,-1,True
+99552,4775,2024-08-12 06:27:20.685086,Card Payment,9255.79,46.28,Completed,Entertainment,Mobile,Saint Vincent and the Grenadines,False,False,False,1.1387337238566104,False,-1,True
+99765,4554,2025-12-18 13:51:08.262164,Online Purchase,17652.24,88.26,Completed,Shopping,Mobile,Cyprus,False,True,False,2.275156003734868,False,-1,True
+99774,1122,2024-08-25 22:48:52.983207,Online Purchase,9023.44,45.12,Completed,Healthcare,Mobile,Brazil,False,False,False,1.1072861815345918,False,-1,True
+99898,1951,2024-10-18 09:24:19.552888,Bank Transfer,9438.04,47.19,Completed,Subscriptions,Mobile,Austria,False,False,False,1.163400453308678,False,-1,True
+99963,614,2025-09-02 11:38:08.530554,Online Purchase,8934.5,44.67,Completed,Travel,Mobile,Korea,False,False,False,1.0952485468708502,False,-1,True
+99982,3446,2025-10-29 01:00:03.736363,Card Payment,76987.46,384.94,Completed,Travel,Desktop,Armenia,False,True,True,10.305914954181542,True,-1,True
