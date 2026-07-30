@@ -1,10 +1,12 @@
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
-from dotenv import load_dotenv
+from pathlib import Path
 import os
 
-# Load environment variables
-load_dotenv()
+from dotenv import load_dotenv
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+
+BASE_DIR = Path(__file__).resolve().parent
+load_dotenv(BASE_DIR / ".env")
 
 DB_HOST = os.getenv("DB_HOST")
 DB_PORT = os.getenv("DB_PORT")
@@ -27,7 +29,6 @@ SessionLocal = sessionmaker(
     autoflush=False,
     bind=engine
 )
-
 
 def get_db():
     db = SessionLocal()

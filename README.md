@@ -1,4 +1,6 @@
 # FinHealth Monitor
+Python • FastAPI • PostgreSQL • Scikit-learn • Prophet • Claude AI
+![Executive Summary](docs/executive-summary.png)
 
 **AI-powered financial intelligence platform for fraud detection, anomaly monitoring, forecasting and executive decision support.**
 
@@ -7,6 +9,16 @@ FinHealth Monitor is a portfolio project that simulates how a fintech company ca
 Instead of analysing isolated metrics, the platform integrates data engineering, business intelligence, anomaly detection, forecasting and AI-generated executive reports into a unified financial monitoring pipeline.
 
 ---
+## Project Highlights
+
+- End-to-end financial intelligence platform
+- Synthetic fintech transaction simulation
+- Fraud detection using business rules and Isolation Forest
+- Statistical anomaly detection with Z-Score
+- Revenue forecasting with Prophet
+- AI-generated executive reports using Claude
+- FastAPI REST API
+- PostgreSQL analytical views
 
 ## Business Problem
 
@@ -46,23 +58,21 @@ The platform follows an end-to-end analytical pipeline, transforming raw transac
 Synthetic Data
         │
         ▼
- PostgreSQL Database
+PostgreSQL
         │
         ▼
- SQL Business Views
+SQL Analytics
         │
-        ├──────────────┐
-        ▼              ▼
-Machine Learning   Revenue Forecasting
-(Isolation Forest,     (Prophet)
- Z-Score)
-        │              │
-        └──────┬───────┘
-               ▼
-      FastAPI REST API
-               │
-               ▼
- Claude AI Executive Reports
+ ┌──────┼────────┐
+ ▼      ▼        ▼
+Fraud  Forecast Customer
+Model   Model    Metrics
+ │       │         │
+ └───────┼─────────┘
+         ▼
+ FastAPI REST API
+         ▼
+ Claude Executive Summary
 ```
 
 ---
@@ -163,13 +173,18 @@ The project exposes its analytical services through a FastAPI application.
 
 | Endpoint | Description |
 |----------|-------------|
-| `/executive-summary` | AI-generated executive report |
+| `/overview` | Business overview metrics |
+| `/customers` | Customer metrics |
 | `/forecast` | Revenue forecast |
-| `/anomalies` | Detected anomalies |
-| `/monthly-metrics` | Business metrics |
+| `/anomalies` | Fraud & anomaly summary |
+| `/executive-summary` | AI-generated executive report |
 | `/health` | API health check |
 
 Interactive documentation is available through Swagger UI.
+
+Swagger:
+
+http://127.0.0.1:8000/docs
 
 ---
 
@@ -202,6 +217,8 @@ Rather than focusing on a single model or dashboard, FinHealth Monitor integrate
 
 ## How to Run
 
+## How to Run
+
 ```bash
 git clone https://github.com/robertaNicolle/finhealth_monitor.git
 
@@ -209,14 +226,16 @@ cd finhealth_monitor
 
 pip install -r requirements.txt
 
+cp .env.example .env
+
 uvicorn api.main:app --reload
 ```
 
+Configure your PostgreSQL credentials and Anthropic API key inside `.env` before running the application.
+
 Open:
 
-```
 http://127.0.0.1:8000/docs
-```
 
 to access the interactive API documentation.
 
