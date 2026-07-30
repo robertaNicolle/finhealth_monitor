@@ -217,8 +217,6 @@ Rather than focusing on a single model or dashboard, FinHealth Monitor integrate
 
 ## How to Run
 
-## How to Run
-
 ```bash
 git clone https://github.com/robertaNicolle/finhealth_monitor.git
 
