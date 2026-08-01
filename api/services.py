@@ -1,9 +1,10 @@
 from sqlalchemy import text
 from anthropic import Anthropic
-from prompts import executive_summary_prompt
 from dotenv import load_dotenv
 import os
 import json
+
+from api.prompts import executive_summary_prompt
 
 load_dotenv()
 print(os.getenv("ANTHROPIC_API_KEY"))
