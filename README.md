@@ -1,101 +1,178 @@
 # FinHealth Monitor
-Python • FastAPI • PostgreSQL • Scikit-learn • Prophet • Claude AI
-![Executive Summary](docs/executive-summary.png)
 
-**AI-powered financial intelligence platform for fraud detection, anomaly monitoring, forecasting and executive decision support.**
+Python • FastAPI • PostgreSQL • Scikit-learn • Prophet • Claude AI • Power BI
 
-FinHealth Monitor is a portfolio project that simulates how a fintech company can monitor operational performance, detect suspicious financial behaviour and support executive decision-making using machine learning, SQL analytics and Large Language Models.
+![Architecture](docs/banner.png)
 
-Instead of analysing isolated metrics, the platform integrates data engineering, business intelligence, anomaly detection, forecasting and AI-generated executive reports into a unified financial monitoring pipeline.
+AI-powered financial intelligence platform that combines machine learning, SQL analytics, forecasting and Large Language Models to support executive decision-making.
 
 ---
-## Project Highlights
 
-- End-to-end financial intelligence platform
-- Synthetic fintech transaction simulation
-- Fraud detection using business rules and Isolation Forest
-- Statistical anomaly detection with Z-Score
-- Revenue forecasting with Prophet
-- AI-generated executive reports using Claude
-- FastAPI REST API
-- PostgreSQL analytical views
+## Live Demo
 
-## Business Problem
+**Swagger API**
+https://finhealth-monitor-api.onrender.com/docs
+
+**GitHub**
+https://github.com/robertaNicolle/finhealth_monitor
+
+---
+
+## Executive Summary
+
+![Executive Summary](docs/executive-summary.png)
+
+FinHealth Monitor simulates the analytical ecosystem of a modern fintech.
+
+Instead of analysing isolated metrics, the platform integrates:
+
+- Business Intelligence
+- Machine Learning
+- Forecasting
+- Fraud Detection
+- Customer Analytics
+- Executive Reporting powered by Claude AI
+
+The objective is to transform operational data into strategic business decisions.
+
+---
+
+# Project Highlights
+
+- End-to-end Data Science project
+- Synthetic fintech dataset (100,000+ transactions)
+- Fraud Detection
+- Isolation Forest anomaly detection
+- Z-Score statistical monitoring
+- Revenue forecasting using Prophet
+- SQL Analytics
+- REST API with FastAPI
+- AI-generated executive reports
+- Power BI Dashboard
+
+---
+
+# Business Problem
 
 Financial institutions process thousands of transactions every day.
 
-Monitoring business performance requires much more than tracking revenue. Risk teams must identify fraudulent behaviour, detect operational anomalies, understand customer dynamics and anticipate future trends before they become business problems.
+Business teams must simultaneously monitor:
 
-Although these analyses often exist separately, executive teams need a single source of truth capable of transforming raw data into actionable business insights.
+- Revenue
+- Customer acquisition
+- Customer churn
+- Fraud
+- Operational anomalies
+- Financial forecasting
 
-FinHealth Monitor was developed to simulate this decision-support workflow.
-
----
-
-## Solution
-
-FinHealth Monitor combines multiple analytical components into a single financial intelligence pipeline.
-
-The project integrates:
-
-- SQL-based business metrics
-- Machine Learning anomaly detection
-- Revenue forecasting
-- Fraud monitoring
-- Customer analytics
-- Executive reports generated with Large Language Models
-- REST API built with FastAPI
-
-The objective is to simulate how a financial institution could centralise operational intelligence and support executive decision-making.
+Although these analyses usually exist independently, executives require a unified platform capable of converting raw data into strategic recommendations.
 
 ---
 
-## Architecture
+# Solution
 
-The platform follows an end-to-end analytical pipeline, transforming raw transactional data into business insights and executive decision support.
+FinHealth Monitor centralises business intelligence into a single analytical pipeline.
 
-```text
-Synthetic Data
-        │
-        ▼
-PostgreSQL
-        │
-        ▼
-SQL Analytics
-        │
- ┌──────┼────────┐
- ▼      ▼        ▼
-Fraud  Forecast Customer
-Model   Model    Metrics
- │       │         │
- └───────┼─────────┘
-         ▼
- FastAPI REST API
-         ▼
- Claude Executive Summary
-```
+The project combines:
+
+- PostgreSQL
+- SQL Views
+- Machine Learning
+- Forecasting
+- REST API
+- Large Language Models
+
+creating an end-to-end financial intelligence workflow.
 
 ---
 
-## Key Features
+# Architecture
 
-- Synthetic financial data generation
-- PostgreSQL relational database
-- SQL analytical views
-- Fraud detection rules
-- Anomaly detection using Isolation Forest
-- Statistical anomaly detection using Z-Score
-- Revenue forecasting with Prophet
-- AI-generated executive reports using Claude
-- REST API built with FastAPI
-- Modular project structure
+![Architecture](docs/architecture.png)
 
 ---
 
-## Tech Stack
+# Dashboard
 
-| Category | Technologies |
-|----------|--------------|
+![Dashboard](docs/dashboard.png)
+
+The Power BI dashboard provides executive visibility into:
+
+- Revenue
+- Fraud Rate
+- Customer Metrics
+- Forecasting
+- Operational KPIs
+
+---
+
+# Machine Learning
+
+## Fraud Detection
+
+The project combines three complementary approaches:
+
+- Business Rules
+- Isolation Forest
+- Z-Score
+
+Using multiple detection strategies improves robustness compared to relying on a single model.
+
+---
+
+## Model Evaluation
+
+### Isolation Forest
+
+| Metric | Value |
+|---------|-------|
+| Precision | 0.02 |
+| Recall | 0.01 |
+| F1-score | 0.01 |
+
+Although Isolation Forest successfully detects anomalies, the evaluation demonstrates why unsupervised methods should be combined with business rules instead of being used independently.
+
+---
+
+### Revenue Forecast
+
+| Metric | Value |
+|---------|-------|
+| MAE | 227.68 |
+| RMSE | 409.48 |
+| MAPE | 39.69% |
+
+Forecast generated using Facebook Prophet.
+
+![Forecast](docs/forecast_results.png)
+
+---
+
+# REST API
+
+The analytical services are exposed through FastAPI.
+
+## Available Endpoints
+
+| Endpoint | Description |
+|-----------|-------------|
+| /overview | Business overview |
+| /customers | Customer analytics |
+| /forecast | Revenue forecasting |
+| /anomalies | Fraud & anomaly summary |
+| /executive-summary | AI-generated executive report |
+| /health | Health check |
+
+Swagger UI:
+
+https://finhealth-monitor-api.onrender.com/docs
+
+---
+
+# Technologies
+
+| Layer | Technologies |
+|---------|-------------|
 | Programming | Python |
 | Database | PostgreSQL |
 | Data Analysis | Pandas, NumPy |
@@ -104,11 +181,11 @@ Model   Model    Metrics
 | API | FastAPI |
 | ORM | SQLAlchemy |
 | AI | Anthropic Claude |
-| Visualisation | Power BI |
+| Dashboard | Power BI |
 
 ---
 
-## Project Structure
+# Repository Structure
 
 ```text
 finhealth_monitor/
@@ -116,6 +193,7 @@ finhealth_monitor/
 ├── api/
 ├── dashboard/
 ├── data/
+├── docs/
 ├── notebooks/
 ├── scripts/
 ├── sql/
@@ -125,97 +203,7 @@ finhealth_monitor/
 
 ---
 
-## Machine Learning
-
-FinHealth Monitor combines multiple analytical techniques to identify suspicious financial behaviour.
-
-### Fraud & Anomaly Detection
-
-- Rule-based fraud detection
-- Isolation Forest for unsupervised anomaly detection
-- Z-Score statistical anomaly detection
-
-The combination of these approaches increases the reliability of anomaly identification by comparing business rules with machine learning predictions.
-
-### Revenue Forecasting
-
-Future revenue is estimated using Facebook Prophet, allowing the platform to project business performance and support strategic planning.
-
----
-
-## AI Executive Reports
-
-One of the main features of the platform is the integration with Anthropic Claude.
-
-Instead of displaying only charts and KPIs, the system automatically generates executive reports that transform business metrics into actionable insights.
-
-Each report includes:
-
-- Executive Score
-- Risk Level
-- Business Performance
-- Fraud Analysis
-- Anomaly Analysis
-- Customer Analysis
-- Key Strengths
-- Main Risks
-- Executive Recommendations
-
-This simulates how executives consume analytical information inside modern financial institutions.
-
----
-
-## REST API
-
-The project exposes its analytical services through a FastAPI application.
-
-### Main Endpoints
-
-| Endpoint | Description |
-|----------|-------------|
-| `/overview` | Business overview metrics |
-| `/customers` | Customer metrics |
-| `/forecast` | Revenue forecast |
-| `/anomalies` | Fraud & anomaly summary |
-| `/executive-summary` | AI-generated executive report |
-| `/health` | API health check |
-
-Interactive documentation is available through Swagger UI.
-
-Swagger:
-
-http://127.0.0.1:8000/docs
-
----
-
-## Results
-
-The project demonstrates an end-to-end analytical workflow, covering:
-
-- Data generation
-- SQL modelling
-- Business analytics
-- Machine Learning
-- Forecasting
-- AI-generated executive reporting
-- REST API development
-
-Rather than focusing on a single model or dashboard, FinHealth Monitor integrates multiple technologies into a unified financial intelligence platform.
-
----
-
-## Future Improvements
-
-- Interactive Power BI dashboard
-- Real-time data ingestion
-- Authentication and user management
-- Cloud deployment
-- CI/CD pipeline
-- Automated monitoring
-
----
-
-## How to Run
+# Getting Started
 
 ```bash
 git clone https://github.com/robertaNicolle/finhealth_monitor.git
@@ -229,22 +217,36 @@ cp .env.example .env
 uvicorn api.main:app --reload
 ```
 
-Configure your PostgreSQL credentials and Anthropic API key inside `.env` before running the application.
+Open
 
-Open:
-
+```
 http://127.0.0.1:8000/docs
-
-to access the interactive API documentation.
+```
 
 ---
 
-## Author
+# Future Improvements
 
-**Roberta Soares**
+- Real-time streaming
+- Authentication
+- CI/CD
+- Docker
+- Kubernetes deployment
+- Model monitoring
+- Automated retraining
 
-Data Analytics | Data Science | Machine Learning | Artificial Intelligence
+---
 
-GitHub: https://github.com/robertaNicolle
+# Author
 
-LinkedIn: https://linkedin.com/in/roberta-soares-dev
+## Roberta Soares
+
+Data Science • Machine Learning • Artificial Intelligence
+
+GitHub
+
+https://github.com/robertaNicolle
+
+LinkedIn
+
+https://linkedin.com/in/roberta-soares-dev
