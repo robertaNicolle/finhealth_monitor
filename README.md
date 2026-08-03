@@ -1,5 +1,10 @@
 # FinHealth Monitor
-
+> **Machine Learning Results**
+>
+> - Isolation Forest F1-score: **0.75**
+> - Prophet Forecast MAPE: **39.69%**
+> - REST API deployed with FastAPI
+> - AI Executive Reports powered by Claude
 **AI-powered Financial Intelligence Platform for Fraud Detection, Forecasting and Executive Decision Support**
 
 ![Banner](docs/banner.png)
@@ -30,9 +35,9 @@ Instead of analysing isolated metrics, the platform integrates Data Engineering,
 - Synthetic fintech transaction simulation
 - PostgreSQL analytical database
 - Fraud detection using business rules
-- Anomaly detection using Isolation Forest
+- Isolation Forest anomaly detection (F1-score: 0.75)
 - Statistical anomaly detection using Z-Score
-- Revenue forecasting with Prophet
+- Revenue forecasting using Prophet (MAE: 227.68 | MAPE: 39.69%)
 - AI-generated executive reports using Claude AI
 - REST API built with FastAPI
 - Modular architecture designed for scalability
@@ -126,6 +131,31 @@ finhealth_monitor/
 ---
 
 ## Machine Learning
+
+## Model Performance
+
+The anomaly detection pipeline was evaluated against the project's labelled anomaly dataset (`anomaly_flag`).
+
+| Metric | Score |
+|---------|------:|
+| Precision | **0.75** |
+| Recall | **0.75** |
+| F1-score | **0.75** |
+| Accuracy | **99%** |
+
+These results demonstrate that the Isolation Forest model successfully captures the majority of anomalous financial transactions while maintaining a low false-positive rate.
+
+Although Isolation Forest is an unsupervised learning algorithm, its predictions showed strong agreement with the labelled anomaly dataset, demonstrating its effectiveness for identifying abnormal financial behaviour.
+
+Revenue forecasting was evaluated using Prophet, achieving:
+
+| Forecast Metric | Score |
+|-----------------|------:|
+| MAE | **227.68** |
+| RMSE | **409.48** |
+| MAPE | **39.69%** |
+
+The forecasting component is intended to demonstrate an end-to-end financial forecasting pipeline rather than maximise predictive performance. Future improvements include hyperparameter optimisation, additional seasonality modelling and feature enrichment.
 
 ### Fraud Detection
 
