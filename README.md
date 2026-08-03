@@ -4,6 +4,16 @@
 
 ![Banner](docs/banner.png)
 
+## Live Demo
+
+### REST API
+
+https://finhealth-monitor-api.onrender.com
+
+### Interactive Documentation (Swagger)
+
+https://finhealth-monitor-api.onrender.com/docs
+
 ---
 
 ## Project Overview
@@ -197,8 +207,9 @@ The notebook includes:
 ---
 
 ## Dashboard
+## Dashboard
 
-An interactive Power BI dashboard is currently under development and will be included in the next release.
+🚧 An interactive Power BI dashboard is currently under development and will be included in the next release.
 
 The dashboard will provide:
 
